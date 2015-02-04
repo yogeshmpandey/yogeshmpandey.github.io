@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Will fill this space with some awesome content later.
+
+This Blog is sort of braindump.
+Views Expressed here are my own.
 
 ### Contact me
 
