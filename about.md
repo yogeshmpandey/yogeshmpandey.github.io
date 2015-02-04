@@ -10,4 +10,4 @@ Views Expressed here are my own.
 
 ### Contact me
 
-[yogesh38726@gmail.com](mailto:yogesh38726@gmail.com)
+[Email](mailto:yogesh38726@gmail.com)
