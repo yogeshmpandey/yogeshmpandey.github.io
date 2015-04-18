@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ovs Commands"
+date:   2015-03-23 23:52:38
+categories: ovs
+---
+
 Here is a list of ovs commands that i use on everyday basis. Jotting them down so that i don't have to do history | grep 'ovs' everytime.
 
 Basic commands : Most day to day used commands in ovs.

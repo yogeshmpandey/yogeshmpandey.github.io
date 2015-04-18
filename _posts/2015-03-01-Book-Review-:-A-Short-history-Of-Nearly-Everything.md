@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Book Review"
+date:   2015-03-23 23:52:38
+categories: review
+---
+
 In the first week December I bought this book as someone recommended it to me. 10 minutes after picking up this book you might think what all in history could possibly come in 650 pages, but behold my friend this book is nectar of the human knowledge known to man at present (which could be arguably right or logically wrong). The book has 30 chapters covering everything from the Universe, planet and the improbable probability of human existence. Bill Bryson had spent painstakingly 3 years of his life to write this gem down to perfection. I hope i had read this before VIth standard. It has nothing beyond the curriculum of secondary student but the way the author has presented and deliberately kept the readers fixed to the pages by adding a tinge of secrecy, and whoa factor is just awesome.
 
 In first five chapters you will probably face existential crisis by knowing that we are nothing more than a speck of dust in this entire universe. But also somethings in the book are complex and goes beyond human mind (at-least my mind). It is a very engaging read and more importantly, it acknowledges its limitations and also the limitations of the facts contained in it.

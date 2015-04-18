@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "my last tie"
+date:   2015-03-10 23:52:38
+categories: personal
+---
+
+
 >mylasttie was a post that went viral on reddit few days ago. It is about a person who is diagnosed with cancer early and want to sum up all the things he thinks and wanted to say, so in his respect i am starting my first blog post quoting all /u/mylasttie wrote in the post. To give a litte push to these gems in the online world.
 
 

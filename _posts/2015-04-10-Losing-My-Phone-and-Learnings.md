@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Losing My Phone"
+date:   2015-04-10 23:52:38
+categories: android
+---
+
+
 On fifteenth of September my best buddy gifted me my first Android phone and I am in love with Android ever since, but I never knew that this happiness will last for only six months.
 This is the story on how I lost my phone and how I tracked it down till the point that I spoke to the guy that has it now, and what all lessons I learned from it.
 
