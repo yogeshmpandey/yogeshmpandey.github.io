@@ -24,4 +24,9 @@ The twitter library that i am using is available [here](https://github.com/sixoh
 
 You can use the code to interact with any machine or system that exposes a high level Api.(Like a personalised [IFTTT](https://ifttt.com/) software but much more effective.)
 
+Maybe this is what we can get in the future.
+
+
+<img src="/images/iot.jpg" alt="">
+
 Reuse and Happy Hacking. 
