@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maharashtra Diaries"
-date:   2015-06-29 20:12:38
+date:   2015-07-29 23:12:38
 categories: travel
 image:
   background: ps_neutral.png
