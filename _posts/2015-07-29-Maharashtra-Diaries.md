@@ -12,6 +12,8 @@ image:
 
 I wanted to go to mumbai from a long long time. So planned this trip on the birthday of my best friend. Initially everything was chaotic but google maps and good 3G connection came to our rescue. In the three days trip whatever could have possibly gone wrong did, be it unwanted rains, missing trains, overcharged autos, getting caught in mumbai local while travelling ticketless (Murphy's Law :p). But all these were the things that made it all interesting and exciting, and not to forget some awesome moments we shared. 
 
+### FootPrints
+
 <img src="/images/mum_trip/1.png" alt="">
 
 Day 1 : The Incoming :)
