@@ -13,6 +13,7 @@ This will go in the diary.
 
 However and excerpt   
 
+
 >Your absence has gone through me,  
 >Like thread through a needle   
 >Everything I do is stitched with its color.   
@@ -22,5 +23,4 @@ However and excerpt
 >A man so strong like you, i will never find other,  
 >wherever you are happy birthday, dear brother  
 
-- first stanza : "seperation" by W. S. Merwin
-
+- First stanza : "seperation" by W. S. Merwin
