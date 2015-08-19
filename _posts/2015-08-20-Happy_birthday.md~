@@ -17,9 +17,11 @@ However and excerpt
 >Your absence has gone through me,  
 >Like thread through a needle   
 >Everything I do is stitched with its color.   
+
 >All these regrets, rips my soul apart   
 >Circling our souls and lives in one another,   
 >but still i hold, a deep commune in my heart    
+
 >A man so strong like you, i will never find other,  
 >wherever you are happy birthday, dear brother  
 
