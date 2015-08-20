@@ -6,13 +6,14 @@ categories: life
 image:
   background: ps_neutral.png
 ---
-<img src="/images/prashant/1.png" alt="">
+<img src="/images/prashant/2.jpg" alt="">
 
 Today i would have been celebrating my brother's 22nd birthday. I want to write so many things, all those beautiful memories of our childhood that morphed into what i am today. But i suppose this is not a platform to do so.
 This will go in the diary.
 
 However and excerpt :-   
 
+<img src="/images/prashant/1.png" alt="">
 
 >Your absence has gone through me,  
 >Like thread through a needle   
