@@ -6,6 +6,6 @@ categories: travel, life
 image:
   background: ps_neutral.png
 ---
-<img src="https://lh3.googleusercontent.com/1nzI-Z24n22XM0oArff-GUYAekd3uaVjaVKFeQnA7NM=w1208-h635-no" alt="">
+<img src="https://lh3.googleusercontent.com/1nzI-Z24n22XM0oArff-GUYAekd3uaVjaVKFeQnA7NM=w1208-h635-no" alt="Taken at Meenakshi Temple Madurai">
 
 Working on the post
