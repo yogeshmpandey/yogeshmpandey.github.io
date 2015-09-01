@@ -2,7 +2,7 @@
 layout: post
 title:  "TamilNadu Trails"
 date:   2015-08-25 00:02:38
-categories: travel, life
+categories: travel life
 image:
   background: ps_neutral.png
 ---
@@ -15,7 +15,7 @@ Weekend #1:
 In first week of chennai, I really wanted to explore chennai, visit nearby villages and see the culture of the local people. In all my confidence sat om a train that would lead me to some place, I planned to exit on the third station. It was a dusky evening. Went out of the station visited nearby city, drank Kope (filter coffee), eat something that was not that tasty somehow i forgot its name too. So after an hour or two of exploring i went back to the station sat in the next train and went back to chennai.Friday Ends.
 Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.	
 
-<img src="https://drive.google.com/open?id=0Bz3LejR85IEETWVEU2ZuMnpUSTA" alt="">
+<img src="https://drive.google.com/open?id=0Bz3LejR85IEEaHN2dTQydHl5N2c" alt="">
 
 In the evening i found out that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. Places covered on sunday:
 
