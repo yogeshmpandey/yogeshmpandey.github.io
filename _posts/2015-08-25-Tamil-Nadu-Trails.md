@@ -66,11 +66,6 @@ To Our amazement we found ourselves in the hidden twin beaches. The view of the 
 <img src="https://lh5.googleusercontent.com/rbe96zR2QT0xRk2qiLo3Mmby_hEKrtWtqYc-IOf72Ty-yWnDas-_iAQC2JbKwr-H1VIhzA=w1280-h561" alt="">
 
 
-
-
-
-
-
 Moved back to the hotel with an great memory and a heavy heart.In the night visited local markets and lonely roads of the city. The city view from our hotel was also very colossal the brilliant stars in a twilight sky kept us questioning the meaning of everything.
 
 <img src="https://lh4.googleusercontent.com/zP5ibR2D0sfHKaKGHcb81ANxajljkLy-4c7v6nJgRT9REzPt7HS-XRW6lTA7iPg5Z3LmIA=w1280-h561" alt="">
@@ -86,18 +81,47 @@ From there we took a jetty to the Vivekananda Rock Memorial.Thiruvalluvar Statue
 
 <img src="https://lh3.googleusercontent.com/d8U1m_DfhiLDCuxoL8WoQTMyutRxa1tFWx9dQ6cnCS4VMUjlyKLbFWnBZ1ljbmDTPr8CIg=w1280-h561" alt="">
 
-We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we decided to explore the city. Since the time was less we were left to pick only place. So we decided to visit meenkashi amman temple.The temple is the most prominent and sacrec landmark and most visited tourist attraction in the city. It boasts of its magnificient architecture and historical relevnece.
 
-Due to some personal reasons i didn't wanted to vist temple but really wanted to explore the magnificient architecture and temple museum, So i decided not to go in the main area but explore the archiecture. The size of this temple is massive and the whole city was laid out in the shape of square with a series of concentric streets culminating from the temple (amazing isn't it). I was wearing shorts and didnt knew that the visitors were required to wear full dresses before going inside. I was warned by my friends but i didn't cared back then.Next i was given a mundu(lungi) to wear by the temple staff and then we went inside.The architecture was echoing greandeur and magnificence It was sad to see that the temple(the shrine) prohibited the entry of non-hindus prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma. Then we visited the 1000 pillers hall museum, captured the exotic architecture and momories and retured to the bus stand after returning the lungi.
+We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we decided to explore the city. Since the time was less we were left to pick only place. So we decided to visit meenkashi amman temple.The temple is the most prominent and sacrec landmark and most visited tourist attraction in the city. It boasts of its magnificient architecture and historical relevence.
+
+<img src="https://lh5.googleusercontent.com/g28BimBZYpUOfkReuIV5u1SuuBtqVhtyBvos0HbPAxNsheY07n66Om03dKfC57OOHN2XPA=w1280-h561" alt="">
+
+Due to some personal reasons i didn't wanted to visit the temple but really wanted to explore the magnificient architecture and temple museum, So i decided not to go in the main area but explore the archiecture. The size of this temple is massive and the whole city was laid out in the shape of square with a series of concentric streets culminating from the temple (amazing isn't it). 
+
+I was wearing shorts and didnt knew that the visitors were required to wear full dresses before going inside. I was warned by my friends but i didn't cared back then. Next, I was given a mundu(lungi) to wear by the temple staff and then we went inside.The architecture was echoing greandeur and magnificence.It was sad to see that the temple(the shrine) prohibited the entry of non-hindus prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma. 
+
+Then we visited the 1000 pillers hall museum, captured the exotic architecture and momories and retured to the bus stand after returning the lungi.
 
 ### Weekend #3:
 
 
-This trip was the cherry on top of my tamilnadu trails. Two of my bestbuddies came over to chennai to visit pondicherry and nearby places.
+This weekend was the cherry on top of my tamilnadu trails. Two of my bestbuddies came over to chennai to visit pondicherry and nearby places.
 We started off at 9:00 am and took a bus to mahabalipuram.There we visiteda group of monuments that have been classified as a UNESCO World Heritage Site.
+<img src="https://lh3.googleusercontent.com/iXnX9gF5TNUVcxl49-zDE5I1KAT9Pb7y7lO6mytddvugfhDxGcKSLFznKBrs62uqiPHELA=w1280-h561" alt="">
 
-<Pics>
+<img src="https://lh5.googleusercontent.com/eQITOoSiK1yXiAbFznhkIy059KuLgGHDbLhUBoMzHCEsHttZKRjwqb7KGIrhZbVryR-xFQ=w1280-h561" alt="">
 
-From Mahabalipuram we went to pondicherry, reached pondi pretty late in the evening. Went to gandhi beach after resting a bit in the hotel room. To our luck that night was a full moon night and the sea view from the shore was just out out the world. Gleaming moon with a halo of orange tinge in the middle of the horizon in a clear sky took my breaths away. The refection of the moon in the night sea looked like molten silver making the landscape just perfect. Later we went to the french establishments and had dinner in a famous home restaurent. Food was authentic and rich in taste and the owners were very welcoming.Roamed chatted and had fun till 12 am in the streets and went back to  the hotel.
+<img src="https://lh3.googleusercontent.com/s_AlcnLpXmOr19klPZUvsYVYoVRRRJhKE4eb52klAKhqcf0ThhwM_RwAe2yDSC5M5jf5DQ=w1280-h561" alt="">
 
-Next morning woke up early to view the sunrise.From there went to paradise beach but boating was closed so we headed to Auroville. First Auroville is way too awesome, Prettly laid back lifestlye and superb idea of the establishment.According to Wikipedia Auroville is meant to be a universal town where men and women of all countries are able to live in peace and progressive harmony, above all creeds, all politics and all nationalities. The purpose of Auroville is to realize human unity. How Awesome is that on first thoughts then we thought about its economy and how it would run but neverthless enjoyed here too. Later in evening we packed our stuff and came back to chennai. And bid goodbyes to old friends. Again followed by a sleepless night
+<img src="https://lh4.googleusercontent.com/uvZzkWq_f3UsrV9EHct67TsJngeLL5j-H9vk-EEIiVAggTje4aLZbUVJ70hKX-qz6poANA=w1280-h561" alt="">
+
+
+From Mahabalipuram we went to pondicherry, reached pondi pretty late in the evening. Went to gandhi beach after resting a bit in the hotel room. To our luck that night was a full moon night and the sea view from the shore was just out out the world. Gleaming moon with a halo of orange tinge in the middle of the horizon in a clear sky took my breaths away. The refection of the moon in the night sea looked like molten silver making the landscape just perfect. 
+
+<img src="https://lh6.googleusercontent.com/la23FL8xIh9Cy7aAXyPuZu4U22zaLD_7XtoD2PulyzRo_T1T124_0iokIw3Mz7lBb45YGQ=w1280-h561" alt="">
+
+Later we went to the french establishments and had dinner in a famous <a href="https://www.facebook.com/lapastaworld">home restaurant</a>. Food was authentic and rich in taste and the owners were very welcoming. Roamed chatted and had fun till 12 am in the streets and went back to  the hotel.
+
+<img src="https://lh6.googleusercontent.com/PEYpXvpduMWs2xKhBjm5uDK0boe9VBbBWwgAb-nKYBszTQqHni8-20en5Qinqlao_zM9Bg=w1280-h561" alt="">
+
+<img src="https://lh5.googleusercontent.com/TAECVHoHLzUsSvBSFxaKWyC7WWom99v7h0ut04WQ1-rRoIWhwXm5bviVZ5qHdPBWVEVpeQ=w1280-h561" alt="">
+
+Next morning woke up early to view the sunrise.From there went to paradise beach but boating was closed so we headed to Auroville. Firstly Auroville is way too awesome, Prettly laid back lifestlye and superb idea of the establishment.
+
+
+<img src="http://www.auroville.org/system/slideshow_images/images/000/000/004/slideshow/Galaxy490.jpg" alt="">
+
+
+According to Wikipedia Auroville is meant to be a universal town where men and women of all countries are able to live in peace and progressive harmony, above all creeds, all politics and all nationalities. The purpose of Auroville is to realize human unity.
+
+How Awesome is that (on first thoughts) then we thought about its economy and how it would run but neverthless enjoyed here too. Later in evening we packed our stuff and came back to chennai. And bid goodbyes to old friends. Again followed by yet another sleepless night.
