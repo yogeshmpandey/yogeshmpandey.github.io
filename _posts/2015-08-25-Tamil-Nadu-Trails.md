@@ -7,23 +7,53 @@ image:
   background: ps_neutral.png
 ---
 <img src="https://lh3.googleusercontent.com/1nzI-Z24n22XM0oArff-GUYAekd3uaVjaVKFeQnA7NM=w1208-h635-no" alt="Taken at Meenakshi Temple Madurai">
+
 The beginning of a journey is always one of the most exciting things for a traveler. The sheer joy you get when you are headed for a new trail is something which you can’t imagine without actually going through that experience.
 
 ### Weekend #1:
 
 In first week of chennai, I really wanted to explore chennai, visit nearby villages and see the culture of the local people. In all my confidence sat om a train that would lead me to some place, I planned to exit on the third station. It was a dusky evening. Went out of the station visited nearby city, drank Kope (filter coffee), eat something that was not that tasty somehow i forgot its name too. So after an hour or two of exploring i went back to the station sat in the next train and went back to chennai.Friday Ends.
 
-Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.	
+Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.    
 
 <img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
 
-In the evening i found out that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. Places covered on sunday:
+
+<img src="https://lh5.googleusercontent.com/aEce51a5tePSmIsjqO01NVBpgbEdGITIVKoQhLMKDeU0IZmNKB_YQ0njOjPR_3SsxQsbog=w1280-h561" alt="">
+
+In the evening I found out that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. Places covered on sunday:
+
+<img src="https://lh3.googleusercontent.com/y4YuTaXSkBDz8UyD5JKpjhzcBrLz_gK3IvHwG4ye-f6AXn_3sPBneolE-i_oQ-QFZPM20H7R=w1295-h561-rw" alt="">
+
+
 
 ### Weekend #2:
 
 This was the most hectic, most enjoying trip in chennai. Our ambitious plan executed astonishingly well.
 
-Tenkasi Courtallam: It certainly was a feast to eyes to watch the gift of mother-nature. How greyish cloud kiss the forehead of uneven hills, and out of nowhere we found ourselves in this land of multiple falls. First we visited main falls which was very(very) over crowded we had literally had no place to place even foot.Where there is water there are people, and where there are people there is life. Enjoyed the view there for a while and then we moved to Five Falls.The falls were amazing. In a split second we jumped right in. The experince of the chilled water doplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street foot. Out of all things we tasted (dont remember the name but would certinaly not forget the taste) egg barota (http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html)stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
+<img src="https://lh4.googleusercontent.com/BE5q5NlMwECj-OqnACmkAioPfPO6OaR98VFXzMebkGlaNLWpvcPgIKyBSD-tP2qKIvJt1n-p=w1295-h561-rw" alt="">
+
+
+Tenkasi Courtallam: It certainly was a feast to eyes to watch the gift of mother-nature. How greyish cloud kiss the forehead of uneven hills, and out of nowhere we found ourselves in this land of multiple falls. First we visited main falls which was very(very) over crowded we had literally had no place to place even foot. Where there is water there are people, and where there are people there is life. Enjoyed the view there for a while and then we moved to Five Falls.
+
+
+<img src="https://lh5.googleusercontent.com/_AsDg40QVpqf8Vx0xufhMt6cNqjuZmRUU11IN2WsV-GJoXkV_Ek3_4bfNa1trcY14ADzAVLz=w1295-h561-rw" alt="">
+
+
+The falls were amazing. In a split second we jumped right in. The experince of the chilled water doplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street foot. Out of all things we tasted (dont remember the name but would certinaly not forget the taste) egg barota (http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html)stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
+
+<img src="https://lh5.googleusercontent.com/IROwDpWJgRBwBHZHG2T6FkOKOgp28A-A1OSAD6Ak5rYUEfTrolrxxiy03h_ckP0BWcggYw=w1280-h561" alt="">
+
+<img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
+
+<img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
+
+<img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
+
+<img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
+
+
+
 
 From there we took a sleepy 5 hour bus ride to kanyakumari. Checked in our cheapass but grand hotel thanks to makemytrip discount coupens. In the evening we set foot on the coast to explore the area.Then saw Gandhi memorial, triveni sangam (where 3 seas meet). By 5:30 pm when we were thinking of making our way back to the hotel we saw a golf cart. Unknowning where it will take us we hopeed in. To Our amazement we found ourselves in the hidden twin beaches. The view of the infinty vast ocena was very captivating. From here reached the sunset point, took some pre-sunset snaps. The weather was very clear to see the sunset.We watched with an unwavering gaze that famous sunset, as the mighty orb of light slowly sank beneath the horizon, and threads of light lingered in the sky, first orange, then red, then dark blue, until all that was left of the sun was the afterglow. In this particular moment someting inside grew more fonder. Moved back to the hotel with an great memory and a heavy heart.In the night visited local markets and lonely roads of the city. The city view from our hotel was also very colossal the brilliant stars in a twilight sky kept us questioning the meaning of everything.
 
@@ -34,6 +64,7 @@ We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we d
 Due to some personal reasons i didn't wanted to vist temple but really wanted to explore the magnificient architecture and temple museum, So i decided not to go in the main area but explore the archiecture. The size of this temple is massive and the whole city was laid out in the shape of square with a series of concentric streets culminating from the temple (amazing isn't it). I was wearing shorts and didnt knew that the visitors were required to wear full dresses before going inside. I was warned by my friends but i didn't cared back then.Next i was given a mundu(lungi) to wear by the temple staff and then we went inside.The architecture was echoing greandeur and magnificence It was sad to see that the temple(the shrine) prohibited the entry of non-hindus prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma. Then we visited the 1000 pillers hall museum, captured the exotic architecture and momories and retured to the bus stand after returning the lungi.
 
 ### Weekend #3:
+
 
 This trip was the cherry on top of my tamilnadu trails. Two of my bestbuddies came over to chennai to visit pondicherry and nearby places.
 We started off at 9:00 am and took a bus to mahabalipuram.There we visiteda group of monuments that have been classified as a UNESCO World Heritage Site.
