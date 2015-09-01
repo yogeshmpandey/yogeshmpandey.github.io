@@ -6,6 +6,8 @@ categories: travel
 image:
   background: ps_neutral.png
 ---
+<img src="https://lh3.googleusercontent.com/1nzI-Z24n22XM0oArff-GUYAekd3uaVjaVKFeQnA7NM=w1208-h635-no" alt="Taken at Meenakshi Temple Madurai">
+
 The beginning of a journey is always one of the most exciting things for a traveler. The sheer joy you get when you are headed for a new trail is something which you can’t imagine without actually going through that experience.
 
 ### Weekend #1:
@@ -63,9 +65,26 @@ To Our amazement we found ourselves in the hidden twin beaches. The view of the 
 
 <img src="https://lh5.googleusercontent.com/rbe96zR2QT0xRk2qiLo3Mmby_hEKrtWtqYc-IOf72Ty-yWnDas-_iAQC2JbKwr-H1VIhzA=w1280-h561" alt="">
 
+
+
+
+
+
+
 Moved back to the hotel with an great memory and a heavy heart.In the night visited local markets and lonely roads of the city. The city view from our hotel was also very colossal the brilliant stars in a twilight sky kept us questioning the meaning of everything.
 
-Woke up early in the morning so that we don't miss the sunrise. But the weather didn't helped us today. But still the soft amber glow grew and filled the mighty sky and clouds with colours of red and orange, the tricolored sea somehow turned more blueish.From there we took a jetty to the Vivekananda Rock Memorial.Thiruvalluvar Statue is mighty and effectivly portrays the love of tamlilans towards their culture.Brought some books from the vivekanada rock memorial and again went to explore the city.Left from there and saw may windmills and was very templted to go there.on our way back the view was so great that i could see 4 things in quantity windmills, Coconut tress, Banana trees and hills.
+<img src="https://lh4.googleusercontent.com/zP5ibR2D0sfHKaKGHcb81ANxajljkLy-4c7v6nJgRT9REzPt7HS-XRW6lTA7iPg5Z3LmIA=w1280-h561" alt="">
+
+Woke up early in the morning so that we don't miss the sunrise. But the weather didn't helped us today. But still the soft amber glow grew and filled the mighty sky and clouds with colours of red and orange, the tricolored sea somehow turned more blueish.
+
+<img src="https://lh3.googleusercontent.com/i7UMDRZZfDtvQcVlAE3-eb0J6igIobo6G01hD9OmqUvgGk7A2W34mbg3iJNYMrVse1-gfA=w1280-h561" alt="">
+
+<img src="https://lh5.googleusercontent.com/hjkkX7HiWPHCowVlApNCULb_o9LSy5d8sZBakH_PgB7sF1Dow0C3oT3c5D9Xqr19mNUrvg=w1280-h561" alt="">
+
+
+From there we took a jetty to the Vivekananda Rock Memorial.Thiruvalluvar Statue is mighty and effectivly portrays the love of tamlilans towards their culture. Brought some books from the vivekanada rock memorial and again went to explore the city. Left from there and saw may windmills and was very tempeted to go there. On our way back the view was so great that i could see 4 things in quantity windmills, Coconut tress, Banana trees and hills.
+
+<img src="https://lh3.googleusercontent.com/d8U1m_DfhiLDCuxoL8WoQTMyutRxa1tFWx9dQ6cnCS4VMUjlyKLbFWnBZ1ljbmDTPr8CIg=w1280-h561" alt="">
 
 We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we decided to explore the city. Since the time was less we were left to pick only place. So we decided to visit meenkashi amman temple.The temple is the most prominent and sacrec landmark and most visited tourist attraction in the city. It boasts of its magnificient architecture and historical relevnece.
 
