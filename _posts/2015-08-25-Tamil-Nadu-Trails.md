@@ -17,10 +17,11 @@ In first week of chennai, I really wanted to explore chennai, visit nearby villa
 Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.    
 
 <img src="https://lh4.googleusercontent.com/JahokAiCRNHDBfoz3zIomvbS9xZpMwIzzpHhuHLqLXER408qsio6Z9NJh_WptVtKa0aexg=w1280-h561" alt="">
->Guindy National Park
 
+>Guindy National Park 
 
 <img src="https://lh5.googleusercontent.com/aEce51a5tePSmIsjqO01NVBpgbEdGITIVKoQhLMKDeU0IZmNKB_YQ0njOjPR_3SsxQsbog=w1280-h561" alt="">
+_Small Bridge in the park_
 
 In the evening I found out that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. Places covered on sunday:
 
