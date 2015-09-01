@@ -16,7 +16,7 @@ In first week of chennai, I really wanted to explore chennai, visit nearby villa
 
 Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.    
 
-<img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
+<img src="https://lh4.googleusercontent.com/JahokAiCRNHDBfoz3zIomvbS9xZpMwIzzpHhuHLqLXER408qsio6Z9NJh_WptVtKa0aexg=w1280-h561" alt="">
 
 
 <img src="https://lh5.googleusercontent.com/aEce51a5tePSmIsjqO01NVBpgbEdGITIVKoQhLMKDeU0IZmNKB_YQ0njOjPR_3SsxQsbog=w1280-h561" alt="">
@@ -50,7 +50,7 @@ The falls were amazing. In a split second we jumped right in. The experince of t
 
 <img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
 
-<img src="https://lh5.googleusercontent.com/KUyXyqUls4sWXJUfjw7sUZvQeojvWTN58291NiyCp8lKJMOOD7ucsHvBoP4-Aah7N2EwwFnNA0nSau4=w1295-h561-rw" alt="">
+<img src="https://lh6.googleusercontent.com/l6fWk78Hi30JBha8J6R-wrpHLvWSDqCHBiCDbiL66Wkr7KKbX2rREYXpdo76xlSt1Og7pA=w1280-h561" alt="">
 
 
 
