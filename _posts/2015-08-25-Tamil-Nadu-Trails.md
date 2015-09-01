@@ -34,13 +34,13 @@ This was the most hectic, most enjoying trip in chennai. Our ambitious plan exec
 <img src="https://lh4.googleusercontent.com/BE5q5NlMwECj-OqnACmkAioPfPO6OaR98VFXzMebkGlaNLWpvcPgIKyBSD-tP2qKIvJt1n-p=w1295-h561-rw" alt="">
 
 
-Tenkasi Courtallam: It certainly was a feast to eyes to watch the gift of mother-nature. How greyish cloud kiss the forehead of uneven hills, and out of nowhere we found ourselves in this land of multiple falls. First we visited main falls which was very(very) over crowded we had literally had no place to place even foot. Where there is water there are people, and where there are people there is life. Enjoyed the view there for a while and then we moved to Five Falls.
+Tenkasi Courtallam: It certainly was a feast to eyes to watch the gift of mother-nature. How greyish clouds kiss the forehead of uneven hills, and out of nowhere we found ourselves in this land of multiple falls. First we visited main falls which was very very overcrowded we had literally had no place to place even foot. Where there is water there are people, and where there are people there is life. Enjoyed the view there for a while and then we moved to Five Falls.
 
 
 <img src="https://lh5.googleusercontent.com/_AsDg40QVpqf8Vx0xufhMt6cNqjuZmRUU11IN2WsV-GJoXkV_Ek3_4bfNa1trcY14ADzAVLz=w1295-h561-rw" alt="">
 
 
-The falls were amazing. In a split second we jumped right in. The experince of the chilled water doplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street foot. Out of all things we tasted (dont remember the name but would certinaly not forget the taste) egg barota (http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html)stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
+These falls were amazing. In a split second we jumped right in. The experince of the chilled water doplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street foot. Out of all things we tasted (dont remember the name but would certinaly not forget the taste) egg barota (http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html)stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
 
 <img src="https://lh5.googleusercontent.com/IROwDpWJgRBwBHZHG2T6FkOKOgp28A-A1OSAD6Ak5rYUEfTrolrxxiy03h_ckP0BWcggYw=w1280-h561" alt="">
 
