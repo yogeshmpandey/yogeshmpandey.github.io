@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TamilNadu Trails"
+title:  "Tamilnadu Trails"
 date:   2015-09-01 00:02:38
 categories: travel
 image:
@@ -10,7 +10,7 @@ image:
 
 The beginning of a journey is always one of the most exciting things for a traveler. The sheer joy you get when you are headed for a new trail is something which you can’t imagine without actually going through that experience.
 
-### Week #1:
+### Weekend #1:
 
 In first week of chennai, I really wanted to explore, visit nearby villages and see the culture of the local people. So, in all my confidence sat on a train that would lead me to some place, I planned to exit on the third station. It was a dusky evening. Went out of the station visited nearby city, drank Kope (filter coffee), ate something that was not tasty somehow forgot its name too. So after an hour or two of exploring I went back to the station sat in the next train to chennai. Friday Ends.
 
@@ -25,7 +25,7 @@ Next day planned to explore chennai all by myself. Opened google maps and found 
 
 >Small Bridge in the park.
 
-In the evening I found out that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. 
+In the evening I found that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. 
 
 <img src="http://i.imgur.com/NX4Elf6.jpg" alt="">
 
@@ -59,7 +59,7 @@ Tenkasi Courtallam: It certainly was a feast to eyes to watch the gift of mother
 
 >Five Falls
 
-The falls were amazing. In a split second we jumped right in. The experience of the chilled water droplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street foot. Out of all things we tasted <a href = "http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html">Egg Barota</a> stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
+The falls were amazing. In a split second we jumped right in. The experience of the chilled water droplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street food. Out of all things we tasted <a href = "http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html">Egg Barota</a> stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
 
 <img src="http://i.imgur.com/YuEUp4w.jpg" alt="">
 
