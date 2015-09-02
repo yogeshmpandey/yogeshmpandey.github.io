@@ -12,7 +12,7 @@ The beginning of a journey is always one of the most exciting things for a trave
 
 ### Week #1:
 
-In first week of chennai, I really wanted to explore, visit nearby villages and see the culture of the local people. So, in all my confidence sat on a train that would lead me to some place, I planned to exit on the third station. It was a dusky evening. Went out of the station visited nearby city, drank Kope (filter coffee), eat something that was not tasty somehow forgot its name too. So after an hour or two of exploring I went back to the station sat in the next train to chennai. Friday Ends.
+In first week of chennai, I really wanted to explore, visit nearby villages and see the culture of the local people. So, in all my confidence sat on a train that would lead me to some place, I planned to exit on the third station. It was a dusky evening. Went out of the station visited nearby city, drank Kope (filter coffee), ate something that was not tasty somehow forgot its name too. So after an hour or two of exploring I went back to the station sat in the next train to chennai. Friday Ends.
 
 Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.    
 
