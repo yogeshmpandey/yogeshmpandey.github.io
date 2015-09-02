@@ -107,7 +107,7 @@ Woke up early in the morning so that we don't miss the sunrise. But the weather 
 
 >Rock memorial and  Thiruvalluvar Statue
 
-From there we took a jetty to the Vivekananda Rock Memorial. Thiruvalluvar Statue is mighty and effectively portrays the love of tamilians towards their culture. Brought some books from the Vivekananda rock memorial and again went to explore the city. Left from there and saw may windmills and was very tempted to go there. On our way back the view was very delightful. I could see 4 things in quantity windmills, Coconut tress, Banana trees and hills.
+From there we took a jetty to the Vivekananda Rock Memorial. Thiruvalluvar Statue is mighty and effectively portrays the love of tamilians towards their culture. Brought some books from the Vivekananda rock memorial and again went to explore the city. Left from there and saw many windmills and was very tempted to go there. On our way back the view was very delightful. I could see 4 things in quantity windmills, Coconut tress, Banana trees and hills.
 
 <img src="http://i.imgur.com/COYMrry.jpg" alt="">
 
