@@ -77,11 +77,11 @@ From there we took a sleepy 5 hour bus ride to kanyakumari. Checked in our cheap
 
 To Our amazement we found ourselves in the hidden twin beaches. The view of the infinty vast ocean was very captivating. From here reached the sunset point, took some pre-sunset snaps. The weather was very clear to see the sunset.We watched with an unwavering gaze that famous sunset, as the mighty orb of light slowly sank beneath the horizon, and threads of light lingered in the sky, first orange, then red, then dark blue, until all that was left of the sun was the afterglow. In this particular moment someting inside grew more fonder.
 
-<img src="https://lh6.googleusercontent.com/TPXAo0nKWRVEI_jq5_A9eX8k5TCpb_-f2f2R7mJZvEhxAWLd4ZnIjaVFxBNvYizCtrbyuw=w1280-h561" alt="">
+<img src="http://i.imgur.com/m0Rhn1U.jpg" alt="">
 
 >Sunset #1
 
-<img src="https://lh5.googleusercontent.com/rbe96zR2QT0xRk2qiLo3Mmby_hEKrtWtqYc-IOf72Ty-yWnDas-_iAQC2JbKwr-H1VIhzA=w1280-h561" alt="">
+<img src="http://i.imgur.com/JHV7ngK.jpg" alt="">
 
 >Sunset #2 
 
