@@ -175,5 +175,5 @@ How Awesome is that (on first thoughts) then we thought about its economy and ho
 
 <img src="http://i.imgur.com/lHFq7yN.jpg" alt="">
 
-After 22 days left this awesome place with this final touch.
+>After 22 days left this awesome place with this final touch.
 
