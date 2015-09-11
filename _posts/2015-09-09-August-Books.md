@@ -17,7 +17,7 @@ In the month of August, I planned to finish 2 books. So bought these books that 
 
 >I strongly disagree. I do. Do I?
 
-Now, Chanakya neeti is not for everyone, especially not for feminists there are many shlokas that might be objectionable to many. Sometimes it looks that chanakya holds a strong grudge against half of world population. This book gives strong aphorism in a straightforwad manner. 
+Now, Chanakya neeti is not for everyone, especially not for feminists there are many shlokas that might be objectionable to many including me. Sometimes it looks that chanakya holds a strong grudge against half of world population. This book gives strong aphorism in a straightforwad manner. 
 
 <img src="http://i.imgur.com/lZtIOY7.jpg" alt="">
 
