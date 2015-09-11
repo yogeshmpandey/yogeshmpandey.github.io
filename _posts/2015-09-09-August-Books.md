@@ -20,9 +20,9 @@ Now, Chanakya neeti is not for everyone, especially not for feminists there are 
 
 <img src="http://i.imgur.com/lZtIOY7.jpg" alt="">
 
-Often one might smile after reading witty and funny observations that were derived from astute observation of great chankya.
+Often one might smile after reading witty and funny observations that were derived from astute observation of chankya.
 
 <img src="http://i.imgur.com/9SLkJF0.jpg" alt="">
 
 
-Many Shlokas that my parents told me i found in this. Everyone should read this book, clears the mind from many doubts and changes your way of thinking. Some things may not apply to real world but that is up to the reader to judge. Would surely read it again. Pure Gem.
+Many Shlokas that my parents told me I found in this. Everyone should read this book, clears the mind from many doubts and changes the way of thinking. Some things may not apply to real world but that is up to the reader to judge. Would surely read it again. Pure Gem.
