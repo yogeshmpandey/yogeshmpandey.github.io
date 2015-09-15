@@ -12,7 +12,8 @@ First you need to get a token for your app to work from <a href="https://develop
 
 Then run this python script the next day. It auto replies and comments on each of the post from previous day. Mine took 30 minutes to reply to all the posts. Had to change some replies though :P.
 
-```
+```python
+
 import requests
 import os
 import json
