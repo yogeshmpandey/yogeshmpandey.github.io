@@ -12,47 +12,11 @@ First you need to get a token for your app to work from <a href="https://develop
 
 Then run this python script the next day. It auto replies and comments on each of the post from previous day. Mine took 30 minutes to reply to all the posts. Had to change some replies though :P.
 
-```python
+<img src="/images/mum_trip/pp.png" alt="">
 
-import requests
-import os
-import json
-import facebook
-import time
-from random import choice
-from urllib import urlencode
+>Code.
 
-token="--add token here--"
-graph = facebook.GraphAPI("--add token here--")
-reply_set = ['Thank you very much :) ', 'Thanks a lot :) ', 'Thank you! :) ', 'Thanku :)']
-parameters = {'access_token': token}
-
-def get_posts(url, ids):
-    feed = ids
-    r = requests.get(url)
-    result = r.json()
-    for post in result['data']:
-        feed.append(post['id'])
-    try:
-        get_posts(result['paging']['next'],feed)
-    except KeyError:
-        add_comment_like(ids)
-        
-def add_comment_like(ids):
-    for uid in ids:
-        reply = choice(reply_set)
-        url = 'https://graph.facebook.com/%s/comments?access_token=%s' %(uid, token)
-        requests.post(url, data={'message': reply})
-        url = 'https://graph.facebook.com/%s/likes?access_token=%s' % (uid, token)
-        requests.post(url, data="")
-        
-if __name__ == '__main__':
-    url = 'https://graph.facebook.com/v2.4/me/feed'
-    params = {'since': '1442275200', 'access_token': token}
-    url = '%s?%s' % (url, urlencode(params))
-    get_posts(url,[])
-
-```
+You can download the code from <a href="https://github.com/yogeshmpandey/codesamples/blob/master/automatic_replier.py">here</a>.
 
 <img src="/images/mum_trip/a.png" alt="">
 
