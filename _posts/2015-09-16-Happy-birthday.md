@@ -47,7 +47,6 @@ def add_comment_like(ids):
         requests.post(url, data="")
         
 if __name__ == '__main__':
-
     url = 'https://graph.facebook.com/v2.4/me/feed'
     params = {'since': '1442275200', 'access_token': token}
     url = '%s?%s' % (url, urlencode(params))
