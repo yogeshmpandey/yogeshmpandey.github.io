@@ -6,9 +6,11 @@ categories: tech
 image:
   background: ps_neutral.png
 ---
-Grew up +1 in numbers yesterday. Had a super awesome day. But this post is not about that. So while going through quora/reddit I came through thread that had the implementation of automatic replying to a birthday post on facebook. I tried to implement the same using facebook's graph api's. So first you need to get a token for your app to work from <a href="https://developers.facebook.com/tools/explorer/"> here</a>. Add this token in the code ( it expires every 1 hour, so make sure the token is fresh). Second you need the epoch time of your Birthdate ie: [15-09-2015 = 1442275200] from any <a href="www.epochconverter.com">online epoch converter</a>. 
+Grew up +1 in numbers yesterday. Had a super awesome day. But this post is not about that. So while going through quora/reddit I came through thread that had the implementation of automatic replying to a birthday post on facebook. I tried to implement the same using facebook's graph api's.
 
-Then run this python script the next day. It auto replies and comments on each of the post from previous day. Mine took 30 minutes to reply to all the posts. Had to change some replies though :P
+First you need to get a token for your app to work from <a href="https://developers.facebook.com/tools/explorer/"> here</a>. Add this token in the code ( it expires every 1 hour, so make sure the token is fresh). Second you need the epoch time of your Birthdate ie: [15-09-2015 = 1442275200] from any <a href="www.epochconverter.com">online epoch converter</a>. 
+
+Then run this python script the next day. It auto replies and comments on each of the post from previous day. Mine took 30 minutes to reply to all the posts. Had to change some replies though :P.
 
 ```
 import requests
