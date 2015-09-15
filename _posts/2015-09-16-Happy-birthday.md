@@ -22,10 +22,8 @@ import time
 from random import choice
 from urllib import urlencode
 
-#static stuff
 token="--add token here--"
 graph = facebook.GraphAPI("--add token here--")
-#the list of messages from which you want a random message to be selected
 reply_set = ['Thank you very much :) ', 'Thanks a lot :) ', 'Thank you! :) ', 'Thanku :)']
 parameters = {'access_token': token}
 
