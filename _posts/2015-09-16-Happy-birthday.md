@@ -13,7 +13,6 @@ First you need to get a token for your app to work from <a href="https://develop
 Then run this python script the next day. It auto replies and comments on each of the post from previous day. Mine took 30 minutes to reply to all the posts. Had to change some replies though :P.
 
 ```python
-
 import requests
 import os
 import json
@@ -51,7 +50,6 @@ if __name__ == '__main__':
     params = {'since': '1442275200', 'access_token': token}
     url = '%s?%s' % (url, urlencode(params))
     get_posts(url,[])
-
 ```
 
 <img src="/images/mum_trip/a.png" alt="">
