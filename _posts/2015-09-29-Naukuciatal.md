@@ -8,7 +8,7 @@ image:
 ---
 <img src="http://i.imgur.com/tDefHql.jpg" alt="">
 
-Uttarakhand is called Land of gods just for nothing. It holds some of the best treasures nature valleys, rivers, meadows, lakes, hills and mountains. On this weekend we planned a quick trip to Nainital district, to see what other things it has to offer apart from nainital. 
+Uttarakhand is called Land of gods just for nothing. It holds some of the best treasures of nature be it valleys, rivers, meadows, lakes, hills or mountains. On this weekend we planned a quick trip to Nainital district, to see what other things it has to offer apart from nainital. 
 
 <img src="http://i.imgur.com/pKxPQeX.jpg" alt="">
 
