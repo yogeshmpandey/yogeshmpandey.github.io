@@ -107,7 +107,7 @@ Woke up early in the morning so that we don't miss the sunrise. But the weather 
 
 >Rock memorial and  Thiruvalluvar Statue
 
-From there we took a jetty to the Vivekananda Rock Memorial. Thiruvalluvar Statue is mighty and effectively portrays the love of tamilians towards their culture. Brought some books from the Vivekananda rock memorial and again went to explore the city. Left from there and saw many windmills and was very tempted to go there. On our way back the view was very delightful. I could see 4 things in quantity windmills, Coconut tress, Banana trees and hills.
+From there we took a jetty to the Vivekananda Rock Memorial. Thiruvalluvar Statue is mighty and effectively portrays the love of tamilians towards their culture. Brought some books from the Vivekananda rock memorial and again went to explore the city. Left from there and saw many windmills and was very tempted to go there. On our way back the view was very delightful. I could see 4 things in quantity windmills, Coconut trees, Banana trees and hills.
 
 <img src="http://i.imgur.com/COYMrry.jpg" alt="">
 
@@ -121,7 +121,7 @@ We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we d
 
 Due to some personal reasons i didn't wanted to visit the temple but really wanted to explore the magnificent architecture and temple museum, So i decided not to go in the main area but explore the architecture. The size of this temple is massive and the whole city was laid out in the shape of square with a series of concentric streets culminating from the temple (amazing isn't it). 
 
-I was wearing shorts and didn't knew that the visitors were required to wear full dresses before going inside. Was warned by my friends but i didn't cared back then. Next, I was given a mundu(lungi) to wear by the temple staff and then we went inside. The architecture was echoing grandeur and magnificence. It was sad to see that the temple(the shrine) prohibited the entry of non-hindus prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma. 
+I was wearing shorts and didn't knew that the visitors were required to wear full dresses before going inside. Was warned by my friends but i didn't cared back then. Next, I was given a mundu(lungi) to wear by the temple staff and then we went inside. The architecture was echoing grandeur and magnificence. It was sad to see that the temple(the shrine) prohibited the entry of non-hindus. According to me prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma. 
 
 Then we visited the 1000 pillars hall museum, captured the exotic architecture and memories and returned to the bus stand after returning the lungi.
 
