@@ -79,19 +79,19 @@ In between the trek two frenzied hill bulls came running towards us, we dived ri
 
 >Reaching Clouds
 
-" Knock-knock-knocking' on heaven's door " from GUNs and ROSEs was playing on the boombox as we ascended up. Afraid of missing the sunset we rushed to the top. One after another we crossed approximately 22 hairpin bends across the trail. We reached the top just in time. The cloud cleared the sky and sun were ready to depart. Sights from the top are fascinating on the left there is Dauladhar Range on right there is a panoramic view of the lush green valley. we completed 12 km of the uphill trek in less than 3 hours.
+" Knock-knock-knocking' on heaven's door " from GUNS and ROSES was playing on the boombox as we ascended up. Afraid of missing the sunset we rushed to the top. One after another we crossed approximately 22 hairpin bends across the trail. We reached the top just in time. The cloud cleared the sky and sun were ready to depart. Sights from the top are fascinating on the left there is Dauladhar Range on right there is a panoramic view of the lush green valley. we completed 12 km of the uphill trek in less than 3 hours.
 
 <img src="http://i.imgur.com/tyFhYFD.jpg" alt="">
 
 >Sunset from Triund
 
-Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill as due to chilly winds the temperature goes very down and god forbid if it rains. But we found out there were many fellow trekkers just like us although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
+Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill, as due to chilly winds the temperature goes very down and god forbid if it rains. But we found out there were many fellow trekkers just like us although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
 
 <img src="http://i.imgur.com/4yrGFq0.jpg" alt="">
 
 >The Tentless Gang
 
-We found a place in the meadow that could save us from winds right behind a closed shop. It was 7 pm and we knew that the night is going to be very long. Too many undescribable wild things happened in the night. Only we know how six of us survived in 2 sleeping bags. The night sky was brightened by shimmering stars. I had never seen such magnificent view of the sky that extended the horizon before in my life. One can easily figure out Venus, Mars, Constellations and Milky way galaxy on the night canvas. At approx 2:00 pm the moon rose from the back of Dhauladhar peak surrounded by a million little stars. The panorama of the sky make the pain go away and we agreed that it was worth it.
+We found a place in the meadow that could save us from winds right behind a closed shop. It was 7 pm and we knew that the night is going to be very long. Too many indescribable wild things happened in the night. Only we know how six of us survived in 2 sleeping bags. The night sky was brightened by shimmering stars. I had never seen such magnificent view of the sky that extended the horizon before in my life. One can easily figure out Venus, Mars, Constellations and Milky way galaxy on the night canvas. At approx 2:00 pm the moon rose from the back of Dhauladhar peak surrounded by a million little stars. The panorama of the sky make the pain go away and we agreed that it was worth it.
 
 <img src="http://i.imgur.com/o9HJljM.jpg" alt="">
 
@@ -106,7 +106,7 @@ We found a place in the meadow that could save us from winds right behind a clos
 > Morning View of the Valley
 
 We came out of our luxurious mattress at around 5 am and had a cup of tea. Waited till 7:30 am for the sun to come up. Laughed, shared stories in the meantime. At around 8:30 we came down the hill.
-Devoured the lunch as we reached MacLeodgunj. The hotel waiter went mad looking at our diet. After all, we were sleepy and hungry form one day and our bodies demanded Carbohydrates.
+Devoured the lunch as we reached MacLeodgunj. The hotel waiter went mad looking at our diet. After all, we were sleepy and hungry from one day and our bodies demanded Carbohydrates.
 
 <img src="http://i.imgur.com/gb2nHw8.jpg" alt="">
 
