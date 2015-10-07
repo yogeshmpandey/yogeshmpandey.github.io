@@ -7,7 +7,7 @@ categories: travel
 image:
   background: ps_neutral.png
 ---
-<img src="http://i.imgur.com/sHqnBVF.jpg" alt="">
+<img src="http://i.imgur.com/TvEtdlr.png" alt="">
 
 Till date, this has been one of my most memorable travel milestones. Not only was the trek a feast for the eyes, it was also a test of willpower and overcoming adversity in the most inhumane conditions.
 
@@ -87,16 +87,15 @@ In between the trek two frenzied hill bulls came running towards us, we dived ri
 
 Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill as due to chilly winds the temperature goes very down and god forbid if it rains. But we found out there were many fellow trekkers just like us although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
 
-<img src="http://i.imgur.com/o9HJljM.jpg" alt="">
-
->The Night Sky at Truind Credits : <a href="https://travellinghigh.wordpress.com/2014/06/15/kareri-lake-trek/_dsc0137/"> link</a>
-
-
 <img src="http://i.imgur.com/4yrGFq0.jpg" alt="">
 
 >The Tentless Gang
 
 We found a place in the meadow that could save us from winds right behind a closed shop. It was 7 pm and we knew that the night is going to be very long. Too many undescribable wild things happened in the night. Only we know how six of us survived in 2 sleeping bags. The night sky was brightened by shimmering stars. I had never seen such magnificent view of the sky that extended the horizon before in my life. One can easily figure out Venus, Mars, Constellations and Milky way galaxy on the night canvas. At approx 2:00 pm the moon rose from the back of Dhauladhar peak surrounded by a million little stars. The panorama of the sky make the pain go away and we agreed that it was worth it.
+
+<img src="http://i.imgur.com/o9HJljM.jpg" alt="">
+
+>The Night Sky at Truind Credits : <a href="https://travellinghigh.wordpress.com/2014/06/15/kareri-lake-trek/_dsc0137/"> link</a>
 
 <img src="http://i.imgur.com/Whfm1Jf.jpg" alt="">
 
