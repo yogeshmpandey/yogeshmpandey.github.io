@@ -37,7 +37,7 @@ However after two hours we finally found a  lodge that was very cheap and gave a
 
 >That Awesome Crowd
 
-After waiting for 2 hours in line, we grabbed the seats below the big screens. After an hour the match started. It was and exhilarating experience watching the crowd going mad on every ball. Mad crowd cheering Indian players like anything. We screamed till our throats went sour. Though India lost the match, but the overall experience of being and audience of a live match in itself was rewarding.We went back to the room after a steep uphill climb of 3.5 km.
+After waiting for 2 hours in line, we grabbed the seats below the big screens. After an hour the match started. It was and exhilarating experience watching the crowd going mad on every ball. Mad crowd cheering Indian players like anything. We screamed till our throats went sour. Though India lost the match, but the overall experience of being an audience of a live match in itself was rewarding. We went back to the room after a steep uphill climb of 3.5 km.
 
 <img src="http://i.imgur.com/bKVuviT.jpg" alt="">
 
@@ -47,13 +47,13 @@ After waiting for 2 hours in line, we grabbed the seats below the big screens. A
 
 >Dhauladhar Peak
 
-Next Day We geared ourselves up for the trek. We took a local bus from Dharamshala to MacLeodgunj. MacLeodgunj is a serene place filled with Tibetans, Israelis and trekkers and people from all around the world. It is known as little Lhasa due to a large population of Tibetans. Later we came to know that it is the official residence of Dalai Lama. The mighty Dhauladhar Peak looked clearer from here. 
+Next Day we geared ourselves up for the trek. We took a local bus from Dharamshala to MacLeodgunj. MacLeodgunj is a serene place filled with Tibetans, Israelis and trekkers and people from all around the world. It is known as little Lhasa due to a large population of Tibetans. Later we came to know that it is the official residence of Dalai Lama. The mighty Dhauladhar Peak looked clearer from here. 
 
 <img src="http://i.imgur.com/L1lNPhR.jpg" alt="">
 
 >Tibetian Thupka
 
-After eating a sizeable lunch in a local cafe we started our trek. Meanwhile some of us went to purchase sleeping bags as we had only two. The shopkeeper told us that due to heavy rush of the campers all the trekking items are sold out. It was 2 pm already and we had not started yet. Unable to arrive at a conclusion and thinking of luckily finding a camping tent at triund we started the trek. 
+After eating a sizeable lunch in a local cafe we started our trek. Meanwhile some of us went to purchase sleeping bags as we had only two. The shopkeeper told us that due to heavy rush of the campers all the trekking items were sold out. It was 2 pm already and we had not started yet. Unable to arrive at a conclusion and thinking of luckily finding a camping tent at triund we started the trek. 
 
 <img src="http://i.imgur.com/ejDsvuo.jpg" alt="">
 
@@ -79,13 +79,13 @@ In between the trek two frenzied hill bulls came running towards us, we dived ri
 
 >Reaching Clouds
 
-" Knock-knock-knocking' on heaven's door " from GUNS and ROSES was playing on the boombox as we ascended up. Afraid of missing the sunset we rushed to the top. One after another we crossed approximately 22 hairpin bends across the trail. We reached the top just in time. The cloud cleared the sky and sun were ready to depart. Sights from the top are fascinating on the left there is Dauladhar Range on right there is a panoramic view of the lush green valley. we completed 12 km of the uphill trek in less than 3 hours.
+" Knock-knock-knocking' on heaven's door " from GUNS N' ROSES was playing on the boombox as we ascended up. Afraid of missing the sunset we rushed to the top. One after another we crossed approximately 22 hairpin bends across the trail. We reached the top just in time. The cloud cleared the sky and sun were ready to depart. Sights from the top are fascinating, on the left there is Dauladhar Range and on right there is a panoramic view of the lush green valley. We completed 12 km of the uphill trek in less than 3 hours.
 
 <img src="http://i.imgur.com/tyFhYFD.jpg" alt="">
 
 >Sunset from Triund
 
-Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill, as due to chilly winds the temperature goes very down and god forbid if it rains. But we found out there were many fellow trekkers just like us although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
+Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill, as due to chilly winds the temperature goes very down and God forbid if it rains. But we found out there were many fellow trekkers just like us although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
 
 <img src="http://i.imgur.com/4yrGFq0.jpg" alt="">
 
