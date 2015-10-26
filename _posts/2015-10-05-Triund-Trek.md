@@ -15,19 +15,19 @@ Till date, this has been one of my most memorable travel milestones. Not only wa
 
 >Getting Started
 
-This trip was planned like every other trip without any plans, except for the reservation of bus for reaching and coming back. We booked the cheapest bus we could find on HRTC website. Having done that we got busy in our lives until we came to know that India Vs South Africa first T-20 match is going to be in Dharamshala on that same weekend. Then we knew that this trip is going to get more awesome.
+This trip was planned like every other trip (read unplanned), except for the reservation of bus for reaching and coming back. We booked the cheapest bus we could find on HRTC website. Having done that we got busy in our lives until we came to know that India Vs South Africa first T-20 match is going to be in Dharamshala on that same weekend. Then we knew that this trip is going to get more awesome.
 
 <img src="http://i.imgur.com/fWaBgvQ.jpg" alt="">
 
 >Just Reached Dharamshala
 
-Six of us started early from office and boarded the bus from Kashmiri Gate to Dharamshala at around 6:50. The bus ride was not so comfortable and the bus broke down at around 3:00 am. After few hours of struggle, we were back on the road. We reached Dharamshala at around 8:00 am. After reaching the hunt for the hotel began. We divided ourselves into a group of two and searched across 20+ hotels/lodges/hostels all in vain. Dharamshala was jampacked with around 25k visitor who came to watch the match.
+Six of us started early from the office and boarded the bus from Kashmiri Gate to Dharamshala at 6:50 pm. The bus ride was not so comfortable. To make the situation worse the bus broke down at around 3:00 am. After a few hours of struggle, we were back on the road. We reached Dharamshala at around 8:00 am. After reaching the hunt for the hotels began. We divided ourselves into a group of two and searched across 20+ hotels/lodges/hostels but all in vain. Dharamshala was jampacked with around 25k visitor who came to watch the match.
 
 <img src="http://i.imgur.com/6gSpFcJ.jpg" alt="">
 
 >View From The Room
 
-However after two hours we finally found a  lodge that was very cheap and gave a breathtaking view of the entire city. After resting and contemplating on the subject of Life, Startups, Travel and other things we came back from the balcony deck and we made ourself ready for the match.
+However, after two hours we finally found a lodge which was very cheap and gave a breathtaking view of the entire city. After resting and contemplating on the subject of Life, Startups, Travel and other things we came back from the balcony deck and we made ourself ready for the match.
 
 <img src="http://i.imgur.com/TCwZAeT.jpg" alt="">
 
@@ -37,7 +37,7 @@ However after two hours we finally found a  lodge that was very cheap and gave a
 
 >That Awesome Crowd
 
-After waiting for 2 hours in line, we grabbed the seats below the big screens. After an hour the match started. It was and exhilarating experience watching the crowd going mad on every ball. Mad crowd cheering Indian players like anything. We screamed till our throats went sour. Though India lost the match, but the overall experience of being an audience of a live match in itself was rewarding. We went back to the room after a steep uphill climb of 3.5 km.
+After waiting for 2 hours in line, we grabbed the seats below the big screens. After an hour the match started. It was and exhilarating experience watching the crowd going mad on every ball. With all exuberance crowd cheering Indian players like anything. We screamed till our throats went sour. Though India lost the match, but the overall experience of being an audience of a live match in itself was rewarding. We went back to the room after a steep uphill climb of 3.5 km.
 
 <img src="http://i.imgur.com/bKVuviT.jpg" alt="">
 
@@ -63,13 +63,13 @@ After eating a sizeable lunch in a local cafe we started our trek. Meanwhile som
 
 >Just move on
 
-After walking uphill on steep curves with heavy backpack everyone was sweating after half and hour. Later from the local people we realise that we were on wrong track. So cursing our stars we came back 2 km downhill and took a left turn from the meditation center. After half an hour we reached Dharamkot and packed our bags with drinking water and other eatables. Again we started the trek with many other fellow trekkers. It is advised to carry biscuits for the dogs as they accomapany you during the trek.
+After walking uphill on steep curves with heavy backpack everyone was sweating after half and hour. Later from the local people we realised that we were on wrong track. Cursing our stars we came back 2 km downhill and took a left turn from the meditation center. After half an hour we reached Dharamkot and packed our bags with drinking water and other eatables. Again we started the trek with many other fellow trekkers. It is advised to carry biscuits for the dogs as they accompany you during the trek.
 
 <img src="http://i.imgur.com/uQ5JiGa.jpg" alt="">
 
 >A pillar of pebbles on the way
 
-In between the trek two frenzied hill bulls came running towards us, we dived right in a small bulge in the right and bruised ourselves but saved ourselves from bigger injury. After a while, the trek becomes very tiring as the gradient rises abruptly. But away out of the Urban life we were finding the rhythm of our body, Slowly the rust was fading away, cool hilly breeze evaporated the fatigue from the forehead.
+In between the trek two frenzied hill bulls came running towards us, we dived right in a small bulge in the right and bruised ourselves but saved ourselves from bigger injury. After a while, the trek becomes very tiring as the gradient rises abruptly. But away out of the urban life we were finding the rhythm of our body, Slowly the rust was fading away, cool hilly breeze evaporated the fatigue from the forehead.
 
 <img src="http://i.imgur.com/Q7t6IUp.jpg" alt="">
 
@@ -85,7 +85,7 @@ In between the trek two frenzied hill bulls came running towards us, we dived ri
 
 >Sunset from Triund
 
-Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill, as due to chilly winds the temperature goes very down and God forbid if it rains. But we found out there were many fellow trekkers just like us although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
+Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill, as due to chilly winds the temperature goes very down,  God forbid if it rains. We found out there were many fellow trekkers just like us. Although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
 
 <img src="http://i.imgur.com/4yrGFq0.jpg" alt="">
 
