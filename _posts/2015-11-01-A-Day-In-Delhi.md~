@@ -7,6 +7,7 @@ image:
   background: ps_neutral.png
 ---
 <img src="http://i.imgur.com/x5fTcj5.jpg" alt="">
+
 >hmmm ?
 
 You have one day. You want to travel. You have less than 500 bucks to spend. Let's see how much can you explore Delhi. This is what I told myself when I started the idea of this frugal exploration.
