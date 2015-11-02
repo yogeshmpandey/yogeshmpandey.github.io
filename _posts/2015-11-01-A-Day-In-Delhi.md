@@ -4,7 +4,7 @@ title:  "A Day in Delhi"
 date:   2015-11-02 00:23:40
 categories: travel
 image:
-  background: ps_neutral.png
+  background: dark_embroidery.png
 ---
 <img src="http://i.imgur.com/x5fTcj5.jpg" alt="">
 
