@@ -12,7 +12,7 @@ image:
 
 You have one day. You want to travel. You have less than 500 bucks to spend. Let's see how much can you explore Delhi. This is what I told myself when I started the idea of this frugal exploration.
 
-I have been in Delhi-NCR area from a little less than 2 years now and I have seen it in bits and pieces. So I planned to visit various historic monuments that are nearby or are at a walking distance from Delhi Metro. Delhi metro app provides a good list of places that can be covered from the various metro stations. The the places visited were actually planned while travelling in the metro itself. This Map gives our trail in Delhi.
+I have been in Delhi-NCR area from a little less than 2 years now and I have seen it in bits and pieces. So I planned to visit various historic monuments that are nearby or are at a walking distance from Delhi Metro. Delhi metro app provides a good list of places that can be covered from the various metro stations. The places visited were actually planned while travelling in the metro itself. This Map gives our trail in Delhi.
 
 <img src="http://i.imgur.com/UZ2Tdx5.png" alt="">
 
