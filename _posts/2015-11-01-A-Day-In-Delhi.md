@@ -97,6 +97,6 @@ National Museum has good guides and is better maintained, Although the irony is 
 
 >Door Top
 
-As all historic places are closed after 5 p.m, After the museum one can go to CP area or for a movie like we did. So we Completed this one day tour of Delhi in less than 400 bucks which included food, tickets and commute costs. You don't need money to travel :D, but still If you want to go more cheap try <a href="http://www.delhitourism.gov.in/delhitourism/tour_packages/city_sight.jsp">this</a>.
+As all historic places are closed after 5 p.m, After the museum one can go to CP area or for a movie like we did. We completed this one day tour of Delhi in less than 400 bucks which included food, tickets and commute costs. You don't need money to travel :D, but still If you want to go more cheap try <a href="http://www.delhitourism.gov.in/delhitourism/tour_packages/city_sight.jsp">this</a>.
 
 More Journeys Await...
