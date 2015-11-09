@@ -24,7 +24,7 @@ I have been in Delhi-NCR area from a little less than 2 years now and I have see
 
 >Cravings in the Minaret
 
- While going home everytime, I was intrigued when I used to see Qutub Minar from the Metro. Hence, it was the first stop after boarding the metro at MG Road Metro Station.
+While going home everytime, I was intrigued when I used to see Qutub Minar from the Metro. Hence, it was the first stop after boarding the metro at MG Road Metro Station.
 Took a 20/- rs auto from the Metro Station to reach the site. The Minar looked majestic from the close. It is covered with intricate carvings and verses from the Qur'an. Public access is banned inside the minaret. Iron Pillar from 7th AD stands tall beside the Minar.
 
 <img src="http://i.imgur.com/XMrlwR4.jpg" alt="">
