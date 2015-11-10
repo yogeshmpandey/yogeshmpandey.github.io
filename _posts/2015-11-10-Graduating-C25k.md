@@ -12,4 +12,3 @@ image:
 
 After 9 weeks of Training, recurring shin splints and 2 years of procrastination today finally ran a continues Five kilometers. And it is just a start (after I devour a double cheeseburst Pizza).
 
-<img src="http://i.imgur.com/PKdhq4T.jpg" alt="">
