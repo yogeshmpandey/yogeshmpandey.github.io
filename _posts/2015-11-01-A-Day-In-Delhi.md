@@ -6,7 +6,7 @@ categories: travel
 image:
   background: LXmxZKh.jpg
 ---
-<img src="http://i.imgur.com/x5fTcj5.jpg" alt="">
+<img src="http://i.imgur.com/x5fTcj5.jpg" alt="hmm">
 
 >hmmm ?
 
@@ -14,13 +14,13 @@ You have one day. You want to travel. You have less than 500 bucks to spend. Let
 
 I have been in Delhi-NCR area from a little less than 2 years now and I have seen it in bits and pieces. So I planned to visit various historic monuments that are nearby or are at a walking distance from Delhi Metro. Delhi metro app provides a good list of places that can be covered from the various metro stations. The places visited were actually planned while travelling in the metro itself. This Map gives our trail in Delhi.
 
-<img src="http://i.imgur.com/UZ2Tdx5.png" alt="">
+<img src="http://i.imgur.com/UZ2Tdx5.png" alt="Trails">
 
 >Trails
 
 **Qutub Minar**
 
-<img src="http://i.imgur.com/6sxg2pM.jpg" alt="">
+<img src="http://i.imgur.com/6sxg2pM.jpg" alt="cravings in minaret">
 
 >Cravings in the Minaret
 
