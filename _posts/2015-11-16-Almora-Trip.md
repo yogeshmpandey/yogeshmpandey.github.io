@@ -87,7 +87,7 @@ We drove again to find a sweet spot to see the sunset for which binsar is well f
 
 >Almora after the Diwali night
 
-It was the night after Diwali and Almora were looking heavenly from our hotel. Went to a morning Jog and watched the sun rising up and slowly clearing the valley from the fog. Later bought sweets from the ever famous sweet shop at Mall road that goes by the name of Keem Singh.
+It was the night after Diwali and Almora was looking heavenly from our hotel. Went to a morning Jog and watched the sun rising up and slowly clearing the valley from the fog. Later bought sweets from the ever famous sweet shop at Mall road that goes by the name of Keem Singh.
 
 <img src="http://i.imgur.com/EpeGKJ7.jpg" alt="Crossing Ranikhet">
 

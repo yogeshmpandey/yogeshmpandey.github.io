@@ -12,10 +12,15 @@ image:
 >Best Part: The Road
 
 Friend: You are coming to Rishikesh? right
+
 Me: No, I am in Binsar
+
 Friend: So, where are you going?
+
 Me: To Binsar .
+
 Friend: WTF?
+
 
 <iframe src="https://www.google.com/maps/d/embed?mid=zzaMbFu8Ofc4.kaiF_LEkusIQ" width="600" height="480"></iframe>
 
