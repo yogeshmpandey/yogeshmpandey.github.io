@@ -22,7 +22,7 @@ Me: To Binsar .
 Friend: WTF?
 
 
-<iframe src="https://www.google.com/maps/d/embed?mid=zzaMbFu8Ofc4.kaiF_LEkusIQ" width="600" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=zzaMbFu8Ofc4.kaiF_LEkusIQ" width="640" height="480"></iframe>
 
 >Map of our journey
 
