@@ -61,4 +61,4 @@ image:
 >He just want to stay free   
 >help him out, unfuck him   
 >As he can't go back to "us", and    
->He can go back to "you" and "me"   
+>He just can't go back to "you" and "me"   
