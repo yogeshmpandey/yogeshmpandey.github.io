@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pretty Poems"
+title:  "Petty Poems"
 date:   2015-11-29 00:23:40
 categories: life
 image:
@@ -41,7 +41,7 @@ image:
 >as this poem ...   
 >was just about to finish, I woke up   
 >again i curled up in my bed ...   
-   
+>God please give me back this dream, I said in my head   
 
 
 **The Breakup**
