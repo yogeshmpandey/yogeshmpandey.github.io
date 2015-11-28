@@ -11,18 +11,18 @@ image:
 
 The numbers of
 
->‘You will die in obscurity’
->are amplified by my mind
->daily daily daily,
->but my heart says
->"Who cares? Go on."
->Is this what life is?
->Up
->and
->down.
->The beauty of life
->and
->the dilemma of living.
+>‘You will die in obscurity’ 
+>are amplified by my mind 
+>daily daily daily, 
+>but my heart says 
+>"Who cares? Go on." 
+>Is this what life is? 
+>Up 
+>and 
+>down. 
+>The beauty of life 
+>and 
+>the dilemma of living. 
 
 
 
