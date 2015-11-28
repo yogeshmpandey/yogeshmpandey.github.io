@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Pretty Shitty Poems"
+title:  "Pretty Poems"
 date:   2015-11-18 00:23:40
-categories: travel
+categories: life
 image:
   background: ps_neutral.png
 ---
@@ -11,7 +11,7 @@ image:
 
 The numbers of
 ‘You will die in obscurity’
-is amplified by my mind
+are amplified by my mind
 daily daily daily,
 but my heart says
 "Who cares? Go on."
@@ -33,14 +33,14 @@ the road with me will obviously not be easy
 coz I will ...
 take you to hills, mountains and in the depth of seas
 you will ...
-always think if time could freeze.
+always think of if time could freeze.
 I promise ...
 that i will love you with all my strength
 whenever you're tired ...
-I will hug you tightly, at my arm's length
+I will hug you tightly, with my arm's length
 as this poem ...
 was just about to finish, I woke up
-again i curled in the bed ...
+again i curled up in my bed ...
 God please give me back this dream, I said in my head
 
 
@@ -61,5 +61,5 @@ or maybe it is just what he thinks.
 or maybe it is what it is.
 He just want to stay free
 help him out, unfuck him
-As he cant go back to us, and 
-He can go back to you and me
+As he can't go back to "us", and 
+He can go back to "you" and "me"
