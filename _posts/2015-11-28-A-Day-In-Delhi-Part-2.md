@@ -4,7 +4,7 @@ title:  "A Day in Delhi : Part 2"
 date:   2015-11-29 00:23:40
 categories: travel
 image:
-  background: LXmxZKh.jpg
+  background: ELlr6WF.png
 ---
 
 
@@ -29,6 +29,7 @@ After Reaching Khan Market, we followed the GPS and reached Purana Qila. The Qil
 >God Bless the Animals Inside
 
 **National Zoo**
+
 National Zoo is right in front of the Khairul Manzil Mosque of Purana Qila. We decided to visit the zoo. But there was too  much crowd that made us rethink the plan. After having a heavy Brunch at the zoo canteen, we went to visit Humayun's Tomb.
 
 <img src="http://i.imgur.com/SXnvAT4.jpg" alt="Humayun's Tomb Front View">
@@ -70,7 +71,7 @@ Lodhi Gardens are a hotspot for the elite Delhiets for Morning/Evening walks. Ap
 
 **Hazrath Nizamuddin Dargah**
 
-At a few foots is the is the dargah of one of the world's most famous Sufi saints, Nizamuddin Auliya. We Paid the visit and went from one spiritual experience to another in the lotus temple.
+At a few foots is the is the dargah of one of the world's most famous Sufi saints, Nizamuddin Auliya. We paid the visit and then went from one spiritual experience to another in the lotus temple.
 
 <img src="http://i.imgur.com/MUHTkqI.jpg" alt="Lotus Temple">
 
@@ -78,4 +79,4 @@ At a few foots is the is the dargah of one of the world's most famous Sufi saint
 
 **Lotus Temple**
 
-The design of lotus Temple is inspired by... Well, Lotus Flower. But What is more, intriguing than its spectacular Architecture is the faith associated with it. The Lotus Temple is a Bahá'í House of Worship. Bahá’í Faith, hold its foundation on the Oneness of God, the Oneness of Religions, and the Oneness of Mankind. In the Bahá’í philosophy humanity is understood to be in a process of collective evolution. Religion is thus seen as orderly, unified, and progressive from age to age. Bahá'í teachings state that God is too great for humans to fully comprehend. Hits straight in the Atheist/Agonist Mind. Right? 
+The design of lotus Temple is inspired by... Well, Lotus Flower. But what is more, intriguing than its spectacular Architecture is the faith associated with it. The Lotus Temple is a Bahá'í House of Worship. Bahá’í Faith, hold its foundation on the Oneness of God, the Oneness of Religions, and the Oneness of Mankind. In the Bahá’í philosophy humanity is understood to be in a process of collective evolution. Religion is thus seen as orderly, unified, and progression from age to age. Bahá'í teachings state that God is too great for humans to fully comprehend. Hits straight in the Atheist/Agonist Mind. Right? 
