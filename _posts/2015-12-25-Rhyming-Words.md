@@ -6,6 +6,7 @@ categories: tech
 image:
   background: 2Nrxex6.jpg
 ---
+** Code is Poetry**
 
 For the people who don't know, sometimes try to write prose. It is a good way to write emotions and provide mindfullness. Writing prose is a tough affair. You have to think of a correct work and other linked word that rhymes with the even odd stanza, while fulfilling the overall meaning and substance. Yesterday while writing I was thinking about what rhymes with "love". And the first two words that first came to my mind were "Dove" and "Shove". Pretty lame.. Right. So to simplify this process I created a snippet that fetches the rhyming words of a particular input and if the user wants, he can know the meaning also. To know weather it fits his set of ideas or not. With this, I got approx 60 words that rhymed with "love". Pretty impressive right.
 
@@ -21,4 +22,4 @@ You can play with the code <a href="https://github.com/yogeshmpandey/python-scri
 
 To create this I have parsed rhymebrain.com with my inputs (I hope it is legit). To get the meaning the inbuilt dictionary of linux comes handy. 
 
-In the future if I get time. I will bug-fix this code and create a flask wrapper around it to create a web app.** Code is Poetry**.  
+In the future if I get time. I will bug-fix this code and create a flask wrapper around it to create a web app.  
