@@ -14,7 +14,7 @@ After a lot of boring weekends and as an escape to the chilling "Dilli ki Sardi"
 
  Our Plans were big but thanks to IRCTC, half of them went down the drain. However, let's forget that and focus on the good parts (Isn't that what life is all about !). So we started our journey on Thursday night to Jaipur and reached pretty early at around 6:00 am. The temperature was so low that we started shivering and started searching for some shelter. But since we had  planned to follow an itinerary,  after filling the Thermos with tea, hopped in an auto and reached Nahargarh Fort. As the Auto  got lost between the lanes we decided to start walking to the gate. 
 
-<img src"http://i.imgur.com/EFhIUh7.jpg">
+<img src="http://i.imgur.com/EFhIUh7.jpg">
 
 >Reaching Nahargarh
 
@@ -38,11 +38,11 @@ We strolled around the outskirts of the fort for around two hours and then came 
 
 >Nahargarh View From Hawa Mahal
 
-<img src"http://i.imgur.com/GUX2USB.jpg">
+<img src="http://i.imgur.com/GUX2USB.jpg">
 
 >Hawa Mahal
 
-<img src"http://i.imgur.com/EDIKLyr.jpg">
+<img src="http://i.imgur.com/EDIKLyr.jpg">
 
 >Gallery inside Hawa Mahal
 
@@ -94,7 +94,7 @@ Next day we took an auto to city place. The Auto guy was fun, narrating various 
 
 Later we went back to the hotel as we needed to check out. After checking out, we went to the magnificent Raj Mandir and experienced Bajiro Mastani there. Everyone should must once in a lifetime watch a flick here. Its Mesmerising.
 
-<img src"http://i.imgur.com/E8PMdGa.jpg">
+<img src="http://i.imgur.com/E8PMdGa.jpg">
 
 >Raj mandir in Night
 
