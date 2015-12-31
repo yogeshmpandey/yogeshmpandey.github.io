@@ -84,7 +84,7 @@ Next day we took an auto to city place. The Auto guy was fun, narrating various 
 
 >Albert Hall
 
-<img src"http://i.imgur.com/L0h1KY6.jpg">
+<img src="http://i.imgur.com/L0h1KY6.jpg">
 
 >Inside Albert HAll
 
