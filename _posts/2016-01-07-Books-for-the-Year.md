@@ -1,14 +1,5 @@
 ---
 layout: post
-title:  "A Weekend in Jaipur"
-date:   2015-12-31 00:7:40
-categories: travel
-image:
-  background: 2Nrxex6.jpg
----
-
----
-layout: post
 title:  "Books for the Year"
 date:   2016-01-08 00:19:38
 categories: books
@@ -20,6 +11,7 @@ image:
 
 I try to read more, But somewhere down the line I tend to forget this goal. 
 So this is a accountability post for the books to be read in 2016.
+
 <ol>
 <li>Feynman's Rainbow</li>
 <li></li>
