@@ -7,10 +7,11 @@ image:
   background: ps_neutral.png
 ---
 “*Books are the ultimate Dumpees: put them down and they’ll wait for you forever; pay attention to them and they always love you back.*” 
+
 ― John Green
 
 I try to read more, But somewhere down the line I tend to forget this goal. 
-So this is a accountability post for the books to be read in 2016.
+So this is a accountability post for the books read in 2016.
 
 <ol>
 <li>Feynman's Rainbow</li>
