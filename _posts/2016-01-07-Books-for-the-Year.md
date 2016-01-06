@@ -7,6 +7,14 @@ image:
   background: 2Nrxex6.jpg
 ---
 
+---
+layout: post
+title:  "Books for the Year"
+date:   2016-01-08 00:19:38
+categories: books
+image:
+  background: ps_neutral.png
+---
 “*Books are the ultimate Dumpees: put them down and they’ll wait for you forever; pay attention to them and they always love you back.*” 
 ― John Green
 
