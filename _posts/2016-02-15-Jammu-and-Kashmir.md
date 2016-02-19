@@ -8,7 +8,7 @@ image:
 ---
 
 
-** Agar firdaus bar roo-e zameen ast, Hameen ast-o hameen ast-o hameen ast   --Aamir Khusro**
+**Agar firdaus bar roo-e zameen ast, Hameen ast-o hameen ast-o hameen ast   --Aamir Khusro**
 
 <img src="http://i.imgur.com/sliuuVz.jpg" alt="header">
 
