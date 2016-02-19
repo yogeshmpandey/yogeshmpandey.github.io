@@ -8,7 +8,7 @@ image:
 ---
 
 
-** "Agar firdaus bar roo-e zameen ast, Hameen ast-o hameen ast-o hameen ast "  --Aamir Khusro**
+** Agar firdaus bar roo-e zameen ast, Hameen ast-o hameen ast-o hameen ast   --Aamir Khusro**
 
 <img src="http://i.imgur.com/sliuuVz.jpg" alt="header">
 
@@ -16,6 +16,7 @@ So, is it that time of the year again when the cold becomes a little warm and pe
 This time, me and a few colleagues planned to visit many places in J&K around Vaishno Devi Temple.
 
 **Thursday: Starting**
+
 It was my first trip to Jammu and Kashmir. Unlike other trips, this one was well planned in advance. We started from new Delhi railway station and took the train to Jammu Tawi. After a few quick games of UNO in the 3AC coach of the train, we all went to our respective berths for the night sleep. 
 
 <img src="http://i.imgur.com/9a8adbF.jpg" alt="header">
@@ -27,6 +28,7 @@ It was my first trip to Jammu and Kashmir. Unlike other trips, this one was well
 >Morning Tea
 
 **Friday: Vaishno Devi**
+
 <img src="" alt="header">
 The train dropped us to the Jammu-Tawi Railway station at approximately 6:30 am in the morning. After having some snacks and Morning Tea, we boarded the bus to Katra. The bus crossed many Police check points and stopped at a local dhabha for breakfast. There I ate maggi after a long long time.
 
