@@ -98,7 +98,7 @@ After exploring the place, we went back to the hotel. In the hotel all kind of m
 
 >Reaching Nathatop
 
-Woke up lazily in the chilled room. Then after morning ritual we hopped in the traveller to go to Naag mandir. Here we ate hot halwa in the chilling weather. Dodging the local vendors trying to sell us "bulbul ka baccha" we reached the wood painting shop. Here we made moments to carry with us back to Delhi. From here we started moving to Nathatop crossing beautiful mustard step farms of the hills. There was a huge rush on the hills but somehow we found an isolated top with virgin snow. There we made the first snowman and played with snow for a while. 
+Woke up lazily in the chilled room. Then after morning ritual we hopped in the traveller to go to Naag mandir. Here we ate hot halwa in the chilling weather. Dodging the local vendors trying to sell us "bulbul ka baccha" we reached the wood painting shop. Here we made momentos to carry with us back to Delhi. From here we started moving to Nathatop crossing beautiful mustard step farms of the hills. There was a huge rush on the hills but somehow we found an isolated top with virgin snow. There we made the first snowman and played with snow for a while. 
 
 <img src="http://i.imgur.com/JRSLE3v.jpg" alt="header">
 
