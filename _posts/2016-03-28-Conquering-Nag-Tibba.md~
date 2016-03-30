@@ -117,9 +117,6 @@ Woke up with the alarm of chirping birds at around 6.30 am. Then after packing e
 
 >Top View
 
-<img src="http://i.imgur.com/PZog9Aj.jpg" alt="header">
-
->Dimley Visible peaks.
 
 <img src="http://i.imgur.com/lFKlkfR.jpg" alt="header">
 
@@ -130,6 +127,10 @@ We reached Jhandi at around 8.30 am. At that time, no one was there. We were fil
 <img src="http://i.imgur.com/xm4TyLm.jpg" alt="header">
 
 >Tea anyone?
+
+<img src="http://i.imgur.com/PZog9Aj.jpg" alt="header">
+
+>Dimley Visible peaks.
 
 <img src="http://i.imgur.com/Mwhx1rz.jpg" alt="header">
 
