@@ -84,13 +84,13 @@ We were again in between scenic meadows, the chirping of birds made the atmosphe
 
 >Some Rest
 
-After two hours we reached teesri which is the second base camp to the summit. We were waking at a moderate pace and had covered only 12 km in the last 6 hours. Someone has rightly said *A km in mountain is equal to three in plains*.
+After two hours we reached teesri which is the second base camp to the summit. We were waking at a moderate pace and had covered only 12 km in the last 6 hours. Someone has rightly said " *A km in mountain is equal to three in plains* ".
 
 <img src="http://i.imgur.com/dw1EIP1.jpg" alt ="">
 
 >Reaching Teesri
 
-It was growing darker and we had planned to reach the summit before the day goes down. According to our estimate, we had to climb 5 kilometres from the second base camp. first three kilometres from the second base camp were easy, but later the elevation became steep and the trail became confusing. There was no one around and the trail was also broken. There was no signs of people, however chocolate wrappers and empty Gatorade bottles gave us the hint that we were on the right track.
+It was growing darker and we had planned to reach the summit before the day goes down. According to our estimate, we had to climb 5 kilometres from the second base camp. The first three kilometres from the second base camp were easy, but later the elevation became steep and the trail became confusing. There was no one around and the trail was also broken. There was no signs of people, however chocolate wrappers and empty Gatorade bottles gave us the hint that we were on the right track.
 
 <img src="http://i.imgur.com/LrIphld.jpg" alt ="">
 
@@ -116,7 +116,7 @@ After 15 minutes we met 2 other trekkers who were coming back from the summit an
 
 >Creating Paths.
 
-With heavy heads and motionless legs, we woke up. After sipping hot tea from the shop we started the climb to the summit. This climb is very steep and filled with rocks. After around 30 minutes we reached the summit. We saw lord shiva sitting proudly at the top of the mountain. It was one of the most exhilarating and rewarding experience. The satisfaction of reaching the summit after crossing 3 mountains and 18 odd kilometres was a great achievement. After offering our prayers to lord shiva we started the descent.The local tale about how shiva came there is that long time ago shiva helped the villagers in eliminating a demon who use to kill the people and animals there.Later after the death of demon the villagers found a natural shivlinga at the top, which is now known as churdhar peak.Being there in front of shiva you can feel the power of shiva in the chilled wind penetrating your body, and it one of the experience you definatly want to take back with you.
+With heavy heads and motionless legs, we woke up. After sipping hot tea from the shop we started the climb to the summit. This climb is very steep and filled with rocks. After around 30 minutes we reached the summit. We saw lord shiva sitting proudly at the top of the mountain. It was one of the most exhilarating and rewarding experience. The satisfaction of reaching the summit after crossing 3 mountains and 18 odd kilometres was a great achievement. After offering our prayers to lord shiva we started the descent.The local tale about how shiva came there is that long time ago shiva helped the villagers in eliminating a demon who use to kill the people and animals there.Later after the death of demon the villagers found a natural shivlinga at the top, which is now known as churdhar peak. Being there in front of shiva you can feel the power of shiva in the chilled wind penetrating your body, and it one of the experience you definatly want to take back with you. 
 
 <img src="http://i.imgur.com/BiQwJvl.jpg" alt ="">
 
