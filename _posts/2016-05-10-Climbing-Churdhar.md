@@ -40,7 +40,7 @@ We boarded the bus to Solan from Kashmiri gate ISBT bus stand. HRTC buses are th
 
 As the hot steamy tea reached our hands the bus arrived. We ran to catch the seats putting the cups down remorsefully. As we didn't had adequate seats, we adjusted 3 people in the place of two, the brains in my bums said that it is not a good idea. We reached Nohradhar after 3 hours of bumpy ride. Then we booked a room to freshen up at 250 bucks for an hour. After a heavy breakfast, we started the ascent.
 
-<img src="http://i.imgur.com/Bau2TEf.jpg" alt ="">
+<img src="http://i.imgur.com/Bau2TEf.jpg" alt ="Initial Directions">
 
 >Initial Directions
 
@@ -48,11 +48,11 @@ As the hot steamy tea reached our hands the bus arrived. We ran to catch the sea
 
 We gathered the supplies and started the trek without any guide as it is a popular religious destination. We thought that the trail would be well documented. We were wrong. The initial trail has lots of rocks and boulders that makes it a bit difficult to climb. After an hour, we reached a beautiful meadow with  many cattle grazing the field. Here situated is  a big rock formation that gave a magnificent view of the valley. Although the weather was foggy the views were spectacular and worth the climb. 
 
-<img src="http://i.imgur.com/7hlqKy7.jpg" alt ="">
+<img src="http://i.imgur.com/7hlqKy7.jpg" alt ="First Village">
 
 >First Village
 
-<img src="http://i.imgur.com/1XMkXPI.jpg" alt ="">
+<img src="http://i.imgur.com/1XMkXPI.jpg" alt ="A home in the hills">
 
 >A home in the hills
 
@@ -66,11 +66,11 @@ We gathered the supplies and started the trek without any guide as it is a popul
 
 After resting for a while we resumed the trek. Initially, there were many people with us but after an hour or so we were left alone. "Are we going too fast or we have lost the actual path", we exclaimed. We waited for someone to catch up, later we met two fellow trekkers who were also like us and had lost the route. In the confidence of arguments of probable routes, we continued. Later after again seeing the signs, we realized that we were indeed on the right track. There is a peculiar thing to notice at this place. You wont find any milestones or lines to follow the trail to your destination, but you can certainly find some stacks of stones palced at the top of every big rocks after every 100 metres. If you find any such signs, you are on track.
 
-<img src="http://i.imgur.com/rgzNfdg.jpg" alt ="">
+<img src="http://i.imgur.com/rgzNfdg.jpg" alt ="Cute Cattle">
 
 >Cute Cattle
 
-<img src="http://i.imgur.com/UshvOuQ.jpg" alt ="">
+<img src="http://i.imgur.com/UshvOuQ.jpg" alt ="lost in Meadows">
 
 >Lost in Meadows
 
