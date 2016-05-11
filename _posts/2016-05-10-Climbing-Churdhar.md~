@@ -159,7 +159,7 @@ On Monday, remembering only the good times, we left for office.
 |  4. | Food   | 630  |
 | 5.  |  Water resistant Sheet |  50 |
 | 6.  |  Auto |  30|
-   |  Total |  1723|
+|  Total ||  1723/-|
 
 
 
