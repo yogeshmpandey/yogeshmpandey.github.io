@@ -167,4 +167,4 @@ At the village, there was no local transport back to Nainbag. We sat for tea and
 
 A few km from Dehradun one of the traveller's accelerator failed and were thrown out of the good vehicle to this one. We waited for 30 minutes for the brakes to cool down. And then we stared at a constant speedometer till Haridwar. We reached Haridwar at around 11.30pm and again missed my train back to Delhi. So I hopped on a public bus and reached Delhi at 6am sleepless. 
 
-But the pain was worth it. Except a few Muscules, everything is fine.
+But the pain was worth it. Except a few Muscle, everything is fine.

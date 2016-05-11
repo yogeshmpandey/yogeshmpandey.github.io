@@ -15,7 +15,7 @@ image:
 
 >The Times
 
-Nag Tibba is an easy trek that can be easily completed in a weekend from Delhi. At 3400 meters Nag Tibba is the highest peak of lesser Himalayas. It is said to be the abode of Nag Devta. Hence, it is kind of an experience that you can boast of. We previously planned it in the month of January when the top is covered in ankle deep snow, but somehow that plan dropped. Anyways with a new enthusiasm, we started on Friday, after an unwilling approval from the home since yesterday was Holi.
+Nag Tibba is an easy trek that can be easily completed in a weekend from Delhi. At 3400 meters Nag Tibba is the highest peak of lesser Himalayas. It is said to be the abode of Nag Devta. Hence, it is kind of an experience that you can boast of. We previously planned it in the month of January when the top is covered in ankle deep snow, but somehow that plan dropped. However, with a new enthusiasm, we started on Friday, after an unwilling approval from the home since yesterday was Holi.
 
 <img src="http://i.imgur.com/fqHxPkz.jpg" alt="header">
 
