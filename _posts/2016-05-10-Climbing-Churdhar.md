@@ -7,14 +7,14 @@ image:
   background: ps_neutral.png
 ---
 
-I must say that I am blessed in life. Blessed for the reasons that in life I have the most awesome, like and life minded people both in work and life.
+I must say that I am blessed in life. Blessed for the reasons that I have the most awesome, like and life minded people both in work and life.
 But this is however, not some rant but a travelogue. So let's continue.
 
 <img src="http://i.imgur.com/ewjP5pi.jpg" alt="Flowers in the hills">
 
 >Hill Flowers
 
-We are a breed of people that occasionally need something to shred the rust of mind and body. So after searching online for a good weekend trek in Himachal we came across Churdhar Peak trek. The Churdhar peak is at a height of 3690m and is the highest peak in the Shivalik Himalayan range. The trek is not very well known in the community as it is very challenging for a weekend. Although it attracts many local pilgrims visiting Chureshwar Mahadev Temple that which is near the summit.
+We are a breed of people that occasionally need something to shred the rust of mind and body. So after searching online for a good weekend trek in Himachal we came across Churdhar Peak trek. The Churdhar peak is at a height of 3690m and is the highest peak in the Shivalik Himalayan range. The trek is not very well known in the community as it is very challenging for a weekend. Although it attracts many local pilgrims visiting Chureshwar Mahadev Temple which is near the summit.
 
 <img src="http://i.imgur.com/6Rl4JQR.jpg" alt="Solan">
 
@@ -28,7 +28,7 @@ Unaware of the audacity of the trek, we booked to and fro tickets from Delhi to 
 
 **Reaching Nohradhar:**
 
-We boarded the bus to Solan from Kashmiri gate ISBT bus stand. HRTC buses are the best way to travel to Himachal, comparing with the public buses to Uttarakhand these are cheaper, comfortable and the drivers are experts of their roads. We reached Solan at around 4:30 am. The winds were chilly so we had to put on our jackets. The bus to Nohradhar was at 5:30 am. We sat and spend some jiffy moments  at the tea shop near the old bus stand. 
+We boarded the bus to Solan from Kashmiri gate ISBT bus stand. HRTC buses are the best way to travel to Himachal, comparing with the public buses to Uttarakhand these are cheaper, comfortable and the drivers are experts of their roads. We reached Solan at around 4:30 am. The winds were chilly so we had to put on our jackets. The bus to Nohradhar was at 5:30 am. We sat and spend some jiffy moments at the tea shop near the old bus stand. 
 
 <img src="http://i.imgur.com/9Zqk5g9.jpg" alt="Solan">
 
