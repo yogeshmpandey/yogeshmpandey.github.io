@@ -54,7 +54,7 @@ paginate: 1
 
 kramdown:
   auto_ids: true
-  footnote_nr: 1
+  footnote_nr: 2
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: true
