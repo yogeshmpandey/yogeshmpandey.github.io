@@ -57,7 +57,7 @@ Since Roopkund is a difficult trek at this time of the season we decided to trek
 
 **Day 2 : Kathgodam to Loharjung:**
 
-We reached Kathgodam railway station and waited for other fellow trekkers to join the party. At 7.00 am our Cabs started a 10-hour long journey to Loharjung. Our driver was an extrovert and jolly fellow who went by the name of Mishraji. After crossing Bhimtal and Bhowali we stopped at a cafe for breakfast. Crossing Garampani and Almora somewhere after Kausani we parked for lunch. Here, Kumaoni dishes like bhatt ke dubke and dal were mouth watering (Well !! at least for me). The hotel provided the splendid views of the Garhwal and Kumaon Himalayas, but in the afternoon's mist and smog nothing was visible. A few of us took a stroll in the tea gardens at the hills on the other side of the road. Again we continued our journey and after a few hours stopped at a small brook. Esctacy felt in the veins as we dipped our feets in the cold water of the brook. The journey continued after we took selfies and photographs. The condition of the roads became worse as we moved from Kumaon to Garhwal. As Garhwal lies in higher mountains, it is more prone to landslides and other conditions which make the roads more tattered - explained Mishraji . As we crossed Gwaldam, Mishraji told us many stories about the myth associated with the villages. He showed us the tree which has five different species of trees and the meadow where no rice or wheat can grow after being cursed by Goddess Nanda. He told us the route we are following is the same for going to Badrinath and Rajjat yatra which is held once in every 12 years.
+We reached Kathgodam railway station and waited for other fellow trekkers to join the party. At 7.00 am our cabs started a 10-hour long journey to Loharjung. Our driver was an extrovert and jolly fellow who went by the name of Mishraji. After crossing Bhimtal and Bhowali we stopped at a cafe for breakfast. Crossing Garampani and Almora somewhere after Kausani we parked for lunch. Here, Kumaoni dishes like bhatt ke dubke and dal were mouth watering (Well !! at least for me). The hotel provided the splendid views of the Garhwal and Kumaon Himalayas, but in the afternoon's mist and smog nothing was visible. A few of us took a stroll in the tea gardens at the hills on the other side of the road. Again we continued our journey and after a few hours stopped at a small brook. Esctacy felt in the veins as we dipped our feets in the cold water of the brook. The journey continued after we took selfies and photographs. The condition of the roads became worse as we moved from Kumaon to Garhwal. As Garhwal lies in higher mountains, it is more prone to landslides and other conditions which make the roads more tattered - explained Mishraji . As we crossed Gwaldam, Mishraji told us many stories about the myth associated with the villages. He showed us the tree which has five different species of trees and the meadow where no rice or wheat can grow after being cursed by Goddess Nanda. He told us the route we are following is the same for going to Badrinath and Rajjat yatra which is held once in every 12 years.
 
 <img src="http://i.imgur.com/gMJUh99.jpg" alt="View from the Breakfast Cafe">
 
@@ -67,12 +67,6 @@ We reached Kathgodam railway station and waited for other fellow trekkers to joi
 
 >View of the valley
 
-<img src="http://i.imgur.com/mDyM33U.jpg" alt="Sunset at Loharjung">
-
->Sunset at Loharjung
-
-After a long break at Deval which helped me fetch those basic utilities, we reached Loharjung at around 5 pm. Mishraji told us about the story of the naming of the place as Loharjung. It is very surprising and intriguing that how these small stories are connected with each other. Every village here has shared some history in these stories, the kids are told these stories before they learn basic alphabets. This makes one question the facts and the fiction part of the story.
-
 <img src="http://i.imgur.com/5rnJ9Zv.jpg" alt="">
 
 >Directions at view point
@@ -81,9 +75,16 @@ After a long break at Deval which helped me fetch those basic utilities, we reac
 
 >At the Brook
 
+After a long break at Deval which helped me fetch those basic utilities, we reached Loharjung at around 5 pm. Mishraji told us about the story of the naming of the place as Loharjung. It is very surprising and intriguing that how these small stories are connected with each other. Every village here has shared some history in these stories, the kids are told these stories before they learn basic alphabets. This makes one question the facts and the fiction part of the story.
+
 <img src="http://i.imgur.com/nMijQZa.jpg" alt="Tea Gardens">
 
 >Tea Gardens
+
+<img src="http://i.imgur.com/mDyM33U.jpg" alt="Sunset at Loharjung">
+
+>Sunset at Loharjung
+
 
 After reaching Loharjung, later in the evening we had our first briefing. There we came to know about our trek leader Mr Gopal Kishan who was a young guy from Kullu. He had his own ways of saying things but also a good sense of humour. We came to know that we were 25 people from all walks of life - doctors, engineers, students and others. After a light know how, dinner and a quick game of UNO we went to sleep.
 
@@ -242,7 +243,7 @@ After and hour we reached Bhagwabasha through the snow patches. Honestly, the he
 
 >Last tea shop... NO?
 
-Later in the evening at around 3 or 4 pm. The grey clouds overshadowed the sunlight and in a matter of few seconds, it started snow falling as if angels are having a pillow fight. As the ice flakes kissed our cheeks, the joy and happiness were visible in the cheer of the crowd. After the snowfall, our tents looked like blue beads in the clouds. The view was such hypnotising that it was very hard to describe from where the snow had ended and clouds have started.
+Later in the evening at around 3 or 4 pm. The grey clouds overshadowed the sunlight and in a matter of few seconds, snow started falling as if angels are having a pillow fight. As the ice flakes kissed our cheeks, the joy and happiness were visible in the cheer of the crowd. After the snowfall, our tents looked like blue beads in the clouds. The view was such hypnotising that it was very hard to describe from where the snow had ended and clouds have started.
 
 <img src="http://i.imgur.com/UC6nRyb.jpg" alt="From inside the Tent">
 
@@ -263,7 +264,7 @@ We lined up with our crampon boots and torches in our hands for the trek in the 
 
 >Just ! Don't Look Down
 
-Roopkund was situated beautifully between the mountain. The water in the lake had a thin sheet of ice. We were unable to locate any skeleton as the outskirts of the lake was surrounded by snow. Junargali looked achievable but soon the entire atmosphere we covered by fog and mist. So the trek leader dropped the plan. At Roopkund, we were served with Porridge which was bland but tasted heavenly. After quick surreal view of the surrounding and lots of pictures, we started our descent. It was foggy and we are unable to see if our group lead is at the front or back. In this confusion, we made a quick descent and reached Baghwabasa quickly. Here I cheated a quick nap while waiting for others. The weather turned hostile as it started raining at the time of descending. After having lunch in the main tent we made the quick decent to Patharnacahuni in ponchos. We greeted good luck to the travellers on the route going for the trek. At Patharnachauni while coming down we witnessed the strongest of the mountain winds it was sheer fun. We reached Patharnachauni at around 3.30 pm which was followed by some quick naps. 
+Roopkund was situated beautifully between the mountain. The water in the lake had a thin sheet of ice. We were unable to locate any skeleton as the outskirts of the lake was surrounded by snow. Junargali looked achievable but soon the entire atmosphere we covered by fog and mist. So the trek leader dropped the plan. At Roopkund, we were served with Porridge which was bland but tasted heavenly. After quick surreal view of the surrounding and lots of pictures, we started our descent. It was foggy and we are unable to see if our group lead is at the front or back. In this confusion, we made a quick descent and reached Baghwabasa quickly. Here I cheated a quick nap while waiting for others. The weather turned hostile as it started raining at the time of descending. After having lunch in the main tent we made the quick decent to Patharnacahuni in ponchos. We greeted good luck to the travellers on the route going for the trek. At Patharnachauni while coming down we witnessed the strongest of the mountain winds and it was sheer fun. We reached Patharnachauni at around 3.30 pm which was followed by some quick naps. 
 
 <img src="http://i.imgur.com/X7yxIuk.jpg" alt="last few steps">
 
@@ -279,7 +280,7 @@ Roopkund was situated beautifully between the mountain. The water in the lake ha
 
 **Day 8: Patar Nachauni to Lohajung via Bedni and Wan**
 
-Today was the 15 km descent from Patar Nachauni to Wan Village. From wan Village Transport was arranged for back to Lohajung. It took us three days to reach Patharnachauni now we have to do it in one day. However, descending down is a piece of cake compared to ascending up, the quote goes for life as well. We reached Bedni Bugyal and the clear skies gave the astonishing views of Trishul in the backdrop. From Bedni is the steep descend to NeelGanga river. Without getting in the eyes of the group lead we took steep shortcuts from the forest. It was fun playing I Spy with the lead but its not safe. We reached Neelganga river and had our lunch. Here we did face dips in the icy cold water just to get more sunburned. It was worth it.
+Today was the 15 km descent from Patar Nachauni to Wan Village. From wan Village Transport was arranged for back to Lohajung. It took us three days to reach Patharnachauni now we have to do it in one day. However, descending down is a piece of cake compared to ascending up, the quote goes for life as well. We reached Bedni Bugyal and the clear skies gave the astonishing views of Trishul in the backdrop. From Bedni is the steep descend to NeelGanga river. Without getting in the eyes of the group lead we took steep shortcuts from the forest. It was fun playing "I Spy" with the lead but its not safe. We reached Neelganga river and had our lunch. Here we did face dips in the icy cold water just to get more sunburned. It was worth it.
 
 <img src="http://i.imgur.com/gINHuXb.jpg" alt="View from Bedni">
 
