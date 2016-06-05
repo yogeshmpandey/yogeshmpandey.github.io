@@ -192,7 +192,7 @@ There is the scarcity of resources in Ali Bugyal and many other places. The supp
 
 **Day 5: Ali Bugyal to Patar Nachauni via Bedni Bugyal**
 
-Yesterday was an arduous trek, but today we were promised that it would be a piece of cake. We started from Ali bugyal at around 8 am after watching the sun rising behind the Trishul mastiff. Just after reaching the steep top after 20 minutes, a magnificent view of Himalayas was seen. In the blissful morning, we saw peaks of Bandarpoonch, Mighty Chaukhumba, Hathi Parvat, Neelkanth on the left and Nanada ghunghti, Trishul on the right. Trishul felt so near that one jump and touch it. The view became more vivid as we reached Bedni Bugyal. Bedni is called one of the best meadows in Garhwal just for nothing. It offers delightful and amazing views of the peaks adding to its mythological relevance. We reached Ghoralautani and saw our campsites in Patharnacuhani.
+Yesterday was an arduous trek, but today we were promised that it would be a piece of cake. We started from Ali bugyal at around 8 am after watching the sun rising behind the Trishul mastiff. Just after reaching the steep top after 20 minutes, a magnificent view of Himalayas was seen. In the blissful morning, we saw peaks of Bandarpoonch, Mighty Chaukhumba, Hathi Parvat, Neelkanth on the left and Nanada ghunghti, Trishul on the right. Trishul felt so near that one can jump and touch it. The view became more vivid as we reached Bedni Bugyal. Bedni is called one of the best meadows in Garhwal just for nothing. It offers delightful and amazing views of the peaks adding to its mythological relevance. We reached Ghoralautani and saw our campsites in Patharnacuhani.
 
 <img src="http://i.imgur.com/qHEqjaZ.jpg" alt="Neelkanth">
 
