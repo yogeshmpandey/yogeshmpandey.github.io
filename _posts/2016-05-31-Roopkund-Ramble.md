@@ -7,13 +7,13 @@ image:
   background: ps_neutral.png
 ---
 
-Its like Love, Maybe a long distance one, but it is. The inescapable desire, the deep obsession that leaves the traveller no other choice than to plan his next expedition back to his amoureux- The Himalayas. This next expedition of ours was to Roopkund. Roopkund is a well known pristine high altitude galcial lake that lies in the lap of Trishul masiff in upper Himalayas. It is well known for its mystic and spiritual essence. The trek has every delight for a tasteful trekker. It has Deep forests, splashing rivulets, breath-taking meadows, great campsites, snow and ice,  everything wrapped in a package as we climb from 8,000ft to 16,000ft in 5 days.
+It is like Love, Maybe a long distance one, but it is. The inescapable desire, the deep obsession that leaves the traveller no other choice than to plan his next expedition back to his amoureux- The Himalayas. This next expedition of ours was to Roopkund. Roopkund is a well known pristine high altitude galcial lake that lies in the lap of Trishul masiff in upper Himalayas. It is well known for its mystic and spiritual essence. The trek has every delight for a tasteful trekker. It has Deep forests, splashing rivulets, breath-taking meadows, great campsites, snow and ice,  everything wrapped in a package as we climb from 8,000ft to 16,000ft in 5 days.
 
 <img src="http://i.imgur.com/1mXOjVw.jpg" alt="Trekkers">
 
 >Our Team (minus the photographer and one busy guy)
 
-NOTE : This is a lengthy post. So put on those reading glasses, grab a popcorn and please for the sake of the super awesome pictures yet to come, view on a big screen.
+NOTE : This is a lengthy post. So put on those reading glasses and grab some popcorn as it will take time to load. And please for the sake of the super awesome pictures yet to come, view on a big screen :D.
 
 <img src="http://i.imgur.com/lO78ywT.jpg" alt="Pahadi Crows">
 
@@ -23,15 +23,15 @@ NOTE : This is a lengthy post. So put on those reading glasses, grab a popcorn a
 
 >Small Temple in the Mountain
 
-From the Local guides and the book that I was reading (The Nanda Devi Affair) on the trip. I came across various myths associated with this trail.
+From the Local guides and the book that I was reading (<a href="http://www.amazon.in/Nanda-Devi-Affair-Bill-Aitken/dp/0140240454">The Nanda Devi Affair</a>) on the trip. I came across various myths associated with this trail.
 
 * Loharjung is named after the demon loha. Who was killed by Goddess Durga or Nanda Devi on the same lands. 
 * Lord Brahma wrote the four Vedas near bedni kund in Bedni Bugyal.
 * Gohralatauni a place further ahead. It is named so because from here the horses return back due of lack of pasturable lands and rocky paths.
 * The king of Kumaon took  a pilgrimage to Nanda Devi with his dancers. This disrespect made the Goddess very angry and infuriated she cursed the dancers to become Stones. At Pathar-nauchani we can see many big stones connected to the folklore.
 * There is a temple of Kalu Vinayak at the end of steep climb after pathar nauchani. Legends has it that lord Vinayak (Ganesha ) stood Gaurd as Goddess Parvati was taking bath at roopkund lake.
-* At our last base camp to Roopkund "Bhaguwabasa" Goddess Parvati left the tiger for the bath.
-* Legend says that while Lord Shiva and Goddess Parvati were on their way to Kailash, Goddess Parvati felt thirsty. So Lord Shiva with his tri shuls created the Roopkund lake. It was here that the Goddess Parvati first saw herself(roop) in the crystal clear water of the lake. Hence, it is named as Roopkund.
+* At our last base camp to Roopkund at "Bhaguwabasa" Goddess Parvati left the tiger for the bath.
+* Legend says that while Lord Shiva and Goddess Parvati were on their way to Kailash, Goddess Parvati felt thirsty. So Lord Shiva with his Trishul created the Roopkund lake. It was here that the Goddess Parvati first saw herself(roop) in the crystal clear water of the lake. Hence, it is named as Roopkund.
 * Every 12 years a four horned ram is born in some village and  this marks the auspicious beginning the Nanda Devi Rajjat Yatra. This Yatra is done by thousand of villagers to pay offerings to Goddess Nanda. The yatra ends in Homekund. The local undertake this harsh journey barefoot from Bedni Bugyal to Homekund. This Yatra unites both the Kumaoni and Garhwali communities of Uttarakhand.
 * The biggest mystery is of over 500 skeletons in the lake. These are believed to be of the travellers who lost their way somehow. These skeletons date back to  1000 AD. As the lake at the confluence of three ridges, someone falling from the ridge is most likely to fall in the lake. But local guides tell a different story. Once the king of Kanauj - Raja Jasdhawal undertook Raj Jat Yatra along with his wife. Who near roopkund gave birth to a child. Goddess Nanda Devi considered it a sacrilege in her domain and sent down a hailstorm. Raja’s people were caught in it and perished in Roopkund. 
 
@@ -39,16 +39,13 @@ From the Local guides and the book that I was reading (The Nanda Devi Affair) on
 
 >The Nanda Devi Affair
 
-
 <img src="http://i.imgur.com/3gRO5PS.jpg" alt="">
 
 >Thristy sheeps
 
 **Day 1 : Delhi to Kathgodam:**
 
-Since Roopkund is a difficult trek at this time of the season we decided to trek with TTH (TrekTheHimalayas) Team from 19-May to 26-
-may. Some of the colleagues had previously trekked with the team with good reviews. My backpack was still unpacked with the stuff from the trek on the previous weekend. So I carelessly filled it with other warm clothes. It was later I realised that I had forgotten may items like a towel, soaps and other basic but  important stuff. I reached Kathgodam at around 8.00 pm and met my colleagues. After eating a heavy pizza in the Dinner, slept at KMVN kathgodam.
-
+Since Roopkund is a difficult trek at this time of the season we decided to trek with TTH (<a href="http://www.trekthehimalayas.com">Trek The Himalayas</a>) Team from 19-May to 26-May. Some of the colleagues had previously trekked with the team with good reviews. My backpack was still unpacked with the stuff from the trek on the previous weekend. So I carelessly filled it with other warm clothes. It was later I realised that I had forgotten may items like a towel, soaps and other basic but  important stuff. I reached Kathgodam at around 8.00 pm and met my colleagues. After eating a heavy pizza in the Dinner, slept at KMVN kathgodam.
 
 <img src="http://i.imgur.com/o494gVQ.jpg" alt="Kathgodam Railway Station">
 
@@ -200,6 +197,10 @@ Yesterday was an arduous trek, but today we were promised that it would be a pie
 
 >Starting
 
+<img src="http://i.imgur.com/2KAnbdS.jpg" alt="Neelkanth">
+
+>Bandarpoonch
+
 <img src="http://i.imgur.com/R3HZVEN.jpg" alt="Neelkanth">
 
 >Neelkanth Mountiain
@@ -253,7 +254,7 @@ Later in the evening at around 3 or 4 pm. The grey clouds overshadowed the sunli
 
 Later in the evening the evening we were provided crampons for walking on the ice till Roopkund. Our next day's trek was at the mercy of the weather.
 
-**Day 7: bhagubasha to roopkund to patharnauchni**
+**Day 7: Bhagubasha to Roopkund to Patharnauchni**
 
 We were told if the weather permits we will start the trek anytime between 3 or 4 am. I was unable to sleep due to the ecstasy of reaching the destination. From 9 am to 2 am I woke up around five times just to check the time. I heard the first whistle to get up for the trek at 2.32 am.
 We lined up with our crampon boots and torches in our hands for the trek in the moonlit night. Few of us decided to stay back in Bhagwabasa. We were told that today is the most difficult day of the trek and indeed it was. Within our groups, we were curious if we could go further from Roopkund to Junargali. After a few steps, our crampons were filled with ice-balls, which had to be removed. Trekking in snow becomes a lot tougher. After an hour or so the trail disappeared and the guides and technical team with us carrying ropes and axes created a trial in the snow. These guys had vast experience of the mountain and by running to and fro they made sure that no-one slips and falls into the valley. Huffing and puffing we made to the last few meters. These 500 metres were by far the hardest. We joined hands on the little temple at the top and thanked Goddess Nanda for journey till here. 
