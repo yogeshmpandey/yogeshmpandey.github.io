@@ -264,7 +264,7 @@ We lined up with our crampon boots and torches in our hands for the trek in the 
 
 >Just ! Don't Look Down
 
-Roopkund was situated beautifully between the mountain. The water in the lake had a thin sheet of ice. We were unable to locate any skeleton as the outskirts of the lake was surrounded by snow. Junargali looked achievable but soon the entire atmosphere we covered by fog and mist. So the trek leader dropped the plan. At Roopkund, we were served with Porridge which was bland but tasted heavenly. After quick surreal view of the surrounding and lots of pictures, we started our descent. It was foggy and we are unable to see if our group lead is at the front or back. In this confusion, we made a quick descent and reached Baghwabasa quickly. Here I cheated a quick nap while waiting for others. The weather turned hostile as it started raining at the time of descending. After having lunch in the main tent we made the quick decent to Patharnacahuni in ponchos. We greeted good luck to the travellers on the route going for the trek. At Patharnachauni while coming down we witnessed the strongest of the mountain winds and it was sheer fun. We reached Patharnachauni at around 3.30 pm which was followed by some quick naps. 
+Roopkund was situated beautifully between the mountain. The water in the lake had a thin sheet of ice. Some trekkers were able to locate some skeletons on the outskirts of the lake surrounded by snow. Junargali looked achievable but soon the entire atmosphere we covered by fog and mist. So the trek leader dropped the plan. At Roopkund, we were served with Porridge which was bland but tasted heavenly.After quick surreal view of the surrounding and lots of pictures, we started our descent. It was foggy and we are unable to see if our group lead is at the front or back. In this confusion, we made a quick descent and reached Baghwabasa quickly. Here I cheated a quick nap while waiting for others. The weather turned hostile as it started raining at the time of descending. After having lunch in the main tent we made the quick decent to Patharnacahuni in ponchos. We greeted good luck to the travellers on the route going for the trek. At Patharnachauni while coming down we witnessed the strongest of the mountain winds and it was sheer fun. We reached Patharnachauni at around 3.30 pm which was followed by some quick naps. 
 
 <img src="http://i.imgur.com/X7yxIuk.jpg" alt="last few steps">
 
@@ -277,6 +277,10 @@ Roopkund was situated beautifully between the mountain. The water in the lake ha
 <img src="http://i.imgur.com/niIz4Nv.jpg" alt="Roopkund ">
 
 >Roopkund First view 
+
+<img src="http://i.imgur.com/kdDKhW9.jpg" alt="skeletons at Roopkund ">
+
+>Skeletons at Roopkund
 
 **Day 8: Patar Nachauni to Lohajung via Bedni and Wan**
 
@@ -315,4 +319,5 @@ Today's journey back was tiring, boring and long as everyone was engrossed in th
 
 This expedition was a true test of self, both mental and physical. But the Himalayas keeps your motivation high, fine meadows, peaks of Nandaghunghti and Trishul keeps you inspired. The end destination might not be as awesome, but at the end it the journey that matters.
 
+Pictures : Me, Abhishek and Debjyoti sir
 
