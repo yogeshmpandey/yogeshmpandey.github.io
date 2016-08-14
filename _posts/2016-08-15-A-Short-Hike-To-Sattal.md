@@ -10,25 +10,21 @@ image:
 
 >Monsoon and hills
 
-It was about three months and I had only gone to and fro my home in the name of travelling. After a series of changing plans for finding the best places to go in this monsoon season , we decided to give Parashar lake in Himachal a try. But again the stars had something else in mind. After some other unfortunate turn of events that us landed in Sattal. 
-
+It was about three months and I had only gone to and fro my home in the name of travelling. After a series of changing plans for finding the best places to go in this monsoon season , we decided to give Parashar lake in Himachal a try. But again the stars had something else in mind. After some other unfortunate turn of events, we landed in Sattal. 
 
 <img src="http://i.imgur.com/m0AvzeS.jpg" alt="">
 
 >Reaching Bhimtal
 
-
 <img src="http://i.imgur.com/bvrfLWT.jpg" alt="">
 
 >Flowers on a calliper
-
 
 <img src="http://i.imgur.com/lZgMwEE.jpg" alt="">
 
 >Most Suitable route Algorithm :)
 
-
-Sattal is an interconnected group of seven freshwater lakes situated near Bhimtal. We reached Haldwani three hours late as the bus tire got punctured near Joya. Since, it was a trip planned in a frenzy, After reaching Haldwani, We decided to stop the bus somewhere before Bhimtal and take the hill route till Sattal. But  the driver told us that it will be a long path and we should better take the vehicles from Meheragaon. However, Google Maps showed a path relatively shorter and doable on foot. I had confidence in my instincts so I asked the Driver to drop us at that point and luckily we were at the spot from where Sattal was only 5 km away. Thanking the universe, we started the walk. 
+Sattal is an interconnected group of seven freshwater lakes situated near Bhimtal. We reached Haldwani three hours late as the bus tire got punctured near Joya. Since, it was a trip planned in a frenzy, After reaching Haldwani, We decided to stop the bus somewhere before Bhimtal and take the hill route till Sattal. But  the driver told us that it will be a long path and we should better take the vehicles from Meheragaon. However, Google Maps showed a path which was relatively shorter and doable on foot. I had confidence in my instincts, so I asked the Driver to drop us at that point and luckily we were at the spot from where Sattal was only 5 km away. Thanking the universe, we started the walk. 
 
 <img src="http://i.imgur.com/rrfmV4y.jpg" alt="">
 
@@ -42,8 +38,7 @@ Sattal is an interconnected group of seven freshwater lakes situated near Bhimta
 
 >Outside the Church
 
-Initially, there were Houses on the way, which cleared the way to dense oak and pine trees. The locals helped us with the diverging paths. And after half an hour we found ourself outside a church. A church between hills and Forest looked like a scene from a Fairytale book. We resumed our walk and reached Nal-Damyanti Tal.
-
+Initially, there were Houses on the way, which cleared the way to dense oak and pine trees. The locals helped us with the diverging paths. And after half an hour we found ourself outside a church. A church between hills and Forest looked like a scene from an old Movie. We resumed our walk and reached Nal-Damyanti Tal.
 
 <img src="http://i.imgur.com/asHh5Pj.jpg" alt="">
 
@@ -56,7 +51,6 @@ Initially, there were Houses on the way, which cleared the way to dense oak and 
 <img src="http://i.imgur.com/GMmaOGe.jpg" alt="">
 
 >Moist Roads
-
 
 Somewhere in between, it started raining. After a few drops, everything became better, the trees became greener, the smell of flowers became more vibrant, the songs of birds became clearer and the void inside starts to fill in. We reached Sattal at around 2 pm.
 
