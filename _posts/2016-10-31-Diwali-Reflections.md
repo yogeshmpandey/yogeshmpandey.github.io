@@ -9,7 +9,7 @@ image:
 
 <img src="http://i.imgur.com/pB5QFHM.jpg" alt="Peace">
 
-This is not the post of this Diwali, but of the nostalgia this festival has always wrapped itself in. You know, the happiness in sadness,  ying-yang kind of feeling that some occasion surrounds itself in. This Diwali these thoughts we all over my mind. How Diwali as a festival is evolved for me, How I don't enjoy the things I used to do previously. How I enjoyed the things I didn't use to previously.
+This is not the post of this Diwali, but of the nostalgia this festival has always wrapped itself in. You know, the happiness in sadness,  ying-yang kind of feeling that some occasion surrounds itself in. This Diwali these thoughts we all over my mind. How Diwali as a festival has evolved for me, How I don't enjoy the things I used to do previously. How I enjoyed the things I didn't use to previously.
 
 Diwali is a special Festival for me. I clearly remember I used to count weeks from Holi (Holi sucks) for that year's Diwali. This is the time of the year where once feels the chills of winter is coming. A Happy Happy kind of warm feeling that something good is coming, for us as children it was Diwali. Before 10 I was mad for Fireworks. Our group of friends were intrigued by them. Drying the crackers in the sun before the big night, The smell after the explosion, the process in which one would scratch the tip (so that it does not burn immediately after lighting the fire), the wait for the blast, if it didn't blast then who would go to see wether it could be reused or not. There were so many more vivid memories surrounding the festival at that time.  
 
