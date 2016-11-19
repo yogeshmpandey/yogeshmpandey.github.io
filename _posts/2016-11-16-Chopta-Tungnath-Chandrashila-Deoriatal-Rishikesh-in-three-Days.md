@@ -142,4 +142,4 @@ We reached Rishikesh early at around 4pm. We had time to explore rishikesh, so w
 
 >At Rishikesh
 
-I slept back in my room since there was no way I could reach my Office. Deoriatal-Chandrashila trek is a too great reward for too little effort both in terms of physical and financial.
+I slept back in my room since there was no way I could reach my Office. Deoriatal-Chandrashila trek is a too great reward for too little effort both in physical and financial terms.
