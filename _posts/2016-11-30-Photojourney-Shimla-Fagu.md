@@ -6,14 +6,14 @@ categories: travel
 image:
   background: ps_neutral.png
 ---
-In an subconcious effort to go to Himalayas whenever possible. This Weekend was well spent exploring Fagu and Shimla.
+In a subconscious effort to go to the Himalayas whenever possible. This Weekend was well spent exploring Fagu and Shimla.
 Not much of a travel tale to tell, let the photos do the job.
 
 <img src="http://i.imgur.com/WLcNgbp.jpg" alt="sun in shimla">
 
 >First Sunrays
 
-While Shimla was still asleep, Our bus dropped us to in the capital city. We asked the Locals for direction and reached the ridge and christ church adjacent to it. The Ridge houses the city's lifeline in terms of water reservoir, with a capacity of 10 lakh gallons of water, beneath it. The reservoir is stated to have been constructed in the 1880s.
+While Shimla was still asleep, Our bus dropped us to in the capital city. We asked the Locals for direction and reached the ridge and christ church adjacent to it. The Ridge houses the city's lifeline in terms of the water reservoir, with a capacity of 10 lakh gallons of water, beneath it. The reservoir is stated to have been constructed in the 1880s.
 
 <img src="http://i.imgur.com/b8aTzFw.jpg" alt="The Ridge">
 
@@ -39,10 +39,10 @@ Jakhu Temple is very popular Temple in Shimla. This is the highest point in Shim
 
 <img src="http://i.imgur.com/iMmmL0h.jpg" alt="Trekkers">
 
->World's Most tallest Hanuman Statue
+>World's tallest Hanuman Statue
 
 This is considered as world's tallest statue at 108 feet at the highest altitude of over 8100. To my surprise, it surpasses the current tallest statue of 'Christ the Redeemer' in Rio de Janeiro, Brazil. Yet no-one knows about it.
-It is said that Lord Hanuman rested for a while on this hill while he carried the Mountain back to himalayas after Lord Lakshman was cured. Due to which the hill is flat from the top. The temple has been built around the place that is supposed to have the footprints of Hanuman. 
+It is said that Lord Hanuman rested for a while on this hill while he carried the Mountain back to Himalayas after Lord Lakshman was cured. Due to which the hill is flat from the top. The temple has been built around the place that is supposed to have the footprints of Hanuman. 
 
 **Just for caution** : Stay away from the monkeys. They are very friendly.
 
@@ -50,7 +50,7 @@ It is said that Lord Hanuman rested for a while on this hill while he carried th
 
 >Indian Flag at The Ridge
 
-After a short trip for an hour we reached Fagu. It is a beautiful place with sparse population and fine views of Pir Panjal Range.
+After a short trip for an hour, we reached Fagu. It is a beautiful place with sparse population and fine views of Pir Panjal Range.
 
 <img src="http://i.imgur.com/VzgPg38.jpg" alt="sun in shimla">
 
@@ -64,7 +64,7 @@ After a short trip for an hour we reached Fagu. It is a beautiful place with spa
 
 >At Fagu
 
-Fagu gave a fresh view of Himalayan ranges. These ranges glew vivid red at sunset. It is a must visit for tourists who desire a calm and serene atmosphere. We did an early morning walk, crossing the temple we reached an abandoned hill that gave fascinating views of the valley and the Himalayas.
+Fagu gave a fresh view of Himalayan ranges. These ranges glow vivid red at sunset. It is a must visit for tourists who desire a calm and serene atmosphere. We did an early morning walk, crossing the temple we reached an abandoned hill that gave fascinating views of the valley and the Himalayas.
 
 <img src="http://i.imgur.com/LAxp3sq.jpg" alt="Trekkers">
 
