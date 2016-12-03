@@ -42,6 +42,7 @@ Jakhu Temple is very popular Temple in Shimla. This is the highest point in Shim
 >World's tallest Hanuman Statue
 
 This is considered as world's tallest statue at 108 feet at the highest altitude of over 8100. To my surprise, it surpasses the current tallest statue of 'Christ the Redeemer' in Rio de Janeiro, Brazil. Yet no-one knows about it.
+
 It is said that Lord Hanuman rested for a while on this hill while he carried the Mountain back to Himalayas after Lord Lakshman was cured. Due to which the hill is flat from the top. The temple has been built around that flat place that is supposed to have the footprints of Lord Hanuman. 
 
 **Just for caution** : Stay away from the monkeys. They are very friendly.
@@ -68,11 +69,11 @@ Fagu gave a fresh view of Himalayan ranges. These ranges glow vivid red at sunse
 
 <img src="http://i.imgur.com/xWyrLl4.jpg" alt="Trekkers">
 
->Sunrise in fagu
+>Sunrise at fagu
 
 <img src="http://i.imgur.com/LAxp3sq.jpg" alt="Trekkers">
 
->Sunset in fagu
+>Sunset at fagu
 
 <img src="http://i.imgur.com/Lg0RrfN.jpg" alt="Trekkers">
 
@@ -82,10 +83,10 @@ Fagu gave a fresh view of Himalayan ranges. These ranges glow vivid red at sunse
 
 >Sunset from Shimla
 
-With beautiful memories, It was time to say GoodBye to this beautiful place.
+With beautiful memories, It was time to say GoodBye.
 
 <img src="http://i.imgur.com/jlRWMTg.jpg" alt="Shimla in Night">
 
->Shimla in Night
+>Shimla at Night
 
 
