@@ -66,7 +66,7 @@ After a short trip for an hour, we reached Fagu. It is a beautiful place with sp
 
 Fagu gave a fresh view of Himalayan ranges. These ranges glow vivid red at sunset. It is a must visit for tourists who desire a calm and serene atmosphere. We did an early morning walk, crossing the temple we reached an abandoned hill that gave fascinating views of the valley and the Himalayas.
 
-<img src="http://imgur.com/xWyrLl4" alt="Trekkers">
+<img src="http://i.imgur.com/xWyrLl4.jpg" alt="Trekkers">
 
 >Sunrise in fagu
 
