@@ -13,7 +13,7 @@ image:
 
 The greatest take away from the journey was that not all stories are going to end the way you want, that there are things in life that you cannot control—and that’s okay.
 
-This was the last trek of the year. Simply put it took us time to finalise on Kareri Lake trek. Since while surfing the interwebs and planning the hows and whens, I came across this and this and this. We came to know that Kareri lake route is notorious for leopard and bear sightings. However since no other weekend trek was left to cover, we decide to take a risk and finalised on Kareri lake. And Glad we did it.
+This was the last trek of the year. Simply put, it took us time to finalise on Kareri Lake trek. Since while surfing the interwebs and planning the hows and whens, I came across <a href="https://www.inditramp.com/magazine/kareri-lake-trek-communing-with-dhauladhars">this</a>. We came to know that Kareri lake route is notorious for leopard and bear sightings. However since no other weekend trek was left to cover, we decide to take a risk and finalised on Kareri lake. And Glad we did it.
 
 Kareri lake trek starts from Kareri Village. Regular buses ply from Dharamshala to Ghera. From Ghera one needs a Taxi to Kareri village. 
 
@@ -67,10 +67,7 @@ After the first three kilometres, the trail starts on the right from the bridge.
 
 Here we added one more layer of warm clothes and started again on the trail. It was 3 pm now and we still didn't have a clue about how much of the forest have we covered. Just then we met a local guy with the typical Himachali cap and a wide smile. He told us that we will be halfway once we reach a bridge nearby. He also told us that he had lost his 8 sheep in the nearby area. It was 4.30 pm and it was very unlikely to be able to reach the lake before sunset. After some time we found the first trekker behind us with a local guy.  It felt great to have a company. 
 
-The local guy told us to avoid trekking in the night as it would not be safe. Abiding by the rules of the Jungle we pitched our tents near an abandoned hut beside the river. The local guy build the fire in in a blink and finished our frugal dinner and went to the tents.
-
-
-
+The local guy told us to avoid trekking in the night as it would not be safe. Abiding by the rules of the Jungle we pitched our tents near an abandoned hut beside the river. The local guy build the fire in a blink and meanwhile we finished our frugal dinner and went to the tents.
 
 <img src="http://i.imgur.com/aanwVIG.jpg" alt="Crossing The Bridge">
 
@@ -81,7 +78,7 @@ The local guy told us to avoid trekking in the night as it would not be safe. Ab
 >Out Hut in morning
 
 
-It was about 7 pm and the valley was pitch dark. The sound of the water and wild animals echoed in the valley. The longest sleepless night was about to start. After the funny and serious stories started to settle, the echoes and contemplations of the wildlings in the valley took over the talks. It was then when we heard someone scratching the tent from the outside. I looked at my watch it was 10.43 pm. At first, we ignored the sound. Then again we heard it and this time it was more clearer. Friends from another tent also anticipated that something from outside is scratching the tents. This went on for half an hour until one of us went outside to inspect. After few minutes it was known our wild bear was nothing but a string rubbing against the tent due to wind. We laughed at ourself and went again to sleep. 
+It was about 7 pm and the valley was pitch dark. The sound of the water and wild animals echoed in the valley. The longest sleepless night was about to start. After the funny and serious talks, the stories started to settle, the echoes and contemplations of the wildlings in the valley took over the talks. It was then when we heard someone scratching the tent from the outside. I looked at my watch it was 10.43 pm. At first, we ignored the sound. Then again we heard it and this time it was more clearer. Friends from another tent also anticipated that something from outside is scratching the tents. This went on for half an hour until one of us went outside to inspect. After few minutes it was known our wild bear was nothing but a string rubbing against the tent due to wind. We laughed at ourself and went again to sleep. 
 
 
 <img src="http://i.imgur.com/Nup9KcG.jpg" alt="Crossing The Bridge">
