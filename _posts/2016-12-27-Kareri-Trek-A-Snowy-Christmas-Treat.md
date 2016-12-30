@@ -6,12 +6,11 @@ categories: travel
 image:
   background: ps_neutral.png
 ---
+The greatest take away from the journey was that not all stories are going to end the way you want, that there are things in life that you cannot control—and that’s okay.
 
-<img src="http://i.imgur.com/TaZKiTr.jpg" alt="sun in shimla">
+<img src="http://i.imgur.com/TaZKiTr.jpg" alt="Wildlings">
 
 >Damn!!
-
-The greatest take away from the journey was that not all stories are going to end the way you want, that there are things in life that you cannot control—and that’s okay.
 
 This was the last trek of the year. Simply put, it took us time to finalise on Kareri Lake trek. Since while surfing the interwebs and planning the hows and whens, I came across <a href="https://www.inditramp.com/magazine/kareri-lake-trek-communing-with-dhauladhars">this</a>. We came to know that Kareri lake route is notorious for leopard and bear sightings. However since no other weekend trek was left to cover, we decide to take a risk and finalised on Kareri lake. And Glad we did it.
 
