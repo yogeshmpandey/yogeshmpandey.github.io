@@ -12,7 +12,7 @@ The greatest take away from the journey was that not all stories are going to en
 
 >New Year, New Ride
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1dgyZnNklVLNR6P--jfNFNczmvBI" width="800" height="600"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1dgyZnNklVLNR6P--jfNFNczmvBI" width="1024" height="600"></iframe>
 
 <img src="http://i.imgur.com/DEcyQub.jpg" alt="Vroom">
 
