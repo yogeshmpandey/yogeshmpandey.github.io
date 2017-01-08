@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Solo Cycling: Gurgaon to Faridabad"
-date:   2016-12-30 00:22:40
+date:   2017-01-08 00:22:40
 categories: travel
 image:
   background: ps_neutral.png
