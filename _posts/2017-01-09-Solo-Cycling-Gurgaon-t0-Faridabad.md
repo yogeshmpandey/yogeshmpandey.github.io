@@ -26,9 +26,9 @@ The greatest take away from the journey was that not all stories are going to en
 
 >First Toll Bridge
 
-<img src="http://i.imgur.com/w9g7tZgjpg" alt="Vroom">
+<img src="http://i.imgur.com/w9g7tZg.jpg" alt="Vroom">
 
->A Temple being Constructed
+>A Temple in Construction
 
 <img src="http://i.imgur.com/ygeTtrf.jpg" alt="Vroom">
 
@@ -40,5 +40,3 @@ The greatest take away from the journey was that not all stories are going to en
 
 
 It was the first weekend of the year. I woke up at around 6am. It was Raining Outside and temperature was very low.
-Kareri lake trek starts from Kareri Village. Regular buses ply from Dharamshala to Ghera. From Ghera one needs a Taxi to Kareri village. 
-
