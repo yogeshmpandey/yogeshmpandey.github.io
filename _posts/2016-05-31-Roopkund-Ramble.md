@@ -3,6 +3,7 @@ layout: post
 title:  "The Roopkund Ramble"
 date:   2016-06-06 00:22:40
 categories: travel
+tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, High Altitude]
 image:
   background: ps_neutral.png
 ---
@@ -25,7 +26,7 @@ NOTE : This is a lengthy post. So put on those reading glasses and grab some pop
 
 From the Local guides and the book that I was reading (<a href="http://www.amazon.in/Nanda-Devi-Affair-Bill-Aitken/dp/0140240454">The Nanda Devi Affair</a>) on the trip. I came across various myths associated with this trail.
 
-* Loharjung is named after the demon loha. Who was killed by Goddess Durga or Nanda Devi on the same lands. 
+* Loharjung is named after the demon loha. Who was killed by Goddess Durga or Nanda Devi on the same lands.
 * Lord Brahma wrote the four Vedas near bedni kund in Bedni Bugyal.
 * Gohralatauni a place further ahead. It is named so because from here the horses return back due of lack of pasturable lands and rocky paths.
 * The king of Kumaon took  a pilgrimage to Nanda Devi with his dancers. This disrespect made the Goddess very angry and infuriated she cursed the dancers to become Stones. At Pathar-nauchani we can see many big stones connected to the folklore.
@@ -33,7 +34,7 @@ From the Local guides and the book that I was reading (<a href="http://www.amazo
 * At our last base camp to Roopkund at "Bhaguwabasa" Goddess Parvati left the tiger for the bath.
 * Legend says that while Lord Shiva and Goddess Parvati were on their way to Kailash, Goddess Parvati felt thirsty. So Lord Shiva with his Trishul created the Roopkund lake. It was here that the Goddess Parvati first saw herself(roop) in the crystal clear water of the lake. Hence, it is named as Roopkund.
 * Every 12 years a four horned ram is born in some village and  this marks the auspicious beginning the Nanda Devi Rajjat Yatra. This Yatra is done by thousand of villagers to pay offerings to Goddess Nanda. The yatra ends in Homekund. The local undertake this harsh journey barefoot from Bedni Bugyal to Homekund. This Yatra unites both the Kumaoni and Garhwali communities of Uttarakhand.
-* The biggest mystery is of over 500 skeletons in the lake. These are believed to be of the travellers who lost their way somehow. These skeletons date back to  1000 AD. As the lake is at the confluence of three ridges, someone falling from the ridge is most likely to fall in the lake. But local guides tell a different story. Once the king of Kanauj - Raja Jasdhawal undertook Raj Jat Yatra along with his wife. Who near roopkund gave birth to a child. Goddess Nanda Devi considered it a sacrilege in her domain and sent down a hailstorm. Raja’s people were caught in it and perished in Roopkund. 
+* The biggest mystery is of over 500 skeletons in the lake. These are believed to be of the travellers who lost their way somehow. These skeletons date back to  1000 AD. As the lake is at the confluence of three ridges, someone falling from the ridge is most likely to fall in the lake. But local guides tell a different story. Once the king of Kanauj - Raja Jasdhawal undertook Raj Jat Yatra along with his wife. Who near roopkund gave birth to a child. Goddess Nanda Devi considered it a sacrilege in her domain and sent down a hailstorm. Raja’s people were caught in it and perished in Roopkund.
 
 <img src="http://i.imgur.com/dXXPFAN.jpg" alt="The Nanda Devi Affair">
 
@@ -102,7 +103,7 @@ After reaching Loharjung, later in the evening we had our first briefing. There 
 
 **Day 3: Lohajung to Didna Village:**
 
-After 6-7-8 routine, which meant tea at 6 am breakfast at 7 and Leaving the camp at 8. The trek started to Didana Village. Our team of 25 was joined by two other local trek guides. These two were well versed by the mood of their mountains. Initially, the trek was a gradual descent till Neelganga river. 
+After 6-7-8 routine, which meant tea at 6 am breakfast at 7 and Leaving the camp at 8. The trek started to Didana Village. Our team of 25 was joined by two other local trek guides. These two were well versed by the mood of their mountains. Initially, the trek was a gradual descent till Neelganga river.
 
 <img src="http://i.imgur.com/i1xtB10.jpg" alt="Children from nearby school">
 
@@ -132,7 +133,7 @@ After that, we faced a steep ascent from here it is 2 hours climb to the village
 
 **Day 4: Didna Village to Ali Bugyal:**
 
-After the same 6-7-8 routine we started the trek from Didna village. Didna was our last contact with civilization. The trek in starting seemed easy with moderate ascent but after an hour or so it felt like rock climbing. We refilled our bottles from Tolpani. In the last stretch to the meadows, our bodies were very tired. At around 12 am the oak forest around us magically ended and we found ourself on a yellowish green carpet of grassland that stretched to many kilometres. 
+After the same 6-7-8 routine we started the trek from Didna village. Didna was our last contact with civilization. The trek in starting seemed easy with moderate ascent but after an hour or so it felt like rock climbing. We refilled our bottles from Tolpani. In the last stretch to the meadows, our bodies were very tired. At around 12 am the oak forest around us magically ended and we found ourself on a yellowish green carpet of grassland that stretched to many kilometres.
 
 <img src="http://i.imgur.com/jTIFPjU.jpg" alt="Child at homestay">
 
@@ -170,7 +171,7 @@ Our campsite was situated in front of a stunning view of Trishul, Nandaghunghti 
 
 >Night in Ali Bugyal
 
-After the Dinner, a local guy told us about all the mythological stories surrounding the places during the trek. Later Team played Antakshari alongside the campfire. Inside the tents, we overheard people singing their local songs. Thinking of limited Kumaoni song library in my mind, I lost myself in another game of UNO. 
+After the Dinner, a local guy told us about all the mythological stories surrounding the places during the trek. Later Team played Antakshari alongside the campfire. Inside the tents, we overheard people singing their local songs. Thinking of limited Kumaoni song library in my mind, I lost myself in another game of UNO.
 
 <img src="http://i.imgur.com/U1bGjgk.jpg" alt="Waiting for Sunrise">
 
@@ -188,7 +189,7 @@ There is the scarcity of resources in Ali Bugyal and many other places. The supp
 
 <img src="http://i.imgur.com/cqtZkP9.jpg" alt="Water coming ">
 
->Support Staff 
+>Support Staff
 
 **Day 5: Ali Bugyal to Patar Nachauni via Bedni Bugyal**
 
@@ -224,11 +225,11 @@ We reached there after a gradual descent. Patharnachauni is a rocky place with a
 
 >Patharnachauni base camp
 
-The Day ended with funny UNO games with 6 team mates in a tent of three. At night, the sky was very clear and stars were so close that you can touch them. 
+The Day ended with funny UNO games with 6 team mates in a tent of three. At night, the sky was very clear and stars were so close that you can touch them.
 
 **Day 6: Patar Nachauni to Bhagwabasa via Kalu Vinayak**
 
-We were told to keep only the essential stuff for the journey from here. In the higher altitudes, even the weight of a handkerchief can put one down. We started from Patharnachauni and faced a very zigzag and steep climb till Kalu Vinayak. In between the resting point, one of our guides found <a href="https://en.wikipedia.org/wiki/Ophiocordyceps_sinensis"> "Keeda Jadi" </a> which has medicinal value and is very costly in the market. One kg of this costs anywhere between 5 to 8 lakhs. Ascending up, the sound of conch shell from Kalu Vinayak became clearer. As we reached Kalu Vinayak we saw the seductive snow line at Bhaguwabasa and our final Camp Site. 
+We were told to keep only the essential stuff for the journey from here. In the higher altitudes, even the weight of a handkerchief can put one down. We started from Patharnachauni and faced a very zigzag and steep climb till Kalu Vinayak. In between the resting point, one of our guides found <a href="https://en.wikipedia.org/wiki/Ophiocordyceps_sinensis"> "Keeda Jadi" </a> which has medicinal value and is very costly in the market. One kg of this costs anywhere between 5 to 8 lakhs. Ascending up, the sound of conch shell from Kalu Vinayak became clearer. As we reached Kalu Vinayak we saw the seductive snow line at Bhaguwabasa and our final Camp Site.
 After and hour we reached Bhagwabasha through the snow patches. Honestly, the heart was filled with joy seeing myself amidst such a fascinating atmosphere. Bored of Dal and Rice we had tea and omelette near the shop that claimed to be the last tea shop in India.
 
 <img src="http://i.imgur.com/dYRMgRK.jpg" alt="Dk">
@@ -258,13 +259,13 @@ Later in the evening the evening we were provided crampons for walking on the ic
 **Day 7: Bhagubasha to Roopkund to Patharnauchni**
 
 We were told if the weather permits we will start the trek anytime between 3 or 4 am. I was unable to sleep due to the ecstasy of reaching the destination. From 9 am to 2 am I woke up around five times just to check the time. I heard the first whistle to get up for the trek at 2.32 am.
-We lined up with our crampon boots and torches in our hands for the trek in the moonlit night. Few of us decided to stay back in Bhagwabasa. We were told that today is the most difficult day of the trek and indeed it was. Within our groups, we were curious if we could go further from Roopkund to Junargali. After a few steps, our crampons were filled with ice-balls, which had to be removed. Trekking in snow becomes a lot tougher. After an hour or so the trail disappeared and the guides and technical team with us carrying ropes and axes created a trial in the snow. These guys had vast experience of the mountain and by running to and fro they made sure that no-one slips and falls into the valley. Huffing and puffing we made to the last few meters. These 500 metres were by far the hardest. We joined hands on the little temple at the top and thanked Goddess Nanda for journey till here. 
+We lined up with our crampon boots and torches in our hands for the trek in the moonlit night. Few of us decided to stay back in Bhagwabasa. We were told that today is the most difficult day of the trek and indeed it was. Within our groups, we were curious if we could go further from Roopkund to Junargali. After a few steps, our crampons were filled with ice-balls, which had to be removed. Trekking in snow becomes a lot tougher. After an hour or so the trail disappeared and the guides and technical team with us carrying ropes and axes created a trial in the snow. These guys had vast experience of the mountain and by running to and fro they made sure that no-one slips and falls into the valley. Huffing and puffing we made to the last few meters. These 500 metres were by far the hardest. We joined hands on the little temple at the top and thanked Goddess Nanda for journey till here.
 
 <img src="http://i.imgur.com/rdpUkn0.jpg" alt="Dont Look Down">
 
 >Just ! Don't Look Down
 
-Roopkund was situated beautifully between the mountain. The water in the lake had a thin sheet of ice. Some trekkers were able to locate some skeletons on the outskirts of the lake surrounded by snow. Junargali looked achievable but soon the entire atmosphere we covered by fog and mist. So the trek leader dropped the plan. At Roopkund, we were served with Porridge which was bland but tasted heavenly.After quick surreal view of the surrounding and lots of pictures, we started our descent. It was foggy and we are unable to see if our group lead is at the front or back. In this confusion, we made a quick descent and reached Baghwabasa quickly. Here I cheated a quick nap while waiting for others. The weather turned hostile as it started raining at the time of descending. After having lunch in the main tent we made the quick decent to Patharnacahuni in ponchos. We greeted good luck to the travellers on the route going for the trek. At Patharnachauni while coming down we witnessed the strongest of the mountain winds and it was sheer fun. We reached Patharnachauni at around 3.30 pm which was followed by some quick naps. 
+Roopkund was situated beautifully between the mountain. The water in the lake had a thin sheet of ice. Some trekkers were able to locate some skeletons on the outskirts of the lake surrounded by snow. Junargali looked achievable but soon the entire atmosphere we covered by fog and mist. So the trek leader dropped the plan. At Roopkund, we were served with Porridge which was bland but tasted heavenly.After quick surreal view of the surrounding and lots of pictures, we started our descent. It was foggy and we are unable to see if our group lead is at the front or back. In this confusion, we made a quick descent and reached Baghwabasa quickly. Here I cheated a quick nap while waiting for others. The weather turned hostile as it started raining at the time of descending. After having lunch in the main tent we made the quick decent to Patharnacahuni in ponchos. We greeted good luck to the travellers on the route going for the trek. At Patharnachauni while coming down we witnessed the strongest of the mountain winds and it was sheer fun. We reached Patharnachauni at around 3.30 pm which was followed by some quick naps.
 
 <img src="http://i.imgur.com/X7yxIuk.jpg" alt="last few steps">
 
@@ -276,7 +277,7 @@ Roopkund was situated beautifully between the mountain. The water in the lake ha
 
 <img src="http://i.imgur.com/niIz4Nv.jpg" alt="Roopkund ">
 
->Roopkund First view 
+>Roopkund First view
 
 <img src="http://i.imgur.com/kdDKhW9.jpg" alt="skeletons at Roopkund ">
 
@@ -288,7 +289,7 @@ Today was the 15 km descent from Patar Nachauni to Wan Village. From wan Village
 
 <img src="http://i.imgur.com/gINHuXb.jpg" alt="View from Bedni">
 
->From Bedni: Nanadaghunghti and Trishul 
+>From Bedni: Nanadaghunghti and Trishul
 
 <img src="http://i.imgur.com/w05qoie.jpg" alt="">
 
@@ -311,7 +312,7 @@ We reached Lojarjung after an hour ride from wan. At Loharjung, almost everybody
 
 **Day 9: Lohajung to Kathgodam**
 
-Today's journey back was tiring, boring and long as everyone was engrossed in the Himalayas. We reached Kathgodam and watched movies to pass the time. It was when I reached home I realised that I am seeing myself in a mirror after 8 days. My mum exclaimed, "Went to Africa or what" after seeing my tanned face. 
+Today's journey back was tiring, boring and long as everyone was engrossed in the Himalayas. We reached Kathgodam and watched movies to pass the time. It was when I reached home I realised that I am seeing myself in a mirror after 8 days. My mum exclaimed, "Went to Africa or what" after seeing my tanned face.
 
 <img src="http://i.imgur.com/UVw6YRG.jpg" alt="Our Team">
 
@@ -320,4 +321,3 @@ Today's journey back was tiring, boring and long as everyone was engrossed in th
 This expedition was a true test of self, both mental and physical. But the Himalayas keeps your motivation high, fine meadows, peaks of Nandaghunghti and Trishul keeps you inspired. The end destination might not be as awesome, but at the end it the journey that matters.
 
 Pictures : Me, Abhishek and Debjyoti sir
-

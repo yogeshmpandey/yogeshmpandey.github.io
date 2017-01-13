@@ -3,6 +3,7 @@ layout: post
 title:  "Jammu & Kashmir : First Trip"
 date:   2016-02-16 00:23:40
 categories: travel
+tags: [Travel, Trekking, Jammu, Himalayas, Friends , Photoblog]
 image:
   background: ps_neutral.png
 ---
@@ -17,7 +18,7 @@ This time, me and a few colleagues planned to visit many places in J&K around Va
 
 **Thursday: Starting**
 
-It was my first trip to Jammu and Kashmir. Unlike other trips, this one was well planned in advance. We started from new Delhi railway station and took the train to Jammu Tawi. After a few quick games of UNO in the 3AC coach of the train, we all went to our respective berths for the night sleep. 
+It was my first trip to Jammu and Kashmir. Unlike other trips, this one was well planned in advance. We started from new Delhi railway station and took the train to Jammu Tawi. After a few quick games of UNO in the 3AC coach of the train, we all went to our respective berths for the night sleep.
 
 <img src="http://i.imgur.com/9a8adbF.jpg" alt="header">
 
@@ -35,7 +36,7 @@ The train dropped us to the Jammu-Tawi Railway station at approximately 6:30 am 
 
 >Maagi Break
 
-We reached Katra and check in the Dormitory Rooms and rested for a few hours. Since it was my first visit I had no idea about the climb. It took time to realise that we have to cover approx 35 km in hill on foot in one go. Well JAI MATA DI !!! and we started. 
+We reached Katra and check in the Dormitory Rooms and rested for a few hours. Since it was my first visit I had no idea about the climb. It took time to realise that we have to cover approx 35 km in hill on foot in one go. Well JAI MATA DI !!! and we started.
 
 <img src="http://i.imgur.com/nMmKpMD.jpg" alt="header">
 
@@ -43,9 +44,9 @@ We reached Katra and check in the Dormitory Rooms and rested for a few hours. Si
 
 <img src="http://i.imgur.com/0Ml1o63.jpg" alt="header">
 
->Innocent mules 
+>Innocent mules
 
-It was 5:30 in the evening when we started the climb. The trek is not difficult as the path is well build and there are a lot of people at any point of time. We reached ardhkumari (that is 6 km from the start) in an hour as we decided to take the stairs instead of the trail. After having some snacks at the pitstop we again started to make way to Bhavan. Bhavan is 6 km from ardhkumari. The walk from here is pretty easy. 
+It was 5:30 in the evening when we started the climb. The trek is not difficult as the path is well build and there are a lot of people at any point of time. We reached ardhkumari (that is 6 km from the start) in an hour as we decided to take the stairs instead of the trail. After having some snacks at the pitstop we again started to make way to Bhavan. Bhavan is 6 km from ardhkumari. The walk from here is pretty easy.
 
 <img src="http://i.imgur.com/iioCfsa.jpg" alt="header">
 
@@ -53,7 +54,7 @@ It was 5:30 in the evening when we started the climb. The trek is not difficult 
 
 <img src="http://i.imgur.com/Sr6lNgr.jpg" alt="header">
 
->CCD Break 
+>CCD Break
 
 <img src="http://i.imgur.com/UvPTy6o.jpg" alt="header">
 
@@ -98,7 +99,7 @@ After exploring the place, we went back to the hotel. In the hotel all kind of m
 
 >Reaching Nathatop
 
-Woke up lazily in the chilled room. Then after morning ritual we hopped in the traveller to go to Naag mandir. Here we ate hot halwa in the chilling weather. Dodging the local vendors trying to sell us "bulbul ka baccha" we reached the wood painting shop. Here we made momentos to carry with us back to Delhi. From here we started moving to Nathatop crossing beautiful mustard step farms of the hills. There was a huge rush on the hills but somehow we found an isolated top with virgin snow. There we made the first snowman and played with snow for a while. 
+Woke up lazily in the chilled room. Then after morning ritual we hopped in the traveller to go to Naag mandir. Here we ate hot halwa in the chilling weather. Dodging the local vendors trying to sell us "bulbul ka baccha" we reached the wood painting shop. Here we made momentos to carry with us back to Delhi. From here we started moving to Nathatop crossing beautiful mustard step farms of the hills. There was a huge rush on the hills but somehow we found an isolated top with virgin snow. There we made the first snowman and played with snow for a while.
 
 <img src="http://i.imgur.com/JRSLE3v.jpg" alt="header">
 
@@ -117,6 +118,3 @@ Woke up lazily in the chilled room. Then after morning ritual we hopped in the t
 >Nathatop View
 
 After capturing some snaps and admiring the beauty of Kashmir, we went back to our traveller. Later with the vivid memories of the trip, we went back to Delhi.
-
-
-

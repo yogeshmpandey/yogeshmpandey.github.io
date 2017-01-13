@@ -2,6 +2,7 @@
 layout: post
 title:  "Book Review"
 date:   2015-03-23 23:52:38
+tags: [Books, Learning]
 categories: review
 ---
 
@@ -15,13 +16,13 @@ Some quotes from the book that are truly delightful :
 
 >"Protons give an atom its identity, electrons its personality."
 
->“There are three stages in scientific discovery. First, people deny that it is true, then they deny that it is important; finally they credit the wrong person.” 
+>“There are three stages in scientific discovery. First, people deny that it is true, then they deny that it is important; finally they credit the wrong person.”
 
->“The upshot of all this is that we live in a universe whose age we can't quite compute, surrounded by stars whose distances we don't altogether know, filled with matter we can't identify, operating in conformance with physical laws whose properties we don’t truly understand.” 
+>“The upshot of all this is that we live in a universe whose age we can't quite compute, surrounded by stars whose distances we don't altogether know, filled with matter we can't identify, operating in conformance with physical laws whose properties we don’t truly understand.”
 
->“The number of people on whose cooperative efforts your eventual existence depends has risen to approximately 1,000,000,000,000,000,000, which is several thousand times the total number of people who have ever lived.” 
+>“The number of people on whose cooperative efforts your eventual existence depends has risen to approximately 1,000,000,000,000,000,000, which is several thousand times the total number of people who have ever lived.”
 
->“It is a slightly arresting notion that if you were to pick yourself apart with tweezers, one atom at a time, you would produce a mound of fine atomic dust, none of which had ever been alive but all of which had once been you.” 
+>“It is a slightly arresting notion that if you were to pick yourself apart with tweezers, one atom at a time, you would produce a mound of fine atomic dust, none of which had ever been alive but all of which had once been you.”
 
 In short its an excellent book, You can enjoy reading it. So much of science information in one book in the end you will feel like a genius.
 Wherever you turn you correlate what you see with what you had read in this book. I had this effect.

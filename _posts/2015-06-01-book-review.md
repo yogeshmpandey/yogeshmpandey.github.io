@@ -2,12 +2,13 @@
 layout: post
 title:  "May-June Books"
 date:   2015-06-4 23:52:38
-categories: travel
+categories: Life
+tags: [Life, Learning, Books]
 image:
   background: witewall_3.png
 ---
 This year I am not reading that much as I did in the previous year but still trying to cover good books. In this month managed to read three books. Small review of them is as follows:
- 
+
 1. The Lean Startup (Eric Ries) : This is a great book to read if you are interested in getting into the startup industry. If you have even a kernel of an idea, or just want to jump in and be part of a startup, this is a must read.
 
 2. Getting Started with Raspberry Pi(Matt Richardson, Shawn Wallace) : Gives a good overview of the different things you can do with the Pi. Most importantly very inexpensive book.
@@ -16,5 +17,3 @@ This year I am not reading that much as I did in the previous year but still try
 
 Also bought a kindle to read more. :D
 <img src="/images/kindle.jpg" alt="">
-
-

@@ -3,12 +3,13 @@ layout: post
 title:  "Naukuchiatal Trip"
 date:   2015-09-29 00:19:38
 categories: travel
+tags: [Travel, Hiking, Uttarakhand, Himalayas, Family, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
 <img src="http://i.imgur.com/tDefHql.jpg" alt="">
 
-Uttarakhand is called Land of gods just for nothing. It holds some of the best treasures of nature be it valleys, rivers, meadows, lakes, hills or mountains. On this weekend we planned a quick trip to Nainital district, to see what other things it has to offer apart from nainital. 
+Uttarakhand is called Land of gods just for nothing. It holds some of the best treasures of nature be it valleys, rivers, meadows, lakes, hills or mountains. On this weekend we planned a quick trip to Nainital district, to see what other things it has to offer apart from nainital.
 
 <img src="http://i.imgur.com/pKxPQeX.jpg" alt="">
 
@@ -18,7 +19,7 @@ Uttarakhand is called Land of gods just for nothing. It holds some of the best t
 
 >Walk Across the valley
 
-<img src="http://i.imgur.com/zJPUXFM.jpg" alt="">	
+<img src="http://i.imgur.com/zJPUXFM.jpg" alt="">
 
 >Journey Begins
 
@@ -26,7 +27,7 @@ Uttarakhand is called Land of gods just for nothing. It holds some of the best t
 
 >Paragliding (We didn't had time (or the money))
 
-We boarded a local bus from haldwani and reached bhimtal. From bhimtal trekked seven kilometers to naukuchiatal. On our way we met an old man who guided us through the roads. We came to know about a folklore that one who sees all nine corners of naukuchiatal from one place will attain nirvana. On our way we saw paragliding and other adventure sports happening in the valley. 
+We boarded a local bus from haldwani and reached bhimtal. From bhimtal trekked seven kilometers to naukuchiatal. On our way we met an old man who guided us through the roads. We came to know about a folklore that one who sees all nine corners of naukuchiatal from one place will attain nirvana. On our way we saw paragliding and other adventure sports happening in the valley.
 
 <img src="http://i.imgur.com/BgKGh3z.jpg" alt="">
 
@@ -36,7 +37,7 @@ We reached naukuchiatal after approximatly 2 hours of journey on foot. Everyone 
 
 <img src="http://i.imgur.com/WTAAvrF.jpg" alt="">
 
->The Lake 
+>The Lake
 
 <img src="http://i.imgur.com/BDpT1kv.jpg" alt="">
 

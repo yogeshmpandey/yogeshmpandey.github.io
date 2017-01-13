@@ -3,6 +3,7 @@ layout: post
 title:  "Chandrashila-Deoriatal-in-three-Days."
 date:   2016-11-16 00:22:40
 categories: travel
+tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -20,7 +21,7 @@ I had always heard from my elder cousins about the Grandeur of the Himalayas see
 
 **Day 1 :**
 
-Four of us decided to meet at Anand vihar Terminal from where we took the bus to Rishikesh. After a lot of ups and downs, we somehow managed to catch the bus at around 12 pm. It was a tough sleepless night from Delhi to Rishikesh and our bus was already late by 3 hours. We reached Rishikesh and took a bus to Rudraprayag at 8 am. It was a small bus and took some time to fit in. Crossing Srinagar, Devprayag and Agastasmuni we reached Rudraprayag. 
+Four of us decided to meet at Anand vihar Terminal from where we took the bus to Rishikesh. After a lot of ups and downs, we somehow managed to catch the bus at around 12 pm. It was a tough sleepless night from Delhi to Rishikesh and our bus was already late by 3 hours. We reached Rishikesh and took a bus to Rudraprayag at 8 am. It was a small bus and took some time to fit in. Crossing Srinagar, Devprayag and Agastasmuni we reached Rudraprayag.
 
 <img src="http://i.imgur.com/lvfVXgv.jpg" alt="on the way">
 
@@ -30,7 +31,7 @@ Four of us decided to meet at Anand vihar Terminal from where we took the bus to
 
 >Sangam at Devprayag
 
-In Rudraprayag, we managed to find an ATM to collect cash for the rest of the trip. After a heavy breakfast, we took the bus for sari village which was the base for Deoriatal Trek. Meanwhile, we chatted with a local in the bus and found out that we were already very late and the trek should not be done in the night. After reaching Ukhimath we arranged a cab to Chopta. The driver told us all sorts of stories of the nearby areas. 
+In Rudraprayag, we managed to find an ATM to collect cash for the rest of the trip. After a heavy breakfast, we took the bus for sari village which was the base for Deoriatal Trek. Meanwhile, we chatted with a local in the bus and found out that we were already very late and the trek should not be done in the night. After reaching Ukhimath we arranged a cab to Chopta. The driver told us all sorts of stories of the nearby areas.
 
 <img src="http://i.imgur.com/Iq0TdE4.jpg" alt="KedarDOme">
 
@@ -74,7 +75,7 @@ After resting near a cliff for a while  we stated the steep 2 km climb to Chandr
 
 <img src="http://i.imgur.com/yiq5rfq.jpg" alt="Our Hotel">
 
->Reaching Top 
+>Reaching Top
 
 <img src="http://i.imgur.com/1YbgM9E.jpg" alt="Trishul">
 
@@ -128,7 +129,7 @@ When the sun came up the face of Chaukhumba converted into a brilliant golden cr
 
 >Local Nimbu Paani Shop
 
-We reached Rishikesh early at around 4pm. We had time to explore rishikesh, so we went to Lakshmanjhula and took a dip in Holy ganga just below Lakhsman Jhula. It was a beautiful and esctatic experience. After having a stumpous dinner at chotiwala we boarded our bus back to Delhi. Till now everthing was awesome, then our bus broke down. Somehow we got another bus to delhi but we were already late. We reached  back  delhi at 11 am. 
+We reached Rishikesh early at around 4pm. We had time to explore rishikesh, so we went to Lakshmanjhula and took a dip in Holy ganga just below Lakhsman Jhula. It was a beautiful and esctatic experience. After having a stumpous dinner at chotiwala we boarded our bus back to Delhi. Till now everthing was awesome, then our bus broke down. Somehow we got another bus to delhi but we were already late. We reached  back  delhi at 11 am.
 
 <img src="http://i.imgur.com/7HBCDJ8.jpg" alt="Our Hotel">
 

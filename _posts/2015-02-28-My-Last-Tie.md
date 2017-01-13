@@ -2,6 +2,7 @@
 layout: post
 title:  "my last tie"
 date:   2015-03-10 23:52:38
+tags: [Life, Learning, Motivation]
 categories: personal
 ---
 
@@ -36,4 +37,3 @@ categories: personal
 *Thank you!*
 
 ###Life is like a garden. Perfect moments can be had, but not preserved, except in memory
-

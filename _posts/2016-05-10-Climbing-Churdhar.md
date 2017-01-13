@@ -3,6 +3,7 @@ layout: post
 title:  "Climbing Churdhar"
 date:   2016-05-11 00:23:40
 categories: travel
+tags: [Travel, Trekking, Shivalik, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -28,7 +29,7 @@ Unaware of the audacity of the trek, we booked to and fro tickets from Delhi to 
 
 **Reaching Nohradhar:**
 
-We boarded the bus to Solan from Kashmiri gate ISBT bus stand. HRTC buses are the best way to travel to Himachal, comparing with the public buses to Uttarakhand these are cheaper, comfortable and the drivers are experts of their roads. We reached Solan at around 4:30 am. The winds were chilly so we had to put on our jackets. The bus to Nohradhar was at 5:30 am. We sat and spend some jiffy moments at the tea shop near the old bus stand. 
+We boarded the bus to Solan from Kashmiri gate ISBT bus stand. HRTC buses are the best way to travel to Himachal, comparing with the public buses to Uttarakhand these are cheaper, comfortable and the drivers are experts of their roads. We reached Solan at around 4:30 am. The winds were chilly so we had to put on our jackets. The bus to Nohradhar was at 5:30 am. We sat and spend some jiffy moments at the tea shop near the old bus stand.
 
 <img src="http://i.imgur.com/9Zqk5g9.jpg" alt="Solan">
 
@@ -46,7 +47,7 @@ As the hot steamy tea reached our hands the bus arrived. We ran to catch the sea
 
 **Ascending Up:**
 
-We gathered the supplies and started the trek without any guide as it is a popular religious destination. We thought that the trail would be well documented. We were wrong. The initial trail has lots of rocks and boulders that makes it a bit difficult to climb. After an hour, we reached a beautiful meadow with  many cattle grazing the field. Here situated is  a big rock formation that gave a magnificent view of the valley. Although the weather was foggy the views were spectacular and worth the climb. 
+We gathered the supplies and started the trek without any guide as it is a popular religious destination. We thought that the trail would be well documented. We were wrong. The initial trail has lots of rocks and boulders that makes it a bit difficult to climb. After an hour, we reached a beautiful meadow with  many cattle grazing the field. Here situated is  a big rock formation that gave a magnificent view of the valley. Although the weather was foggy the views were spectacular and worth the climb.
 
 <img src="http://i.imgur.com/7hlqKy7.jpg" alt ="First Village">
 
@@ -104,7 +105,7 @@ It was growing darker and we had planned to reach the summit before the day goes
 
 >Where are we?
 
-As the light was going down so were our hopes. Honestly, we were frightened and frustrated as there was no water or food left with us. In the hilly terrain, there was no place to camp in the night. Above everything, there was a battle between heart and feets. Later, we found someone coming from behind the fog. Like a ray of light at the end of a tunnel, this was a hope that meant everything. We were now hopeful that we are on a right track. We talked and concluded that we could be 1.5 km from the summit. As we moved forward sun went down the horizon and the visibility zeroed. 
+As the light was going down so were our hopes. Honestly, we were frightened and frustrated as there was no water or food left with us. In the hilly terrain, there was no place to camp in the night. Above everything, there was a battle between heart and feets. Later, we found someone coming from behind the fog. Like a ray of light at the end of a tunnel, this was a hope that meant everything. We were now hopeful that we are on a right track. We talked and concluded that we could be 1.5 km from the summit. As we moved forward sun went down the horizon and the visibility zeroed.
 
 <img src="http://i.imgur.com/COkLsCA.jpg" alt ="">
 
@@ -116,7 +117,7 @@ After 15 minutes we met 2 other trekkers who were coming back from the summit an
 
 >Creating Paths.
 
-With heavy heads and motionless legs, we woke up. After sipping hot tea from the shop we started the climb to the summit. This climb is very steep and filled with rocks. After around 30 minutes we reached the summit. We saw lord shiva sitting proudly at the top of the mountain. It was one of the most exhilarating and rewarding experience. The satisfaction of reaching the summit after crossing 3 mountains and 18 odd kilometres was a great achievement. After offering our prayers to lord shiva we started the descent.The local tale about how shiva came there is that long time ago shiva helped the villagers in eliminating a demon who use to kill the people and animals there.Later after the death of demon the villagers found a natural shivlinga at the top, which is now known as churdhar peak. Being there in front of shiva you can feel the power of shiva in the chilled wind penetrating your body, and it one of the experience you definately want to take back with you. 
+With heavy heads and motionless legs, we woke up. After sipping hot tea from the shop we started the climb to the summit. This climb is very steep and filled with rocks. After around 30 minutes we reached the summit. We saw lord shiva sitting proudly at the top of the mountain. It was one of the most exhilarating and rewarding experience. The satisfaction of reaching the summit after crossing 3 mountains and 18 odd kilometres was a great achievement. After offering our prayers to lord shiva we started the descent.The local tale about how shiva came there is that long time ago shiva helped the villagers in eliminating a demon who use to kill the people and animals there.Later after the death of demon the villagers found a natural shivlinga at the top, which is now known as churdhar peak. Being there in front of shiva you can feel the power of shiva in the chilled wind penetrating your body, and it one of the experience you definately want to take back with you.
 
 <img src="http://i.imgur.com/BiQwJvl.jpg" alt ="">
 
@@ -160,5 +161,3 @@ On Monday, remembering only the good times, we left for office.
 | 5.  |  Water resistant Sheet |  50 |
 | 6.  |  Auto |  30|
 |  Total ||  1723/-|
-
-

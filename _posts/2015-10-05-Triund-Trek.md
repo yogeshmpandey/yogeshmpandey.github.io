@@ -4,6 +4,7 @@ title:  "
 Triund Trek"
 date:   2015-10-05 00:02:38
 categories: travel
+tags: [Travel, Trekking, Himachal, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -47,13 +48,13 @@ After waiting for 2 hours in line, we grabbed the seats below the big screens. A
 
 >Dhauladhar Peak
 
-Next Day we geared ourselves up for the trek. We took a local bus from Dharamshala to MacLeodgunj. MacLeodgunj is a serene place filled with Tibetans, Israelis and trekkers and people from all around the world. It is known as little Lhasa due to a large population of Tibetans. Later we came to know that it is the official residence of Dalai Lama. The mighty Dhauladhar Peak looked clearer from here. 
+Next Day we geared ourselves up for the trek. We took a local bus from Dharamshala to MacLeodgunj. MacLeodgunj is a serene place filled with Tibetans, Israelis and trekkers and people from all around the world. It is known as little Lhasa due to a large population of Tibetans. Later we came to know that it is the official residence of Dalai Lama. The mighty Dhauladhar Peak looked clearer from here.
 
 <img src="http://i.imgur.com/L1lNPhR.jpg" alt="">
 
 >Tibetian Thupka
 
-After eating a sizeable lunch in a local cafe we started our trek. Meanwhile some of us went to purchase sleeping bags as we had only two. The shopkeeper told us that due to heavy rush of the campers all the trekking items were sold out. It was 2 pm already and we had not started yet. Unable to arrive at a conclusion and thinking of luckily finding a camping tent at triund we started the trek. 
+After eating a sizeable lunch in a local cafe we started our trek. Meanwhile some of us went to purchase sleeping bags as we had only two. The shopkeeper told us that due to heavy rush of the campers all the trekking items were sold out. It was 2 pm already and we had not started yet. Unable to arrive at a conclusion and thinking of luckily finding a camping tent at triund we started the trek.
 
 <img src="http://i.imgur.com/ejDsvuo.jpg" alt="">
 

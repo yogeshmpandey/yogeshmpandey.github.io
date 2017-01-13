@@ -3,14 +3,15 @@ layout: post
 title:  "Maharashtra Diaries"
 date:   2015-07-29 23:12:38
 categories: travel
+tags: [Travel, Beaches, Maharashtra, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
 <img src="/images/mum_trip/6.jpeg" alt="">
 
-#### Everyone wants some escape. This was mine. 
+#### Everyone wants some escape. This was mine.
 
-I wanted to go to mumbai from a long long time. So planned this trip on the birthday of my best friend. Initially everything was chaotic but google maps and good 3G connection came to our rescue. In the three days trip whatever could have possibly gone wrong did, be it unwanted rains, missing trains, overcharged autos, getting caught in mumbai local while travelling ticketless (Murphy's Law :p). But all these were the things that made it all interesting and exciting, and not to forget some awesome moments we shared. 
+I wanted to go to mumbai from a long long time. So planned this trip on the birthday of my best friend. Initially everything was chaotic but google maps and good 3G connection came to our rescue. In the three days trip whatever could have possibly gone wrong did, be it unwanted rains, missing trains, overcharged autos, getting caught in mumbai local while travelling ticketless (Murphy's Law :p). But all these were the things that made it all interesting and exciting, and not to forget some awesome moments we shared.
 
 ### FootPrints
 
@@ -38,6 +39,3 @@ Day 5 : The Return :(
 ### Moments
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKLrFL8AxXs" frameborder="0" allowfullscreen></iframe>
-
-
-

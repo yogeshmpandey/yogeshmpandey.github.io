@@ -3,6 +3,7 @@ layout: post
 title:  "Tamilnadu Trails"
 date:   2015-09-01 00:02:38
 categories: travel
+tags: [Travel, Tamilnadu, Beaches, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -25,7 +26,7 @@ Next day planned to explore chennai all by myself. Opened google maps and found 
 
 >Small Bridge in the park.
 
-In the evening I found that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him. 
+In the evening I found that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him.
 
 <img src="http://i.imgur.com/NX4Elf6.jpg" alt="">
 
@@ -89,13 +90,13 @@ To Our amazement we found ourselves in the hidden twin beaches. The view of the 
 
 <img src="http://i.imgur.com/JHV7ngK.jpg" alt="">
 
->Sunset #2 
+>Sunset #2
 
 Moved back to the hotel with an great memory and a heavy heart.In the night visited local markets and lonely roads of the city. The city view from our hotel was also very colossal the brilliant stars in a twilight sky kept us questioning the meaning of everything.
 
 <img src="http://i.imgur.com/ltNv0ZE.jpg" alt="">
 
->Sunrise 
+>Sunrise
 
 Woke up early in the morning so that we don't miss the sunrise. But the weather didn't helped us today. Still the soft amber glow from the sun grew and filled the mighty sky and clouds with colours of red and orange, the tricolored sea somehow turned more blueish.
 
@@ -119,9 +120,9 @@ We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we d
 
 >Dancer at 1000 pillar museum
 
-Due to some personal reasons i didn't wanted to visit the temple but really wanted to explore the magnificent architecture and temple museum, So i decided not to go in the main area but explore the architecture. The size of this temple is massive and the whole city was laid out in the shape of square with a series of concentric streets culminating from the temple (amazing isn't it). 
+Due to some personal reasons i didn't wanted to visit the temple but really wanted to explore the magnificent architecture and temple museum, So i decided not to go in the main area but explore the architecture. The size of this temple is massive and the whole city was laid out in the shape of square with a series of concentric streets culminating from the temple (amazing isn't it).
 
-I was wearing shorts and didn't knew that the visitors were required to wear full dresses before going inside. Was warned by my friends but i didn't cared back then. Next, I was given a mundu(lungi) to wear by the temple staff and then we went inside. The architecture was echoing grandeur and magnificence. It was sad to see that the temple(the shrine) prohibited the entry of non-hindus. According to me prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma. 
+I was wearing shorts and didn't knew that the visitors were required to wear full dresses before going inside. Was warned by my friends but i didn't cared back then. Next, I was given a mundu(lungi) to wear by the temple staff and then we went inside. The architecture was echoing grandeur and magnificence. It was sad to see that the temple(the shrine) prohibited the entry of non-hindus. According to me prohibiting someone on the basis of religion defies the basic aspect of sanathan dharma.
 
 Then we visited the 1000 pillars hall museum, captured the exotic architecture and memories and returned to the bus stand after returning the lungi.
 
@@ -146,7 +147,7 @@ We started off at 9:00 am and took a bus to mahabalipuram. There we visited a gr
 
 >Mahabalipuram Light House
 
-From Mahabalipuram we went to pondicherry, reached pondi pretty late in the evening. Went to Gandhi beach after resting a bit in the hotel room. To our luck that night was a full moon night and the sea view from the shore was just out out the world. Gleaming moon with a halo of orange tinge in the middle of the horizon in a clear sky took my breaths away. The refection of the moon in the night sea looked like molten silver making the landscape just perfect. 
+From Mahabalipuram we went to pondicherry, reached pondi pretty late in the evening. Went to Gandhi beach after resting a bit in the hotel room. To our luck that night was a full moon night and the sea view from the shore was just out out the world. Gleaming moon with a halo of orange tinge in the middle of the horizon in a clear sky took my breaths away. The refection of the moon in the night sea looked like molten silver making the landscape just perfect.
 
 <img src="http://i.imgur.com/kTC9EPC.jpg" alt="">
 
@@ -167,7 +168,7 @@ Next morning woke up early to view the sunrise.From there went to paradise beach
 
 <img src="http://www.auroville.org/system/slideshow_images/images/000/000/004/slideshow/Galaxy490.jpg" alt="">
 
->Auroville 
+>Auroville
 
 According to Wikipedia Auroville is meant to be a universal town where men and women of all countries are able to live in peace and progressive harmony, above all creeds, all politics and all nationalities. The purpose of Auroville is to realize human unity.
 
@@ -176,4 +177,3 @@ How Awesome is that (on first thoughts) then we thought about its economy and ho
 <img src="http://i.imgur.com/lHFq7yN.jpg" alt="">
 
 >After 22 days left this awesome place with this final touch.
-

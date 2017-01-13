@@ -3,6 +3,7 @@ layout: post
 title:  "A Day in Delhi"
 date:   2015-11-02 00:23:40
 categories: travel
+tags: [Travel, Delhi-NCR, Friends , Photoblog, WeekendDiaries]
 image:
   background: LXmxZKh.jpg
 ---
@@ -39,7 +40,7 @@ Took a 20/- rs auto from the Metro Station to reach the site. The Minar looked m
 
 >Little Explorer + DSLR ;)
 
-**Hauz Khas** 
+**Hauz Khas**
 
 Hauz Khas was our next Metro Stoppage. This is a popular site for teenagers and love birds. One may seldom find budding YouTubers asking random questions to public here. Historically, Hauz Khas houses a water tank, an Islamic seminary, a mosque, a tomb and pavilions built around an urbanized village with the medieval history traced to the 13th century AD. Now, it is overshadowed by relatively expensive Art galleries, Bars and Restaurants.
 
@@ -77,7 +78,7 @@ Next we stopped at Central Secretariat Metro station. We walked across Rajpath t
 
 **National Museum**
 
-From a walking distance from India Gate is National Museum. We reached here at around 2:30 pm and had only 2 hours to explore. Tickets for Indian citizens cost only 20/- rs and 675/- rs for Foreigners. The museum is very vast and holds across 2 lakh relics ranging from Harappan Civilization to arts and artifacts from Egypt and North America. The building has three floors which bring more than 5000 years of history to life. "**Everything Perishes**" echoes the walls of the museum. My previous visit to a museum was in Hyderabad (Salar Jung Museum). Both of these museums are of the largest in India, and one cannot cover all the galleries in one day. 
+From a walking distance from India Gate is National Museum. We reached here at around 2:30 pm and had only 2 hours to explore. Tickets for Indian citizens cost only 20/- rs and 675/- rs for Foreigners. The museum is very vast and holds across 2 lakh relics ranging from Harappan Civilization to arts and artifacts from Egypt and North America. The building has three floors which bring more than 5000 years of history to life. "**Everything Perishes**" echoes the walls of the museum. My previous visit to a museum was in Hyderabad (Salar Jung Museum). Both of these museums are of the largest in India, and one cannot cover all the galleries in one day.
 
 <img src="http://i.imgur.com/0lCQex9.jpg" alt="">
 

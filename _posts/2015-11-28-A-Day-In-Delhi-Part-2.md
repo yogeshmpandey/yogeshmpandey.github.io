@@ -3,6 +3,7 @@ layout: post
 title:  "A Day in Delhi : Part 2"
 date:   2015-11-29 00:23:40
 categories: travel
+tags: [Travel, Delhi, Friends , Photoblog, WeekendDiaries]
 image:
   background: 2Nrxex6.jpg
 ---
@@ -21,7 +22,7 @@ After a nostalgic meet and discussion of college life and afterwards on Saturday
 >Purana Qila
 
 **Purana Qila**
- 
+
 After Reaching Khan Market, we followed the GPS and reached Purana Qila. The Qila is one of the oldest forts in Delhi. Some people say that the remains have existed from the days Pandavas created Indraprastha. Later Sher Shah Suri created a city around the Qila. Inside the Qila, there is a Kunti Temple and probably 2 mosques. It also has the famous Humayun's Library from where he fell to death.
 
 <img src="http://i.imgur.com/23k5IJS.jpg" alt="Too much Rush">
@@ -79,4 +80,4 @@ At a few foots is the is the dargah of one of the world's most famous Sufi saint
 
 **Lotus Temple**
 
-The design of lotus Temple is inspired by... Well, Lotus Flower. But what is more, intriguing than its spectacular Architecture is the faith associated with it. The Lotus Temple is a Bahá'í House of Worship. Bahá’í Faith, hold its foundation on the Oneness of God, the Oneness of Religions, and the Oneness of Mankind. In the Bahá’í philosophy humanity is understood to be in a process of collective evolution. Religion is thus seen as orderly, unified, and progression from age to age. Bahá'í teachings state that God is too great for humans to fully comprehend. Hits straight in the Atheist/Agonist Mind. Right? 
+The design of lotus Temple is inspired by... Well, Lotus Flower. But what is more, intriguing than its spectacular Architecture is the faith associated with it. The Lotus Temple is a Bahá'í House of Worship. Bahá’í Faith, hold its foundation on the Oneness of God, the Oneness of Religions, and the Oneness of Mankind. In the Bahá’í philosophy humanity is understood to be in a process of collective evolution. Religion is thus seen as orderly, unified, and progression from age to age. Bahá'í teachings state that God is too great for humans to fully comprehend. Hits straight in the Atheist/Agonist Mind. Right?

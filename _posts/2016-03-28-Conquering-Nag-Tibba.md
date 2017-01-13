@@ -3,6 +3,7 @@ layout: post
 title:  "Conquering Nag Tibba"
 date:   2016-03-28 00:23:40
 categories: travel
+tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -36,7 +37,7 @@ On Friday we reached Dehradun via a public bus. Owing to our obesseity with frug
 
 **Saturday: Ascending Up**
 
-We took a local bus to Nainwal Village. Reaching there located a sulabh and after the morning routine ate a heavy breakfast. We met some trekkers who told us the stories of their previous treks. After some talks, we took the local wagon to Panthwari Village. We stood in the back of the vehicle as it travelled in the zigzag path of the mountain. 
+We took a local bus to Nainwal Village. Reaching there located a sulabh and after the morning routine ate a heavy breakfast. We met some trekkers who told us the stories of their previous treks. After some talks, we took the local wagon to Panthwari Village. We stood in the back of the vehicle as it travelled in the zigzag path of the mountain.
 
 
 <img src="http://i.imgur.com/uEwsOS5.jpg" alt="header">
@@ -62,7 +63,7 @@ Crossing some enchanting views of the green hills we reached Panthwari. Then we 
 
 >Our Competetion that won
 
-An hour later we joined the Indiahikes team and reached their base camp. There are two base camps in Nag Tibba. The first one is in the midway of the trek ie: 4 kilometers from the village and 4kms from Jhandi (The highest point). The <a href="http://indiahikes.in/"> Indiahikes</a> team stopped there and we moved up. We were slightly demotivated as we thought that we have reached the base camp. Our base camp was the second one near the Naag Devta mandir. Crossing beautiful meadows and flowery shrubs after an hour we reached our base camp. 
+An hour later we joined the Indiahikes team and reached their base camp. There are two base camps in Nag Tibba. The first one is in the midway of the trek ie: 4 kilometers from the village and 4kms from Jhandi (The highest point). The <a href="http://indiahikes.in/"> Indiahikes</a> team stopped there and we moved up. We were slightly demotivated as we thought that we have reached the base camp. Our base camp was the second one near the Naag Devta mandir. Crossing beautiful meadows and flowery shrubs after an hour we reached our base camp.
 
 <img src="http://i.imgur.com/SKLwgkG.jpg" alt="header">
 
@@ -106,7 +107,7 @@ Then Later in the night, we cooked delicious Maggi and then slept like a baby.
 
 **Sunday: Trek To Jhandi**
 
-Woke up with the alarm of chirping birds at around 6.30 am. Then after packing everything we started our trek to Nag tibba top. This path is around 2.5 km from the base and is very steep. And it can really test you till your Point Break. 
+Woke up with the alarm of chirping birds at around 6.30 am. Then after packing everything we started our trek to Nag tibba top. This path is around 2.5 km from the base and is very steep. And it can really test you till your Point Break.
 
 
 <img src="http://i.imgur.com/wb1i8KF.jpg" alt="header">
@@ -165,6 +166,6 @@ At the village, there was no local transport back to Nainbag. We sat for tea and
 >Wheat Fields
 
 
-A few km from Dehradun one of the traveller's accelerator failed and were thrown out of the good vehicle to this one. We waited for 30 minutes for the brakes to cool down. And then we stared at a constant speedometer till Haridwar. We reached Haridwar at around 11.30pm and again missed my train back to Delhi. So I hopped on a public bus and reached Delhi at 6am sleepless. 
+A few km from Dehradun one of the traveller's accelerator failed and were thrown out of the good vehicle to this one. We waited for 30 minutes for the brakes to cool down. And then we stared at a constant speedometer till Haridwar. We reached Haridwar at around 11.30pm and again missed my train back to Delhi. So I hopped on a public bus and reached Delhi at 6am sleepless.
 
 But the pain was worth it. Except a few Muscle, everything is fine.

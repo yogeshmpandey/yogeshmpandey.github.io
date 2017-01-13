@@ -3,6 +3,7 @@ layout: post
 title:  "Almora: Tracing back the roots"
 date:   2015-11-18 00:23:40
 categories: travel
+tags: [Travel, RoadTrip, Uttarakhand, Himalayas, Family , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -26,7 +27,7 @@ Friend: WTF?
 
 >Map of our journey
 
-Someone has rightly said **always plan and travel, never travel and plan**. After celebrating Diwali we started our roadtrip to explore our roots, our hills, our kumaon. I was finally going to visit the realms of my ansectors and was super excited. 
+Someone has rightly said **always plan and travel, never travel and plan**. After celebrating Diwali we started our roadtrip to explore our roots, our hills, our kumaon. I was finally going to visit the realms of my ansectors and was super excited.
 
 Fanatically at 7am we started from rudarpur to visit binsar that lies 20 few kilometers ahead of Almora. We took the shorter Haldwani-Bhimtal road to reach Bhowali. From Bhowali the hairpin road with steep bends started. We were not used to these type of roads and started feeling dizzy. We stopped at a local tea shop which served us tea alongwith Aaloo k Gutke with Pahadi raita and spicy hot Pakoras with Bhang ki chutney. In my first bite I found from where the taste of my mother's food has come from. It was so delicious that we ordered and finished another two rounds.
 
@@ -56,7 +57,7 @@ We were carefully following the Gps of my phone as there were many roads divergi
 
 >Cactus or flower? (Hens and chicks)
 
-Given the description that we found in the web, this place was not a bit same as we thought, here were only one big temple no resorts, no wildlife bird sanctuary.. nothing. Five people cannot give us the wrong directions we said to each other. So we asked another guy about the place. He told that this is Binsar Mahadev, a well-known temple of Kumaon. It seemed that we had landed at wrong binsar. However, the place was very serene and quite. We then visited the temple. Warm Sunshine crossing the tree tops and made the whole ecosystem more enticing. 
+Given the description that we found in the web, this place was not a bit same as we thought, here were only one big temple no resorts, no wildlife bird sanctuary.. nothing. Five people cannot give us the wrong directions we said to each other. So we asked another guy about the place. He told that this is Binsar Mahadev, a well-known temple of Kumaon. It seemed that we had landed at wrong binsar. However, the place was very serene and quite. We then visited the temple. Warm Sunshine crossing the tree tops and made the whole ecosystem more enticing.
 
 <img src="http://i.imgur.com/7LyWS1I.jpg" alt="cactus">
 
@@ -73,7 +74,7 @@ After having Lunch and resting a bit, we thought of going back. Meanwhile, my ce
 >Crossing Ranikhet
 
 We Reached Binsar at around 5 pm. At that time, the Wildlife sanctuary and the museum were closed. From there we reached Zero Point one can see the Himalayan peaks like Kedarnath Peak, Shivling, Trishul and Nanda Devi.
-We drove again to find a sweet spot to see the sunset for which binsar is well famous. It was once the summer capital of <a href="https://en.wikipedia.org/wiki/Chand_kings">chand kings</a>. Unable to find a cheap place to stay we drove back to Almora. 
+We drove again to find a sweet spot to see the sunset for which binsar is well famous. It was once the summer capital of <a href="https://en.wikipedia.org/wiki/Chand_kings">chand kings</a>. Unable to find a cheap place to stay we drove back to Almora.
 
 <img src="http://i.imgur.com/XyAlg0u.jpg" alt="Crossing Ranikhet">
 
@@ -101,7 +102,7 @@ It was the night after Diwali and Almora was looking heavenly from our hotel. We
 
 >Bal Mithai
 
-From Almora, we went to Chitai mandir. This is probably the most famous temple in Kumaon. This temple houses lots of Bells and monkeys. People come here and write what they want in life in an application to Golu devta. Analogous to as motivational speakers say "Write down the goals of your life". After the wish is fulfilled they thank the god and hang a bell as a token of gratitude. 
+From Almora, we went to Chitai mandir. This is probably the most famous temple in Kumaon. This temple houses lots of Bells and monkeys. People come here and write what they want in life in an application to Golu devta. Analogous to as motivational speakers say "Write down the goals of your life". After the wish is fulfilled they thank the god and hang a bell as a token of gratitude.
 
 <img src="http://i.imgur.com/UHvpRWD.jpg" alt="Crossing Ranikhet">
 
@@ -119,7 +120,7 @@ From Almora, we went to Chitai mandir. This is probably the most famous temple i
 
 >Kumaonies(ツ)
 
-Moving on we then stopped at Jageshswar. It is a temple city comprises of 124 small and large stone temples. Along with the ancient architecture, the temples hold many mythological and interesting stories with them. This place also has relevance in coming Kalyug. Jata ganga river flows through the town. 
+Moving on we then stopped at Jageshswar. It is a temple city comprises of 124 small and large stone temples. Along with the ancient architecture, the temples hold many mythological and interesting stories with them. This place also has relevance in coming Kalyug. Jata ganga river flows through the town.
 
 <img src="http://i.imgur.com/X4JARC3.jpg" alt="Crossing Ranikhet">
 
@@ -133,7 +134,7 @@ Moving on we then stopped at Jageshswar. It is a temple city comprises of 124 sm
 
 >Kitchen in the Hotel at Jageshwar
 
-The Temples are well maintained by ASI. The sandstone floor of the temple is freezing cold carpets are spread out making it easier for the devotees to do Parikrama. The tall deodar trees promised little sunlight to reach some parts of the land making everything warm beneath my feets and heart. 
+The Temples are well maintained by ASI. The sandstone floor of the temple is freezing cold carpets are spread out making it easier for the devotees to do Parikrama. The tall deodar trees promised little sunlight to reach some parts of the land making everything warm beneath my feets and heart.
 
 <img src="http://i.imgur.com/vWxexgj.jpg" alt="Crossing Ranikhet">
 

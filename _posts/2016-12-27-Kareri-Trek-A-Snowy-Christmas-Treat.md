@@ -3,7 +3,7 @@ layout: post
 title:  "Kareri Trek: A Snowy Christmas Treat"
 date:   2016-12-30 00:22:40
 categories: travel
-tags: [Travel, Trekking, Himachal, Friends , Photoblog]
+tags: [Travel, Trekking, Himachal, Dhauladhars, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---

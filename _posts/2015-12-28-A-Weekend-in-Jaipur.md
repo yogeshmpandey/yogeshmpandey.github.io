@@ -3,6 +3,7 @@ layout: post
 title:  "A Weekend in Jaipur"
 date:   2015-12-31 00:7:40
 categories: travel
+tags: [Travel, Trekking, Rajasthan, Friends , Photoblog, WeekendDiaries]
 image:
   background: 2Nrxex6.jpg
 ---
@@ -12,7 +13,7 @@ After a lot of boring weekends and as an escape to the chilling "Dilli ki Sardi"
 
 >Hills of Jaipur
 
- Our Plans were big but thanks to IRCTC, half of them went down the drain. However, let's forget that and focus on the good parts (Isn't that what life is all about !). So we started our journey on Thursday night to Jaipur and reached pretty early at around 6:00 am. The temperature was so low that we started shivering and started searching for some shelter. But since we had  planned to follow an itinerary,  after filling the Thermos with tea, hopped in an auto and reached Nahargarh Fort. As the Auto  got lost between the lanes we decided to start walking to the gate. 
+ Our Plans were big but thanks to IRCTC, half of them went down the drain. However, let's forget that and focus on the good parts (Isn't that what life is all about !). So we started our journey on Thursday night to Jaipur and reached pretty early at around 6:00 am. The temperature was so low that we started shivering and started searching for some shelter. But since we had  planned to follow an itinerary,  after filling the Thermos with tea, hopped in an auto and reached Nahargarh Fort. As the Auto  got lost between the lanes we decided to start walking to the gate.
 
 <img src="http://i.imgur.com/EFhIUh7.jpg">
 
@@ -32,7 +33,7 @@ Nahargarh is build on top of a hilltop and although it is not a Herculean task t
 
 >Road to top
 
-We strolled around the outskirts of the fort for around two hours and then came down. We then booked a <a href="www.jugnoo.com">jugnoo </a>from there and went to Hawa Mahal. Hawa mahal has a beehive structure and is located near badi chopad. It was early morning and the sunlight though the coloured glasses of multiple windows instilled life in the interiors. 
+We strolled around the outskirts of the fort for around two hours and then came down. We then booked a <a href="www.jugnoo.com">jugnoo </a>from there and went to Hawa Mahal. Hawa mahal has a beehive structure and is located near badi chopad. It was early morning and the sunlight though the coloured glasses of multiple windows instilled life in the interiors.
 
 <img src="http://i.imgur.com/rz0zpKR.jpg">
 
@@ -47,7 +48,7 @@ We strolled around the outskirts of the fort for around two hours and then came 
 >Gallery inside Hawa Mahal
 
  We then headed to our hotel just to find out that our booking was not confirmed by the hotel. After cursing our luck and pledging never to use MakeMyTrip app we moved to a different location. We found a hotel after 2-3 hours of wandering. After resting, we moved to explore the city on feets. Covering Rajmandir, Statue Circle, Birla Planetarium, Taj Rambagh Palace.
- 
+
 <img src="http://i.imgur.com/rc3UFBV.jpg" alt="jal mahal">
 
 >Statue Circle
@@ -68,7 +69,7 @@ Then we Reached Birla Temple and Ganesha temple. The temples were good. However,
 
 <img src="http://i.imgur.com/Fd3SYbI.jpg" alt="Too much Rush">
 
->Full Moon 
+>Full Moon
 
 Next day we took an auto to city place. The Auto guy was fun, narrating various stories about the city and his times he told us to visit Albert Hall. After City palace, he dropped us at Albert Hall Museum. The museum has the soul of the city, its culture and its grand lineage. One interesting thing about this place is that it houses many pigeons like too many. I had never seen this many pigeons in my life before. The Museum has a variety of interesting things including a mummy.
 
@@ -98,7 +99,7 @@ Later we went back to the hotel as we needed to check out. After checking out, w
 
 >Raj mandir in Night
 
-It was 4 am and we were already late for Amer Fort. Took a local city bus and Went to Amer. After struggling with the traffic at the heart of the city we reached Jal Mahal. 
+It was 4 am and we were already late for Amer Fort. Took a local city bus and Went to Amer. After struggling with the traffic at the heart of the city we reached Jal Mahal.
 
 <img src="http://i.imgur.com/gbVgHeR.jpg" alt="jal mahal">
 

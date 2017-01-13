@@ -3,6 +3,7 @@ layout: post
 title:  "I Was Here : Pune"
 date:   2016-03-23 00:23:40
 categories: travel
+tags: [Travel, Maharashtra, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -20,13 +21,13 @@ Here in Pune people and culture is not just different, It is just something else
 
 In the bus I was rewatching Bajirao Mastani and making a priority list of places that needs a visit, and the very first of them was Shaniwar Wada.
 
-As I landed in pune I met local who guided me till Shaniwar Wada. It was sad to see a monument with such a glorious history in ruins today. There I had a random chitchat with local who guided me to various places around that place. 
+As I landed in pune I met local who guided me till Shaniwar Wada. It was sad to see a monument with such a glorious history in ruins today. There I had a random chitchat with local who guided me to various places around that place.
 
 <img src="http://i.imgur.com/QLu1C7z.jpg" alt="Shaniwar Wada">
 
 >Shaniwar Wada Front Face
 
-From Shaniwar Wada my next stop was Lal mahal. Crossed the famous Dagduseth ganpati temple while going there. Lal Mahal was the first home of Shivaji. The current building is the reconstruction of Lal Mahal and no one actually knows where the original Lal Mahal is. Mean while between I forgot the names of a few places that needed a visit (The name of the places are not memory friendly). 
+From Shaniwar Wada my next stop was Lal mahal. Crossed the famous Dagduseth ganpati temple while going there. Lal Mahal was the first home of Shivaji. The current building is the reconstruction of Lal Mahal and no one actually knows where the original Lal Mahal is. Mean while between I forgot the names of a few places that needed a visit (The name of the places are not memory friendly).
 
 <img src="http://i.imgur.com/BlAxcRv.jpg" alt="ganpati">
 
@@ -42,7 +43,7 @@ Someonce once said to me that if you really want to see the essence of a place, 
 
 >Mastani Mahal @ Kelakar Museum
 
-Next Day with my <a href="http://www.internetslang.com/BFAM-meaning-definition.asp">BFAM </a> visited lonavala and we cursed the gods that it is not the season of monsoons. 
+Next Day with my <a href="http://www.internetslang.com/BFAM-meaning-definition.asp">BFAM </a> visited lonavala and we cursed the gods that it is not the season of monsoons.
 
 In Lonavala we first visited Ryewood Park and a temple attached to it. Both the places are at a walking distance from the railway station. The Park is very Peaceful and scerene. The garden is full of tall trees and open areas. Not that great but good to spend a couple of minutes with yourself.
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "Losing My Phone"
 date:   2015-04-10 23:52:38
+tags: [Life, Learning]
 categories: android
 ---
 

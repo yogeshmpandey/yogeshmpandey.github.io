@@ -3,6 +3,7 @@ layout: post
 title:  "Twitter Butler"
 date:   2015-05-24 20:52:38
 categories: coding
+tags: [Coding, Learning, DIY]
 image:
   background: witewall_3.png
 ---
@@ -29,4 +30,4 @@ Maybe this is what we can get in the future.
 
 <img src="/images/iot.jpg" alt="">
 
-Reuse and Happy Hacking. 
+Reuse and Happy Hacking.

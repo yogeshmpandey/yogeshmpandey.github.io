@@ -3,6 +3,7 @@ layout: post
 title:  "A Short Hike To Sattal"
 date:   2016-08-15 00:12:40
 categories: travel
+tags: [Travel, Hiking , Uttarakhand, Himalayas , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
@@ -10,7 +11,7 @@ image:
 
 >Monsoon and hills
 
-It was about three months and I had only gone to and fro my home in the name of travelling. After a series of changing plans for finding the best places to go in this monsoon season , we decided to give Parashar lake in Himachal a try. But again the stars had something else in mind. After some other unfortunate turn of events, we landed in Sattal. 
+It was about three months and I had only gone to and fro my home in the name of travelling. After a series of changing plans for finding the best places to go in this monsoon season , we decided to give Parashar lake in Himachal a try. But again the stars had something else in mind. After some other unfortunate turn of events, we landed in Sattal.
 
 <img src="http://i.imgur.com/m0AvzeS.jpg" alt="">
 
@@ -24,7 +25,7 @@ It was about three months and I had only gone to and fro my home in the name of 
 
 >Most Suitable route Algorithm :)
 
-Sattal is an interconnected group of seven freshwater lakes situated near Bhimtal. We reached Haldwani three hours late as the bus tire got punctured near Joya. Since, it was a trip planned in a frenzy, After reaching Haldwani, We decided to stop the bus somewhere before Bhimtal and take the hill route till Sattal. But  the driver told us that it will be a long path and we should better take the vehicles from Meheragaon. However, Google Maps showed a path which was relatively shorter and doable on foot. I had confidence in my instincts, so I asked the Driver to drop us at that point and luckily we were at the spot from where Sattal was only 5 km away. Thanking the universe, we started the walk. 
+Sattal is an interconnected group of seven freshwater lakes situated near Bhimtal. We reached Haldwani three hours late as the bus tire got punctured near Joya. Since, it was a trip planned in a frenzy, After reaching Haldwani, We decided to stop the bus somewhere before Bhimtal and take the hill route till Sattal. But  the driver told us that it will be a long path and we should better take the vehicles from Meheragaon. However, Google Maps showed a path which was relatively shorter and doable on foot. I had confidence in my instincts, so I asked the Driver to drop us at that point and luckily we were at the spot from where Sattal was only 5 km away. Thanking the universe, we started the walk.
 
 <img src="http://i.imgur.com/rrfmV4y.jpg" alt="">
 
@@ -62,7 +63,7 @@ Somewhere in between, it started raining. After a few drops, everything became b
 
 >Maggi and Hills : A perfect Combination
 
-We sat alongside the lake for a while and had Yummy maggy. There were many monkeys and ducks beside the lake that brought chaos to the calmness of the lake. We went to KMVN after it grew darker. The room were quite nice. At this time of the season, there was no one except us. Which was quite scary, but we slept peacefully. 
+We sat alongside the lake for a while and had Yummy maggy. There were many monkeys and ducks beside the lake that brought chaos to the calmness of the lake. We went to KMVN after it grew darker. The room were quite nice. At this time of the season, there was no one except us. Which was quite scary, but we slept peacefully.
 
 <img src="http://i.imgur.com/4XJBdCu.jpg" alt="">
 
