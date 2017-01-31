@@ -36,5 +36,5 @@ Before, there were so many things that occupied my mind. When I learned how much
 
 Thank you!
 
-####Life is like a garden. Perfect moments can be had, but not preserved, except in memory
+Life is like a garden. Perfect moments can be had, but not preserved, except in memory
 
