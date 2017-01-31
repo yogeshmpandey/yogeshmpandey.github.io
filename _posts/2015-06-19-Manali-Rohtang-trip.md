@@ -13,19 +13,25 @@ Well finally after a series of changing plans, postponing dates and many other h
 
 
 <img src="http://i.imgur.com/aCK4MQ4.png" alt="">
-The Itinerary
+
+>The Itinerary
 
 <img src="http://i.imgur.com/rNFaqsC.jpg" alt="">
-Majestic Mountains
+
+>Majestic Mountains
 
 <img src="http://i.imgur.com/HjgXF29.jpg" alt="">
-Paragliding
+
+>Paragliding
 
 <img src="http://i.imgur.com/hKFm3i2.jpg" alt="">
-Ice Skiing
+
+>Ice Skiing
 
 <img src="http://i.imgur.com/xUw2zpo.jpg" alt="">
-Horse Shed
+
+>Horse Shed
 
 <img src="http://i.imgur.com/Y8JXnqZ.jpg" alt="">
-Closing Remarks :D
+
+>Closing Remarks :D
