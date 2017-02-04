@@ -38,9 +38,6 @@ Above conversation happened around 11 am. Something was seriously messed up in t
 
 >Hello Kedarkantha
 
-<img src="http://i.imgur.com/n7ofngG.jpg" alt="Indian Flag">
-
->Himachali Temple
 
 **Day 1: Reaching Sankri**
 
@@ -125,7 +122,7 @@ Frozen lake Surrounded by pine trees, our campsites on a sheet of snow alongside
 
 >Camps in the night
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120500096!6m8!1m7!1sF:-IPI-6gzSMrg%2FWJNJc5NsHLI%2FAAAAAAAAPKc%2F0hQBlEBlGZ05nDpZM8I4DaVlhy01I2H_wCLIB!2m2!1d31.05254890501808!2d78.18406591755722!3f152!4f0!5f0.7820865974627469" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120500096!6m8!1m7!1sF:-IPI-6gzSMrg%2FWJNJc5NsHLI%2FAAAAAAAAPKc%2F0hQBlEBlGZ05nDpZM8I4DaVlhy01I2H_wCLIB!2m2!1d31.05254890501808!2d78.18406591755722!3f152!4f0!5f0.7820865974627469" width="900" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 >At JUDA ka Talab
 
@@ -169,7 +166,7 @@ The Kedarkantha peak is clearly visible from the KK Base. It looked down as if i
 
 >Abandoned Hut
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120465182!6m8!1m7!1sF:-CkjANKZhI2g%2FWJNJ8r5qFmI%2FAAAAAAAAPKk%2F0qRaev_rLOQpz7je11cuklHvzZE8xdLMACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f290!4f0!5f0.7820865974627469" width="804" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120465182!6m8!1m7!1sF:-CkjANKZhI2g%2FWJNJ8r5qFmI%2FAAAAAAAAPKk%2F0qRaev_rLOQpz7je11cuklHvzZE8xdLMACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f290!4f0!5f0.7820865974627469" width="90" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 >At Base Camp
 
@@ -195,7 +192,7 @@ The flat hilltop presents a 360 degree views of the area. One can see the snow-c
 
 >View from the top
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120421374!6m8!1m7!1sF:-BZZ6-jiu7QU%2FWJNJ8pq5CPI%2FAAAAAAAAPKk%2Fk5MEFMlFjqYoz8sISxz9WzJRJ4GstOZIACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f81!4f0!5f0.7820865974627469" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120421374!6m8!1m7!1sF:-BZZ6-jiu7QU%2FWJNJ8pq5CPI%2FAAAAAAAAPKk%2Fk5MEFMlFjqYoz8sISxz9WzJRJ4GstOZIACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f81!4f0!5f0.7820865974627469" width="900" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 > 360 pics From KedarKantha Top
 
@@ -265,4 +262,4 @@ Not willing to leave the perfect place to go back to a world full of stress and 
 
 >Tiger Rock
 
-<iframe width="800" height="600" src="https://www.youtube.com/embed/ofO5gbypvPE" frameborder="0" allowfullscreen></iframe>
+<iframe width="900" height="600" src="https://www.youtube.com/embed/ofO5gbypvPE" frameborder="0" allowfullscreen></iframe>
