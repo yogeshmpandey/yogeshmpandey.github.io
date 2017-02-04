@@ -18,7 +18,7 @@ image:
 
 **Me**: Yes.
 
-Above conversation happened around 11 am. Something was seriously messed up in the Office Project and our team was busy sorting it out. Following which we decided to cancel this 3 months old trek plans. "The better we plan, the better is fails" echoed in my mind as I trying to figure out the problem. Later in the afternoon, the issue was known and I dialed again to <a href="www.trekthehimalayas.com">TTH</a>.
+Above conversation happened around 11 am. Something was seriously messed up in the Office Project and our team was busy sorting it out. Following which we decided to cancel this 3 months old trek plans. "The better we plan, the better is fails" echoed in my mind as I was trying to figure out the problem. Later in the afternoon, the issue was known and I dialed again to <a href="http://www.trekthehimalayas.com">TTH</a>.
 
 **Me**: Hi! Priyanka
 
