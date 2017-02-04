@@ -10,29 +10,29 @@ image:
 
 <img src="http://i.imgur.com/uK8no7t.jpg" alt="Our Backpack">
 
-Priyanka: But ! Are you sure?
+**Priyanka**: But ! Are you sure?
 
-Me: Yes, Please cancel my tomorrow's trek
+**Me**: Yes, Please cancel my tomorrow's trek
 
-Priyanka: Are you sure?
+**Priyanka**: Are you sure?
 
-Me: Yes.
+**Me**: Yes.
 
 Above conversation happened around 11 am. Something was seriously messed up in the Office Project and our team was busy sorting it out. Following which we decided to cancel this 3 months old trek plans. "The better we plan, the better is fails" echoed in my mind as I trying to figure out the problem. Later in the afternoon, the issue was known and I dialed again to <a href="www.trekthehimalayas.com">TTH</a>.
 
-Me: Hi! Priyanka
+**Me**: Hi! Priyanka
 
-Priyanka: Hello Yogesh! I have cancelled your Trek, which included your Pickup, stay and ...
+**Priyanka**: Hello Yogesh! I have cancelled your Trek, which included your Pickup, stay and ...
 
-Me: I want to come.. actually the issue ...
+**Me**: I want to come.. actually the issue ...
 
-Priyanka: Are you Serious !!! Cmon..
+**Priyanka**: Are you Serious !!! Cmon..
 
 [after 10 seconds]
 
-Priyanka: This time it is final right?... okay give me 30 minutes. ohfo..
+**Priyanka**: This time it is final right?... okay give me 30 minutes. ohfo..
 
-Me: Yup...  (Sheepish Grin)
+**Me**: Yup...  (Sheepish Grin)
 
 <img src="http://i.imgur.com/2q5FNiQ.jpg" alt="Maple Leaf">
 
@@ -42,7 +42,7 @@ Me: Yup...  (Sheepish Grin)
 
 >Himachali Temple
 
-**Day 1: Reaching sankri**
+**Day 1: Reaching Sankri**
 
 So in this way, the plan was in order again. I started packing my backpack and was ready to catch Nanda Devi Express to Dehradun.
 
@@ -50,7 +50,7 @@ So in this way, the plan was in order again. I started packing my backpack and w
 
 >Yamuna River
 
-We Reached Doon at 6 am. At this time Doon was relatively cosier than Delhi. After some hot tea, we sat in the traveller which took us to Sankri Village. The road to sankri is very well built alongside river Yamuna. However, the last one hour of the journey made our stomach upset. Covering Nowgaon, Portola, Mori and Natwar we finally reached Sankri.
+We Reached Doon at 6 am. At this time Doon was relatively cosier than Delhi. After some hot tea, we sat in the traveller which took us to Sankri Village. The road to Sankri is very well built alongside river Yamuna. However, the last one hour of the journey made our stomach upset. Covering Nowgaon, Portola, Mori and Natwar we finally reached Sankri.
 
 <img src="http://i.imgur.com/ElI0S7T.jpg" alt="Indian Flag">
 
@@ -85,7 +85,7 @@ At Sankri we met other fellow trekkers from different parts of India. An Amazing
 
 **Day 2: Juda ka Talab**
 
-We started from Sankri at 8 am sharp. From another end of the village, we started ascending uphill. Today was an easy 5 km Climb till Juda ka Talab. Unlike other treks in which Snow was visible on the top, here it was the starting of the trail itself. The views were amazing, everything from trees, leaves, Trail was covered in 6-7 inches of snow. We reached Juda-Ka-Talab in the afternoon and this campsite was heaven.
+We started from Sankri at 8 am sharp. From another end of the village, we started ascending uphill. Today was an easy 5 km Climb till Juda ka Talab. Unlike other treks in which Snow was visible on the top, here it was the starting of the trail itself. The views were amazing, everything from trees, leaves, Trail was covered in 6-7 inches of snow. We reached Juda-Ka-Talab in the afternoon and this campsite was like a vanilla slice of heaven.
 
 <img src="http://i.imgur.com/dfFtaym.jpg" alt="Indian Flag">
 
@@ -125,7 +125,7 @@ Frozen lake Surrounded by pine trees, our campsites on a sheet of snow alongside
 
 >Camps in the night
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120500096!6m8!1m7!1sF:-IPI-6gzSMrg%2FWJNJc5NsHLI%2FAAAAAAAAPKc%2F0hQBlEBlGZ05nDpZM8I4DaVlhy01I2H_wCLIB!2m2!1d31.05254890501808!2d78.18406591755722!3f152!4f0!5f0.7820865974627469" width="1024" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120500096!6m8!1m7!1sF:-IPI-6gzSMrg%2FWJNJc5NsHLI%2FAAAAAAAAPKc%2F0hQBlEBlGZ05nDpZM8I4DaVlhy01I2H_wCLIB!2m2!1d31.05254890501808!2d78.18406591755722!3f152!4f0!5f0.7820865974627469" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 >At JUDA ka Talab
 
@@ -169,7 +169,7 @@ The Kedarkantha peak is clearly visible from the KK Base. It looked down as if i
 
 >Abandoned Hut
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120465182!6m8!1m7!1sF:-CkjANKZhI2g%2FWJNJ8r5qFmI%2FAAAAAAAAPKk%2F0qRaev_rLOQpz7je11cuklHvzZE8xdLMACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f290!4f0!5f0.7820865974627469" width="1024" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120465182!6m8!1m7!1sF:-CkjANKZhI2g%2FWJNJ8r5qFmI%2FAAAAAAAAPKk%2F0qRaev_rLOQpz7je11cuklHvzZE8xdLMACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f290!4f0!5f0.7820865974627469" width="804" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 >At Base Camp
 
@@ -195,7 +195,7 @@ The flat hilltop presents a 360 degree views of the area. One can see the snow-c
 
 >View from the top
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120421374!6m8!1m7!1sF:-BZZ6-jiu7QU%2FWJNJ8pq5CPI%2FAAAAAAAAPKk%2Fk5MEFMlFjqYoz8sISxz9WzJRJ4GstOZIACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f81!4f0!5f0.7820865974627469" width="1024" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m0!4v1486120421374!6m8!1m7!1sF:-BZZ6-jiu7QU%2FWJNJ8pq5CPI%2FAAAAAAAAPKk%2Fk5MEFMlFjqYoz8sISxz9WzJRJ4GstOZIACLIB!2m2!1d31.024233772502733!2d78.1710959377371!3f81!4f0!5f0.7820865974627469" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 > 360 pics From KedarKantha Top
 
@@ -265,4 +265,4 @@ Not willing to leave the perfect place to go back to a world full of stress and 
 
 >Tiger Rock
 
-<iframe width="1024" height="800" src="https://www.youtube.com/embed/ofO5gbypvPE" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.youtube.com/embed/ofO5gbypvPE" frameborder="0" allowfullscreen></iframe>
