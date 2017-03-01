@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Kedarkantha Chronicles"
-date:   2017-02-02 00:22:40
+date:   2017-03-02 00:22:40
 categories: travel
 tags:[Cycling, Photoblog]
 image:
