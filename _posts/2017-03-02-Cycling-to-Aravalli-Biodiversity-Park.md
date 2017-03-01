@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Cycling to Aravalli Biodiversity Park"
-date:   2017-03-02 00:22:40
+date:   2017-03-02 23:52:38
 categories: travel
 tags:[Cycling, Photoblog]
 image:
   background: ps_neutral.png
 ---
 
-__*When in Doubt, pedal it out ,,*__
+__*When in Doubt, pedal it out *__
 
 <img src="http://i.imgur.com/mPUOQqv.jpg" alt="The Bike">
 
