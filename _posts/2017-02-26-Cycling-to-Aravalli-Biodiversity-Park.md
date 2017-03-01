@@ -8,7 +8,7 @@ image:
   background: ps_neutral.png
 ---
 
-__*When in Doubt, pedal it out *__
+*When in Doubt, pedal it out *
 
 <img src="http://i.imgur.com/mPUOQqv.jpg" alt="The Bike">
 
@@ -43,10 +43,3 @@ In the morning ride I was able to spot a peacock and different birds. A rare sig
 >WildFlowers
 
 Surely a must visit place for all nature enthusiast and flora and fauna lovers.
-
-
-
-
-
-
-
