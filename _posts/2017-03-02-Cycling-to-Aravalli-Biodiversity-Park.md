@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Kedarkantha Chronicles"
+title:  "Cycling to Aravalli Biodiversity Park"
 date:   2017-03-02 00:22:40
 categories: travel
 tags:[Cycling, Photoblog]
