@@ -48,7 +48,7 @@ After another series of unfortunate events crossing Chandigarh, mandi and other 
 
 >The Forest of Parashar
 
-<img src="http://i.imgur.com/Uv1Vv9hC.jpg" alt="The Gang">
+<img src="http://i.imgur.com/Cjxs37z.jpg" alt="The Gang">
 
 >Starting
 
@@ -65,10 +65,6 @@ After another series of unfortunate events crossing Chandigarh, mandi and other 
 <img src="http://i.imgur.com/h4Ha48H.jpg" alt="The Gang">
 
 >The Backdrop
-
-<img src="http://i.imgur.com/KoS1eE1.jpg" alt="The Gang">
-
->Dauladhar Ranges
 
 After half an hour we met the rest of the group still pumped up for the trek. We still had a long way to go. After having a quick lunch we again started the trek. I was at the end to make sure no one is left behind. Since it was a working day the trail was clean and devoid of trekkers. As we moved up, it started growing dark and cold. 
 
