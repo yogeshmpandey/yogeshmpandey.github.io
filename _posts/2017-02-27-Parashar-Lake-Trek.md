@@ -56,7 +56,11 @@ After another series of unfortunate events crossing Chandigarh, mandi and other 
 
 >The skies
 
- Krishna Cafe in midst of the wilderness provides a great meal for the trekkers. From there, half an hour later our backpacks were stuffed with 35 paranthas and omelettes. Both of us rushed to meet our 15 hungry trekkers. After crossing the small stream of rivers we ventured into the hills. After a few minutes, we heard some voice. A guy communicated to us that we are going on a wrong path. Then I thought of what if 15 others had gone on the same wrong path. We met this guy and he told us that he is a guide and has already sent our previous group on the correct route.
+<img src="http://i.imgur.com/rY2RFI9.jpg" alt="The Gang">
+
+>Delicacies of Bagi
+
+Krishna Cafe in midst of the wilderness provides a great meal for the trekkers. From there, half an hour later our backpacks were stuffed with 35 paranthas and omelettes. Both of us rushed to meet our 15 hungry trekkers. After crossing the small stream of rivers we ventured into the hills. After a few minutes, we heard some voice. A guy communicated to us that we are going on a wrong path. Then I thought of what if 15 others had gone on the same wrong path. We met this guy and he told us that he is a guide and has already sent our previous group on the correct route.
 
 <img src="http://i.imgur.com/S7z7j4C.jpg" alt="The Gang">
 
