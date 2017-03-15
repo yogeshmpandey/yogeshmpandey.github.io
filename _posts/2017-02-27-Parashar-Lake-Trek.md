@@ -31,9 +31,6 @@ Parashar lake is located 9000 feets above sea level, offers an 180-degree view o
 
 >From mandi
 
-<img src="http://i.imgur.com/Cjxs37z.jpg" alt="The Gang">
-
->At Bagi
 
 There are two ways to reach the top. First the trekking route, which goes from beautiful forest and small meadows to the lake and other is a bit risky mountain road. 
 
