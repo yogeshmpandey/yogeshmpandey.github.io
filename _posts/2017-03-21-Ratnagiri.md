@@ -46,7 +46,7 @@ The bus dropped us in the near proximity of the bus stand. It took a while to fi
 
 >Camels for the Beach ride
 
-The beach was very pristine and calm. Blue ocean waving across the white sand made the time stop for a moment. Later in the evening we enjoyed the amazing sunset while eating 
+The beach was very pristine and calm. Blue ocean waving across the white sand made the time stop for a moment. Later in the evening we enjoyed the amazing sunset while eating Bhel Puri.
 
 <img src="http://i.imgur.com/LX8vpsd.jpg" alt="">
 
