@@ -8,7 +8,7 @@ image:
   background: ps_neutral.png
 ---
 
-<img src="http://i.imgur.com/A9YkPhi.jpg" alt="">
+<img src="http://i.imgur.com/2VJnxpp.jpg" alt="">
 
 This month I got a fortunate opportunity for a business trip to Mumbai. Which extended to an exploratory weekend getaways to the coastal town of Ratnagiri.
 
@@ -46,22 +46,22 @@ The bus dropped us in the near proximity of the bus stand. It took a while to fi
 
 >Camels for the Beach ride
 
-The beach was very pristine and clam. Blue ocean waving across the white sand made the time stop for a moment. Later in the evening we enjoyed the amazing sunset while eating 
+The beach was very pristine and calm. Blue ocean waving across the white sand made the time stop for a moment. Later in the evening we enjoyed the amazing sunset while eating 
 
 <img src="http://i.imgur.com/LX8vpsd.jpg" alt="">
 
 >Sunset to die for
 
-**Day 2: Sir ! Jaigad ka last bus to nikal gya !**
+**Day 2: Sir! Jaigad ka last bus to nikal gya !**
 
-We planned to visit the Jaigad fort from Ganpatiphule the next day. But the last bus was not availabe when we reached the bus station. Insted we hopped into the next bus that came to the stand which dropped us in Malgund. It was a 2 km tedious walk to malgund beach in the itching sun.
-It was no way we could go to the beach in this soaring mercury, So instead we sat on the stairs and enjoyed the views.
+We planned to visit the Jaigad fort from Ganpatiphule the next day. But the last bus was not available when we reached the bus station. Instead we hopped on the next bus that came to the stand which dropped us in Malgund. It was a 2 km tedious walk to the malgund beach in the itching sun.
+It was no way we could go to the beach in this soaring mercury, So instead, we sat on the stairs and enjoyed the views.
 
 <img src="http://i.imgur.com/u8iiGIE.jpg" alt="">
 
 >Malgund Beach
 
-We sat at an old an unhabited temple as we waited for the bus back to ratnagiri. After reaching the city and having a delicios lunch at <a href ="https://www.facebook.com/pages/Hotel-Mithila/415963098438875">Mithila</a> we headed towards Thiba point.Thiba point is situated on a small hillock. This is also a best sunset point and provides good view of the kajali Mongroves, the port and the Arabian sea. We had to wait for a couple of hours to get in as the place opened up at 4pm. From there we took an auto to explore Ratnagiri Fort and Bhagwati Mandir. 
+We sat at an old an uninhabited temple as we waited for the bus back to Ratnagiri. After reaching the city and having a delicious lunch at <a href ="https://www.facebook.com/pages/Hotel-Mithila/415963098438875">Mithila</a> we headed towards Thiba point.Thiba point is situated on a small hillock. This is also a best sunset point and provides good view of the kajali Mangroves, the port and the Arabian sea. We had to wait for a couple of hours to get in as the place opened up at 4 pm. From there we took an auto to explore Ratnagiri Fort and Bhagwati Mandir. 
 
 <img src="http://i.imgur.com/wXsYAiV.jpg" alt="">
 
@@ -85,8 +85,5 @@ The trip ended on (not-so-good-but-anyways-the-auto-dropped-us-here) Mandavi Bea
 <img src="http://i.imgur.com/6cB7ol4.jpg" alt="">
 
 >Sunset from the Mandavi beach
-
-
-
 
 
