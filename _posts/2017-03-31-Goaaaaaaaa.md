@@ -8,22 +8,23 @@ image:
   background: ps_neutral.png
 ---
 
-<img src="http://i.imgur.com/GdQAr2v.jpg" alt="">
+Goa was on my bucket list from a long long time. Even before the Inception of this blog, even before travel became a part of my life and even before I realised what travel does to a person.
 
-Goa was on my bucket list from a long long time. Even before the Inception of this blog, even before travel became a part of my life and even before I realised what travel does to you.
+<img src="http://i.imgur.com/GdQAr2v.jpg" alt="">
+>We
 
 <img src="http://i.imgur.com/Kvj03lE.jpg" alt="">
 
 >At Night
 
-So we a group of 6 people friends cum colleagues, decided to go to Goa in the month of February. I like every Goa plan the plan kept on postponing till the month of April. Luckily we were able to get the cheap tickets to Goa.
+So we a group of 6 people friends cum colleagues, decided to go to Goa in the month of February.Like every Goa plan, the plan kept on postponing till the month of April. Luckily we were able to get the cheap tickets to Goa.
 
 
 <img src="http://i.imgur.com/ZnVuEoZ.jpg" alt="">
 
 >Goan Backwaters
 
-My flight to goa was 11 pm which dropped me in Panaji Airport at around 1:30 in the night. To my amazement, there is no Uber/Ola in Goa. So I had to take the taxi all the way to Baga Beach. The cost of taxi came to be 1600 rupees, this wiped out all the hard work done for getting cheap tickets. The weather of goa was little humid with a tinge of saltiness. As I reached the beach, the friends were already soaked in the colours of Goa, and I wasted no time. 
+My flight to goa was at 11 pm. It dropped me in Panaji Airport at around 1:30 in the night. To my amazement, there is no Uber/Ola in Goa. So I had to take the taxi all the way to Baga Beach. The cost of taxi came to be around 1600 rupees, this wiped out all the hard work done for getting cheap tickets. The weather of goa was little humid with a tinge of saltiness. As I reached the beach, the friends were already soaked in the colours of Goa, and I wasted no time. 
 
 <img src="http://i.imgur.com/gwCOr2t.jpg" alt="">
 >Baga at night
@@ -34,11 +35,6 @@ My flight to goa was 11 pm which dropped me in Panaji Airport at around 1:30 in 
 <img src="http://i.imgur.com/cmTHzaF.jpg" alt="">
 >Shacks at Baga
 
-<img src="http://i.imgur.com/8VnjakE.jpg" alt="">
->At Baga
-
-<img src="http://i.imgur.com/nIBlddC.jpg" alt="">
->View from Chapora fort
 
 Next Day I woke up early and walked from one end of Calangute beach to Baga beach. In the morning the atmosphere and the vibe were completely different. When everyone was well awake, we rented three Activas and visited Agora fort, Chapora fort, Vagator Beach, Anjuna 
 Beach. 
@@ -49,7 +45,12 @@ Beach.
 <img src="http://i.imgur.com/RVeMY7h.jpg" alt="">
 >Fishermen Boats 
 
-The view of the sea and the backwaters from Chapora fort is amazing. We tried a lot but didn't got the Dil Chahta hai feeling. Next went to Mambo's and it was my first experience at some Clubs. I must say that it was an experience of its own kind. In the long night, we stayed at Baga, doing nothing.
+<img src="http://i.imgur.com/8VnjakE.jpg" alt="">
+>At Baga
+
+
+
+The view of the sea and the backwaters from Chapora fort is amazing. We tried a lot but didn't got the Dil Chahta hai feeling. Next we went to Mambo's and it was my first experience at some Clubs. I must say that it was an experience of its own kind. In the long night, we stayed at Baga, doing nothing.
 
 <img src="http://i.imgur.com/sneTtgP.jpg" alt="">
 >At Baga Beach
@@ -57,11 +58,15 @@ The view of the sea and the backwaters from Chapora fort is amazing. We tried a 
 <img src="http://i.imgur.com/XmgGbjs.jpg" alt="">
 >Konkan food
 
-<img src="http://i.imgur.com/nAop4Br.jpg" alt="">
->Vagator Beach
 
 <img src="http://i.imgur.com/J7fSOAi.jpg" alt="">
 >Agora Fort
+
+<img src="http://i.imgur.com/nAop4Br.jpg" alt="">
+>Vagator Beach
+
+<img src="http://i.imgur.com/nIBlddC.jpg" alt="">
+>View from Chapora fort
 
 <img src="http://i.imgur.com/nUV2n1S.jpg" alt="">
 >Chapora Beach
@@ -86,7 +91,7 @@ Everyone was Well exhausted from yesterday's fun. We decided to try Parasailing 
 <img src="http://i.imgur.com/J55h0tS.jpg" alt="">
 > An Amazing experiance
 
-The last day we decided to visit Colva Beach. Clova beach is the longest beach in Goa. We walked from Colva to Beanulim beach. The beach was no less crowded than Baga but defiantly cleaner and calmer. The sunset from the beach was absolutly mesmerisings. 
+The last day we decided to visit Colva Beach. Colva beach is the longest beach in Goa. We walked from Colva to Beanulim beach. The beach was no less crowded than Baga but definatly cleaner and calmer. The sunset from the beach was absolutly mesmerisings. 
 
 <img src="http://i.imgur.com/yu3fgVl.jpg" alt="">
 >Sunset at Baga Beach
