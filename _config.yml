@@ -42,6 +42,7 @@ markdown:    kramdown
 gems:
   - jekyll-sitemap
   - jemoji
+  - octopress-quote-tag
   - jekyll-seo-tag
 sass:
   sass_dir: _sass
