@@ -8,4 +8,4 @@ image:
   background: ps_neutral.png
 ---
 
-#*<center>Dolce Far Niente : sweet idleness</center>*#
+#*Dolce Far Niente : sweet idleness*#
