@@ -7,6 +7,5 @@ tags: [Travel, RoadTrip, Trekking, Himachal, Himalayas, Friends , Photoblog, Wee
 image:
   background: ps_neutral.png
 ---
-{% quote author:"from italy" url:https://en.wiktionary.org/wiki/dolce_far_niente title:"Great Wisdom" %} 
-Dolce Far Niente : sweet idleness
-{% endquote %}
+
+<center>*Dolce Far Niente : sweet idleness*</center>
