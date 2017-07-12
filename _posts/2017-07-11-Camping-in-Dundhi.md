@@ -8,4 +8,6 @@ image:
   background: ps_neutral.png
 ---
 
+<img src="http://i.imgur.com/LAUCe6i.png" alt="Near hanuman tibba"></a>
+
 ### *"Dolce Far Niente : Sweet Idleness"* :milky_way: :relieved: :milky_way:
