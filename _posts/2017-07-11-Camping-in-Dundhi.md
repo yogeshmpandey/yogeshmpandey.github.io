@@ -12,14 +12,16 @@ image:
 
 ### *"Dolce Far Niente : Sweet Idleness"* :milky_way: :relieved: :milky_way:
 
-<img src="http://i.imgur.com/86mttFl.png" alt="Near hanuman tibba">
->View From Manali
-
 <img src="http://i.imgur.com/aW7t291.png" alt="Near hanuman tibba">
 >Astonishingly clear skies
 
-<img src="http://i.mgur.com/mP2wjP1.png" alt="Near hanuman tibba">
+<img src="http://i.imgur.com/mP2wjP1.png" alt="Near hanuman tibba">
 >From the guesthouse
+
+
+<img src="http://i.imgur.com/86mttFl.png" alt="Near hanuman tibba">
+>View From Manali
+
 
 <img src="http://i.imgur.com/hTwDTbz.png" alt="Near hanuman tibba">
 >Enroute Dundhi
@@ -54,7 +56,7 @@ image:
 <img src="http://i.imgur.com/AWhlwEq.png" alt="Near hanuman tibba">
 >Beas river in formation
 
-<img src="http://i.mgur.com/DUyG1dv.png" alt="Near hanuman tibba">
+<img src="http://i.imgur.com/DUyG1dv.png" alt="Near hanuman tibba">
 >Beas river
 
 <img src="http://i.imgur.com/GYzH2C5.png" alt="Near hanuman tibba">
