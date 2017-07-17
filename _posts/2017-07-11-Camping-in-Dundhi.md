@@ -18,7 +18,7 @@ What if we just did nothing?
 
 It is a kind of relaxation. The la dolce far niente. The sweetness of doing nothing and enjoying where we are in the present moment- is the greatest thanks we can give for the lives and blessing we have.
 
-In pictures - our last trek to beas kund. We pitched our tent in between the route near beas river. And no we did not completed the trek. Why ? you ask. "Dolce far niente".
+In pictures - our last trek to beas kund. We pitched our tent in between the route near beas river. And no we did not complete the trek. Why ? you ask. "Dolce far niente".
 
 <img src="http://i.imgur.com/aW7t291.png" alt="Near hanuman tibba">
 >Astonishingly clear skies
