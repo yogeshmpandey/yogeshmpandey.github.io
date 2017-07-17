@@ -9,8 +9,16 @@ image:
 ---
 
 <img src="http://i.imgur.com/LAUCe6i.png" alt="Near hanuman tibba">
-
 ### *"Dolce Far Niente : Sweet Idleness"* :milky_way: :relieved: :milky_way:
+
+Italians have a concept for piddling around known as “La Dolce Far Niente,” which means- the sweetness of doing nothing. 
+The idea that “doing nothing,” is actually an event in and of itself. The idea that we no longer run on a treadmill of activity from waking up, to brushing teeth, to getting ready for office, to conference calls, to getting groceries, to going for a run , and bed- only to start over again.
+
+What if we just did nothing?
+
+It is a kind of relaxation. The la dolce far niente. The sweetness of doing nothing and enjoying where we are in the present moment- is the greatest thanks we can give for the lives and blessing we have.
+
+In pictures - our last trek to beas kund. We pitched our tent in between the route near beas river. And no we did not completed the trek. Why ? you ask. "Dolce far niente".
 
 <img src="http://i.imgur.com/aW7t291.png" alt="Near hanuman tibba">
 >Astonishingly clear skies
