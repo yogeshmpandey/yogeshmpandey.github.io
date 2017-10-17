@@ -13,9 +13,10 @@ image:
 I had an amazing luck that I was in Munich at the time of Oktoberfest. Oktoberfest is the world's largest Volksfest (beer festival and travelling funfair). It is a 16 to 18-day folk festival running from mid or late September to the first weekend in October(16/September to 03/October this year). According to an estimate, 9 million litres of beer is consumed during the festival. 
 
 <img src="https://i.imgur.com/MyVKtC7.jpg" alt="entrance">
-> So it Begins
+>So it Begins
+
 <img src="https://i.imgur.com/Ar8iiAM.jpg" alt="entrance">
-> Too much Crowd
+>Too much Crowd
 
 There are many tents from different local breweries. All tents are free to enter, but if you don't have prior reservations and the tents are full you will have to wait outside.
 We didn't have any reservations but let's say we were very lucky.
@@ -31,6 +32,7 @@ Bavarians really do know how to celebrate. And no matter what, there’s a lot o
 
 <img src="https://i.imgur.com/yh2uY9b.jpg" alt="Löwenbräu">
 >Löwenbräu Tent
+
 <img src="https://i.imgur.com/AK8zbp8.jpg" alt="inside the tent">
 >From inside
 
@@ -38,11 +40,10 @@ The Löwenbräu-Festhalle, the Hofbräu-Festzelt and the Augustiner-Festhalle ar
 Although, I didn't have any colleagues or family, so I made a lot of friends in Oktoberfest in those three times. Beer is typically 10 euros, that goes with 1 euro tip to the waitress.
 
 <img src="https://i.imgur.com/F26YX4m.jpg" alt="ferry">
-> Ferry At oktoberfest
-
+>Ferry At oktoberfest
 
 <img src="https://i.imgur.com/jxdPsS6.jpg" alt="ferry">
-> Other Swings
+>Other Swings
 
 On a sidenote, one should learn these basic Phares before entering the Oktoberfest: 
 
@@ -54,5 +55,5 @@ On a sidenote, one should learn these basic Phares before entering the Oktoberfe
 __Fun fact:__ *In 1901, Albert Einstein was a labourer in the Oktoberfest.*
 
 <img src="https://i.imgur.com/p0ql6lG.jpg" alt="prost">
-> Prosit!
+>Prosit!
 
