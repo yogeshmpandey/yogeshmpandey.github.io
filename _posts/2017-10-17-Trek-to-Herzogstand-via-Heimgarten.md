@@ -2,7 +2,7 @@
 layout: post
 title:  "Trek to Herzogstand from Walchensee via Heimgarten "
 date:   2017-10-19 03:52:38
-categories: Life
+categories: Travel
 tags: [Travel, Trekking, Alps , Europe, Friends , Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
