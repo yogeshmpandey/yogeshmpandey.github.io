@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "
-Triund Trek"
+title:  "Triund Trek"
 date:   2015-10-05 00:02:38
 categories: travel
 tags: [Travel, Trekking, Himachal, Himalayas, Friends , Photoblog, WeekendDiaries]
@@ -21,7 +20,8 @@ To trek to Herzogstand from Munich we took a train till Kochel. From Kochel, the
 >Starting Views
 <img src="https://i.imgur.com/7Ymp82E.jpg" alt="logo">
 >The Map in the Train
-<img src="https://i.imgur.com/067AL8Wjpg" alt="logo">
+
+<img src="https://i.imgur.com/067AL8W.jpg" alt="logo">
 >The German Alps
 
 We took the opposite path to the Top and went via Heimgarten. After an hour of walking the surroundings were covered by clouds and it started drizzling. I took my raincoat out, however, the surrounding views of the lake and the mountains soaked myself in. After 3 hours we were at the top. I rested to catch a few breaths and was caught amidst the breathtaking views of the alpine blue lake nestled between the Alps. No picture can do justice to the experience at that moment.
@@ -48,6 +48,24 @@ I went inside the hut to look for some Food to eat, but the menu was incomprehen
 >A little more Left
 
 
+But the path is well-laid out and filled with supports on both ends that make it not that big of a risk. After an hour we reached Herzogstand. The views of Amsee and Walchensee were spectacular from here. To add more to the beauty, it started raining just above the lake and we saw a rainbow right above the lake. It is something that you don't see every day.
+<img src="https://i.imgur.com/IuTiaLZ.jpg" alt="logo">
+>Herzogstand seen from the ridge
+
+
+<img src="https://i.imgur.com/iZWDx92.jpg" alt="logo">
+>MoneyShot
+
+<img src="https://i.imgur.com/iqXbXAh.jpg" alt="logo">
+>From Herzogstand
+Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
+
+<img src="https://i.imgur.com/FclEGSj.jpg" alt="logo">
+>Walking back to the base
+
+The trail back from Herzogstand was filled with the colours of autumn. we finally reached back at Kochel at 6 pm. Covering 30+ odd kilometres in 8 hours.
+<img src="https://i.imgur.com/uFtli7V.jpg" alt="logo">
+>Back at Walchensee
 But the path is well-laid out and filled with supports on both ends that make it not that big of a risk. After an hour we reached Herzogstand. The views of Amsee and Walchensee were spectacular from here. To add more to the beauty, it started raining just above the lake and we saw a rainbow right above the lake. It is something that you don't see every day.
 <img src="https://i.imgur.com/IuTiaLZ.jpg" alt="logo">
 >Herzogstand seen from the ridge
