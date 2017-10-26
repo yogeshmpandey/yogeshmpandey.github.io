@@ -63,6 +63,10 @@ But the path is well-laid out and filled with supports on both ends that make it
 
 Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
 
+
+<img src="https://i.imgur.com/Fpj6KS5jpg" alt="logo">
+>View From the top
+
 <img src="https://i.imgur.com/FclEGSj.jpg" alt="logo">
 >Walking back to the base
 
