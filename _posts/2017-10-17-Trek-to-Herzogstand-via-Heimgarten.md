@@ -18,6 +18,7 @@ To trek to Herzogstand from Munich we took a train till Kochel. From Kochel, the
 
 <img src="https://i.imgur.com/dsMNtSe.jpg" alt="logo">
 >Starting Views
+
 <img src="https://i.imgur.com/7Ymp82E.jpg" alt="logo">
 >The Map in the Train
 
@@ -42,27 +43,30 @@ I went inside the hut to look for some Food to eat, but the menu was incomprehen
 
 <img src="https://i.imgur.com/2oevL7c.jpg" alt="logo">
 >View from the Top
+
 <img src="https://i.imgur.com/8mMy2Ee.jpg" alt="logo">
 >A little left
+
 <img src="https://i.imgur.com/ofiRnCb.jpg" alt="logo">
 >A little more Left
 
-
 But the path is well-laid out and filled with supports on both ends that make it not that big of a risk. After an hour we reached Herzogstand. The views of Amsee and Walchensee were spectacular from here. To add more to the beauty, it started raining just above the lake and we saw a rainbow right above the lake. It is something that you don't see every day.
+
 <img src="https://i.imgur.com/IuTiaLZ.jpg" alt="logo">
 >Herzogstand seen from the ridge
-
 
 <img src="https://i.imgur.com/iZWDx92.jpg" alt="logo">
 >MoneyShot
 
 <img src="https://i.imgur.com/iqXbXAh.jpg" alt="logo">
 >From Herzogstand
+
 Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
 
 <img src="https://i.imgur.com/FclEGSj.jpg" alt="logo">
 >Walking back to the base
 
 The trail back from Herzogstand was filled with the colours of autumn. we finally reached back at Kochel at 6 pm. Covering 30+ odd kilometres in 8 hours.
+
 <img src="https://i.imgur.com/uFtli7V.jpg" alt="logo">
 >Back at Walchensee
