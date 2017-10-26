@@ -7,52 +7,62 @@ tags: [Travel, Trekking, Alps , Europe, Friends , Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
+<img src="https://i.imgur.com/9UaAImF.jpg" alt="logo">
 
-<img src="https://i.imgur.com/B43H7pv.png" alt="logo">
+I was scrolling through my facebook feed and I came to know about a day trek close to Munich. I signed up for it and was ready the next Saturday at Hauptbahnhof. Out of 19 people that signed up, only 10 showed up. But nevertheless, it was fun.
 
-I had an amazing luck that I was in Munich at the time of Oktoberfest. Oktoberfest is the world's largest Volksfest (beer festival and travelling funfair). It is a 16 to 18-day folk festival running from mid or late September to the first weekend in October(16/September to 03/October this year). According to an estimate, 9 million litres of beer is consumed during the festival. 
+<img src="https://i.imgur.com/Ka07yxs.jpg" alt="logo">
+>Simply Amazing
 
-<img src="https://i.imgur.com/MyVKtC7.jpg" alt="entrance">
->So it Begins
+To trek to Herzogstand from Munich we took a train till Kochel. From Kochel, there was a bus till the trek starting point. We reached the lake at 9:00 am. The weather was a bit cloudy but warm. The Herzogstand is perched above the Walchensee, the deepest alpine lake in Germany and a popular spot for water sports. There is a Hut at Heimgarten where the trekkers can rest and refresh.
 
-<img src="https://i.imgur.com/Ar8iiAM.jpg" alt="entrance">
->Too much Crowd
+<img src="https://i.imgur.com/dsMNtSe.jpg" alt="logo">
+>Starting Views
+<img src="https://i.imgur.com/7Ymp82E.jpg" alt="logo">
+>The Map in the Train
 
-There are many tents from different local breweries. All tents are free to enter, but if you don't have prior reservations and the tents are full you will have to wait outside.
-We didn't have any reservations but let's say we were very lucky.
+<img src="https://i.imgur.com/067AL8W.jpg" alt="logo">
+>The German Alps
 
-<img src="https://i.imgur.com/X9pM8Es.jpg" alt="fun stuff at oktoberfest">
+We took the opposite path to the Top and went via Heimgarten. After an hour of walking the surroundings were covered by clouds and it started drizzling. I took my raincoat out, however, the surrounding views of the lake and the mountains soaked myself in. After 3 hours we were at the top. I rested to catch a few breaths and was caught amidst the breathtaking views of the alpine blue lake nestled between the Alps. No picture can do justice to the experience at that moment.
 
-<img src="https://i.imgur.com/HwGmkoI.jpg" alt="ouside">
+<img src="https://i.imgur.com/tmtpPoz.jpg" alt="logo">
+>The Amazing Views
 
-<img src="https://i.imgur.com/L68Zf9o.jpg" alt="ouside">
+<img src="https://i.imgur.com/ggiMCe2.jpg" alt="Logo">
+>The Hut
 
-It’s great to see so many people dressed up in traditional Bavarian clothes having a good time, celebrating, Visiting Swings and ferries and drinking good beer.
-Bavarians really do know how to celebrate. And no matter what, there’s a lot of singing. One famous song in a beer tent is *"Ein Prosit der Gemütlichkeit"* which means translated "A toast to cheer and good times".The band leader plays this song several times to invite the guests to toast and drink.
+<img src="https://i.imgur.com/UH650AM.jpg" alt="Coffee and Doggy">
+>Companion and Coffee
 
-<img src="https://i.imgur.com/yh2uY9b.jpg" alt="Löwenbräu">
->Löwenbräu Tent
+I went inside the hut to look for some Food to eat, but the menu was incomprehensible. I took a cup and went outside to enjoy the views.
+ Heimgarten Summit had a giant cross at the summit, From here the path to Herzogstand has less elevation. the ridge was is narrow, less than a meter wide in some places and straight down on both sides. 
+<img src="https://i.imgur.com/Z7xeqBh.jpg" alt="logo">
+>The Lake and the Rains
 
-<img src="https://i.imgur.com/AK8zbp8.jpg" alt="inside the tent">
->From inside
+<img src="https://i.imgur.com/2oevL7c.jpg" alt="logo">
+>View from the Top
+<img src="https://i.imgur.com/8mMy2Ee.jpg" alt="logo">
+>A little left
+<img src="https://i.imgur.com/ofiRnCb.jpg" alt="logo">
+>A little more Left
 
-The Löwenbräu-Festhalle, the Hofbräu-Festzelt and the Augustiner-Festhalle are some of the must-visit tents. By the way, it’s a local tradition to go to the Oktoberfest at least three times – once with the family, once with friends, and once with colleagues.
-Although, I didn't have any colleagues or family, so I made a lot of friends in Oktoberfest in those three times. Beer is typically 10 euros, that goes with 1 euro tip to the waitress.
 
-<img src="https://i.imgur.com/F26YX4m.jpg" alt="ferry">
->Ferry At oktoberfest
+But the path is well-laid out and filled with supports on both ends that make it not that big of a risk. After an hour we reached Herzogstand. The views of Amsee and Walchensee were spectacular from here. To add more to the beauty, it started raining just above the lake and we saw a rainbow right above the lake. It is something that you don't see every day.
+<img src="https://i.imgur.com/IuTiaLZ.jpg" alt="logo">
+>Herzogstand seen from the ridge
 
-<img src="https://i.imgur.com/jxdPsS6.jpg" alt="ferry">
->Other Swings
 
-On a sidenote, one should learn these basic Phares before entering the Oktoberfest: 
+<img src="https://i.imgur.com/iZWDx92.jpg" alt="logo">
+>MoneyShot
 
-* __Do you have an English menu?__ Haben Sie eine englische Menükarte?
-* __Where are the toilets?__ Wo sind die Toiletten?
-* __Cheers!__ Prost! or Prosit!
-* __More beer please!__ Noch ein Bier bitte!
+<img src="https://i.imgur.com/iqXbXAh.jpg" alt="logo">
+>From Herzogstand
+Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
 
-__Fun fact:__ *In 1901, Albert Einstein was a labourer in the Oktoberfest.*
+<img src="https://i.imgur.com/FclEGSj.jpg" alt="logo">
+>Walking back to the base
 
-<img src="https://i.imgur.com/p0ql6lG.jpg" alt="prost">
->Prosit!
+The trail back from Herzogstand was filled with the colours of autumn. we finally reached back at Kochel at 6 pm. Covering 30+ odd kilometres in 8 hours.
+<img src="https://i.imgur.com/uFtli7V.jpg" alt="logo">
+>Back at Walchensee
