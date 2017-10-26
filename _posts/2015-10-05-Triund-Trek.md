@@ -1,86 +1,123 @@
 ---
 layout: post
-title:  "Triund Trek"
+title:  "
+Triund Trek"
 date:   2015-10-05 00:02:38
 categories: travel
 tags: [Travel, Trekking, Himachal, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
-<img src="https://i.imgur.com/9UaAImF.jpg" alt="logo">
+<img src="http://i.imgur.com/TvEtdlr.png" alt="">
 
-I was scrolling through my facebook feed and I came to know about a day trek close to Munich. I signed up for it and was ready the next Saturday at Hauptbahnhof. Out of 19 people that signed up, only 10 showed up. But nevertheless, it was fun.
+Till date, this has been one of my most memorable travel milestones. Not only was the trek a feast for the eyes, it was also a test of willpower and overcoming adversity in the most inhumane conditions.
 
-<img src="https://i.imgur.com/Ka07yxs.jpg" alt="logo">
->Simply Amazing
+<img src="http://i.imgur.com/8Es3nr2.jpg" alt="">
 
-To trek to Herzogstand from Munich we took a train till Kochel. From Kochel, there was a bus till the trek starting point. We reached the lake at 9:00 am. The weather was a bit cloudy but warm. The Herzogstand is perched above the Walchensee, the deepest alpine lake in Germany and a popular spot for water sports. There is a Hut at Heimgarten where the trekkers can rest and refresh.
+>Getting Started
 
-<img src="https://i.imgur.com/dsMNtSe.jpg" alt="logo">
->Starting Views
-<img src="https://i.imgur.com/7Ymp82E.jpg" alt="logo">
->The Map in the Train
+This trip was planned like every other trip (read unplanned), except for the reservation of bus for reaching and coming back. We booked the cheapest bus we could find on HRTC website. Having done that we got busy in our lives until we came to know that India Vs South Africa first T-20 match is going to be in Dharamshala on that same weekend. Then we knew that this trip is going to get more awesome.
 
-<img src="https://i.imgur.com/067AL8W.jpg" alt="logo">
->The German Alps
+<img src="http://i.imgur.com/fWaBgvQ.jpg" alt="">
 
-We took the opposite path to the Top and went via Heimgarten. After an hour of walking the surroundings were covered by clouds and it started drizzling. I took my raincoat out, however, the surrounding views of the lake and the mountains soaked myself in. After 3 hours we were at the top. I rested to catch a few breaths and was caught amidst the breathtaking views of the alpine blue lake nestled between the Alps. No picture can do justice to the experience at that moment.
+>Just Reached Dharamshala
 
-<img src="https://i.imgur.com/tmtpPoz.jpg" alt="logo">
->The Amazing Views
+Six of us started early from the office and boarded the bus from Kashmiri Gate to Dharamshala at 6:50 pm. The bus ride was not so comfortable. To make the situation worse the bus broke down at around 3:00 am. After a few hours of struggle, we were back on the road. We reached Dharamshala at around 8:00 am. After reaching the hunt for the hotels began. We divided ourselves into a group of two and searched across 20+ hotels/lodges/hostels but all in vain. Dharamshala was jampacked with around 25k visitor who came to watch the match.
 
-<img src="https://i.imgur.com/ggiMCe2.jpg" alt="Logo">
->The Hut
+<img src="http://i.imgur.com/6gSpFcJ.jpg" alt="">
 
-<img src="https://i.imgur.com/UH650AM.jpg" alt="Coffee and Doggy">
->Companion and Coffee
+>View From The Room
 
-I went inside the hut to look for some Food to eat, but the menu was incomprehensible. I took a cup and went outside to enjoy the views.
- Heimgarten Summit had a giant cross at the summit, From here the path to Herzogstand has less elevation. the ridge was is narrow, less than a meter wide in some places and straight down on both sides. 
-<img src="https://i.imgur.com/Z7xeqBh.jpg" alt="logo">
->The Lake and the Rains
+However, after two hours we finally found a lodge which was very cheap and gave a breathtaking view of the entire city. After resting and contemplating on the subject of Life, Startups, Travel and other things we came back from the balcony deck and we made ourself ready for the match.
 
-<img src="https://i.imgur.com/2oevL7c.jpg" alt="logo">
->View from the Top
-<img src="https://i.imgur.com/8mMy2Ee.jpg" alt="logo">
->A little left
-<img src="https://i.imgur.com/ofiRnCb.jpg" alt="logo">
->A little more Left
+<img src="http://i.imgur.com/TCwZAeT.jpg" alt="">
 
+>The Picturesque Stadium
 
-But the path is well-laid out and filled with supports on both ends that make it not that big of a risk. After an hour we reached Herzogstand. The views of Amsee and Walchensee were spectacular from here. To add more to the beauty, it started raining just above the lake and we saw a rainbow right above the lake. It is something that you don't see every day.
-<img src="https://i.imgur.com/IuTiaLZ.jpg" alt="logo">
->Herzogstand seen from the ridge
+<img src="http://i.imgur.com/MuRyFhS.jpg" alt="">
 
+>That Awesome Crowd
 
-<img src="https://i.imgur.com/iZWDx92.jpg" alt="logo">
->MoneyShot
+After waiting for 2 hours in line, we grabbed the seats below the big screens. After an hour the match started. It was and exhilarating experience watching the crowd going mad on every ball. With all exuberance crowd cheering Indian players like anything. We screamed till our throats went sour. Though India lost the match, but the overall experience of being an audience of a live match in itself was rewarding. We went back to the room after a steep uphill climb of 3.5 km.
 
-<img src="https://i.imgur.com/iqXbXAh.jpg" alt="logo">
->From Herzogstand
-Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
+<img src="http://i.imgur.com/bKVuviT.jpg" alt="">
 
-<img src="https://i.imgur.com/FclEGSj.jpg" alt="logo">
->Walking back to the base
+>At Dharamkot
 
-The trail back from Herzogstand was filled with the colours of autumn. we finally reached back at Kochel at 6 pm. Covering 30+ odd kilometres in 8 hours.
-<img src="https://i.imgur.com/uFtli7V.jpg" alt="logo">
->Back at Walchensee
-But the path is well-laid out and filled with supports on both ends that make it not that big of a risk. After an hour we reached Herzogstand. The views of Amsee and Walchensee were spectacular from here. To add more to the beauty, it started raining just above the lake and we saw a rainbow right above the lake. It is something that you don't see every day.
-<img src="https://i.imgur.com/IuTiaLZ.jpg" alt="logo">
->Herzogstand seen from the ridge
+<img src="http://i.imgur.com/mJ8Tnff.jpg" alt="">
 
+>Dhauladhar Peak
 
-<img src="https://i.imgur.com/iZWDx92.jpg" alt="logo">
->MoneyShot
+Next Day we geared ourselves up for the trek. We took a local bus from Dharamshala to MacLeodgunj. MacLeodgunj is a serene place filled with Tibetans, Israelis and trekkers and people from all around the world. It is known as little Lhasa due to a large population of Tibetans. Later we came to know that it is the official residence of Dalai Lama. The mighty Dhauladhar Peak looked clearer from here.
 
-<img src="https://i.imgur.com/iqXbXAh.jpg" alt="logo">
->From Herzogstand
-Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
+<img src="http://i.imgur.com/L1lNPhR.jpg" alt="">
 
-<img src="https://i.imgur.com/FclEGSj.jpg" alt="logo">
->Walking back to the base
+>Tibetian Thupka
 
-The trail back from Herzogstand was filled with the colours of autumn. we finally reached back at Kochel at 6 pm. Covering 30+ odd kilometres in 8 hours.
-<img src="https://i.imgur.com/uFtli7V.jpg" alt="logo">
->Back at Walchensee
+After eating a sizeable lunch in a local cafe we started our trek. Meanwhile some of us went to purchase sleeping bags as we had only two. The shopkeeper told us that due to heavy rush of the campers all the trekking items were sold out. It was 2 pm already and we had not started yet. Unable to arrive at a conclusion and thinking of luckily finding a camping tent at triund we started the trek.
+
+<img src="http://i.imgur.com/ejDsvuo.jpg" alt="">
+
+>In Between
+
+<img src="http://i.imgur.com/04UysFB.jpg" alt="">
+
+>Just move on
+
+After walking uphill on steep curves with heavy backpack everyone was sweating after half and hour. Later from the local people we realised that we were on wrong track. Cursing our stars we came back 2 km downhill and took a left turn from the meditation center. After half an hour we reached Dharamkot and packed our bags with drinking water and other eatables. Again we started the trek with many other fellow trekkers. It is advised to carry biscuits for the dogs as they accompany you during the trek.
+
+<img src="http://i.imgur.com/uQ5JiGa.jpg" alt="">
+
+>A pillar of pebbles on the way
+
+In between the trek two frenzied hill bulls came running towards us, we dived right in a small bulge in the right and bruised ourselves but saved ourselves from bigger injury. After a while, the trek becomes very tiring as the gradient rises abruptly. But away out of the urban life we were finding the rhythm of our body, Slowly the rust was fading away, cool hilly breeze evaporated the fatigue from the forehead.
+
+<img src="http://i.imgur.com/Q7t6IUp.jpg" alt="">
+
+>On the way
+
+<img src="http://i.imgur.com/O49c1e2.jpg" alt="">
+
+>Reaching Clouds
+
+" Knock-knock-knocking' on heaven's door " from GUNS N' ROSES was playing on the boombox as we ascended up. Afraid of missing the sunset we rushed to the top. One after another we crossed approximately 22 hairpin bends across the trail. We reached the top just in time. The cloud cleared the sky and sun were ready to depart. Sights from the top are fascinating, on the left there is Dauladhar Range and on right there is a panoramic view of the lush green valley. We completed 12 km of the uphill trek in less than 3 hours.
+
+<img src="http://i.imgur.com/tyFhYFD.jpg" alt="">
+
+>Sunset from Triund
+
+Meanwhile, fellow friends searched for tents or anything to spend the night in. We were then told by locals that if we want to stay alive in the night we better run downhill, as due to chilly winds the temperature goes very down,  God forbid if it rains. We found out there were many fellow trekkers just like us. Although either they were going downhill or asking the people with tents for help. We decided to revise lessons by Bear Grylls and stay up. Just as the sun went down the temperature also went down.
+
+<img src="http://i.imgur.com/4yrGFq0.jpg" alt="">
+
+>The Tentless Gang
+
+We found a place in the meadow that could save us from winds right behind a closed shop. It was 7 pm and we knew that the night is going to be very long. Too many indescribable wild things happened in the night. Only we know how six of us survived in 2 sleeping bags. The night sky was brightened by shimmering stars. I had never seen such magnificent view of the sky that extended the horizon before in my life. One can easily figure out Venus, Mars, Constellations and Milky way galaxy on the night canvas. At approx 2:00 pm the moon rose from the back of Dhauladhar peak surrounded by a million little stars. The panorama of the sky make the pain go away and we agreed that it was worth it.
+
+<img src="http://i.imgur.com/o9HJljM.jpg" alt="">
+
+>The Night Sky at Truind Credits : <a href="https://travellinghigh.wordpress.com/2014/06/15/kareri-lake-trek/_dsc0137/"> link</a>
+
+<img src="http://i.imgur.com/Whfm1Jf.jpg" alt="">
+
+>Just before sunrise
+
+<img src="http://i.imgur.com/ksJGvNz.jpg" alt="">
+
+> Morning View of the Valley
+
+We came out of our luxurious mattress at around 5 am and had a cup of tea. Waited till 7:30 am for the sun to come up. Laughed, shared stories in the meantime. At around 8:30 we came down the hill.
+Devoured the lunch as we reached MacLeodgunj. The hotel waiter went mad looking at our diet. After all, we were sleepy and hungry from one day and our bodies demanded Carbohydrates.
+
+<img src="http://i.imgur.com/gb2nHw8.jpg" alt="">
+
+>Coming Downhill
+
+<img src="http://i.imgur.com/HlJ6x1j.jpg" alt="">
+
+>Back into Delhi Metro
+
+The trek was promising, rewarding as well as punishing. Made us learn some of the most important lessons of life.
+One of the most fulfilling experience of our lives.
+
+Someone has rightly said "Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits."
