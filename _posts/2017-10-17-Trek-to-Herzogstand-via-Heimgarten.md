@@ -38,7 +38,7 @@ We took the opposite path to the Top and went via Heimgarten. After an hour of w
 
 I went inside the hut to look for some Food to eat, but the menu was incomprehensible. I took a cup and went outside to enjoy the views.
  Heimgarten Summit had a giant cross at the summit, From here the path to Herzogstand has less elevation. the ridge was is narrow, less than a meter wide in some places and straight down on both sides. 
-<img src="https://i.imgur.com/Z7xeqBh.jpg" alt="logo">
+<img src="https://i.imgur.com/00KxUw9.jpg" alt="logo">
 >The Lake and the Rains
 
 <img src="https://i.imgur.com/2oevL7c.jpg" alt="logo">
