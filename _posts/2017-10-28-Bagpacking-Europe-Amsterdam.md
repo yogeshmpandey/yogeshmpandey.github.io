@@ -10,7 +10,7 @@ image:
 
 <img src="https://i.imgur.com/h5hCJWm.jpg" alt="logo">
 
-#### Preface:
+### Preface:
 
 The Amsterdam Walking tour gave me some interesting insights into the history and persona of the city.
 
@@ -21,7 +21,7 @@ From the 14th century on, Amsterdam flourished, largely from trade and its open 
 Amsterdam residents include the diarist Anne Frank, artists Rembrandt van Rijn and Vincent van Gogh. And, 2 out of 100 people in Amsterdam are Indians.
 
 
-#### The Plan: 
+### The Plan: 
 
 <img src="https://i.imgur.com/7xfOPVC.jpg" alt="logo">
 >Amsterdam Footprints
@@ -45,7 +45,7 @@ The trip to Amsterdam was my first solo backpacking trip outside of India. Since
 <img src="https://i.imgur.com/2BuLlRJ.jpg" alt="logo">
 >Magic Mushrooms :D
 
-#### The Trip:
+### The Trip:
 
 <img src="https://i.imgur.com/ZdJhXth.jpg" alt="logo">
 >Amsterdam
