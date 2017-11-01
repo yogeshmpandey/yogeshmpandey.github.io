@@ -14,9 +14,9 @@ image:
 
 The Amsterdam Walking tour gave me some interesting insights into the history and persona of the city.
 
-Amsterdam is located in the western Netherlands. Interestingly, Amsterdam is about 2 metres (6.6 feet) below sea level. It has more than 100 kilometres (60 miles) of canals, most of which are navigable by boat. Around 1100's locals near the river, Amstel built a bridge over the river and a dam across it, giving its name to the village: "Aemstelredamme".
+Amsterdam is located in the western Netherlands. Interestingly, Amsterdam is about 2 metres (6.6 feet) below sea level. It has more than 100 kilometres (60 miles) of canals, most of which are navigable by boat. Around 1100 AD locals near the river, Amstel built a bridge over the river and a dam across it, giving its name to the village: "Aemstelredamme".
 
-From the 14th century on, Amsterdam flourished, largely from trade and its open culture (read Legalised prostitution and Soft drugs). It was a well-known seaport, which allowed the humiliation of different cultures in the City. The 17th century is considered Amsterdam's Golden Age, during which it became the wealthiest city in the western world. Germany invaded Netherlands in the process of annexing France in 1940's. 
+From the 14th century on, Amsterdam flourished, largely from trade and its open culture (read Legalised prostitution and Soft drugs). It was a well-known seaport, which allowed the cumulation of different cultures in the City. The 17th century is considered Amsterdam's Golden Age, during which it became the wealthiest city in the western world. Germany invaded Netherlands in the process of annexing France in 1940's. 
 
 Amsterdam residents include the diarist Anne Frank, artists Rembrandt van Rijn and Vincent van Gogh. And, 2 out of 100 people in Amsterdam are Indians.
 
