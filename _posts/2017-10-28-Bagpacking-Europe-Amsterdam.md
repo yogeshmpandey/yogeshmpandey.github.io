@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bagpacking Europe: Amsterdam"
+title:  "Backpacking Europe: Amsterdam"
 date:   2017-10-28 03:52:38
 categories: Travel
 tags: [Travel, Bagpacking , Europe, Friends , Photoblog, WeekendDiaries]
@@ -10,7 +10,7 @@ image:
 
 <img src="https://i.imgur.com/h5hCJWm.jpg" alt="logo">
 
-####Preface:
+#### Preface:
 
 The Amsterdam Walking tour gave me some interesting insights into the history and persona of the city.
 
@@ -21,7 +21,7 @@ From the 14th century on, Amsterdam flourished, largely from trade and its open 
 Amsterdam residents include the diarist Anne Frank, artists Rembrandt van Rijn and Vincent van Gogh. And, 2 out of 100 people in Amsterdam are Indians.
 
 
-####The Plan: 
+#### The Plan: 
 
 <img src="https://i.imgur.com/7xfOPVC.jpg" alt="logo">
 >Amsterdam Footprints
@@ -45,7 +45,7 @@ The trip to Amsterdam was my first solo backpacking trip outside of India. Since
 <img src="https://i.imgur.com/2BuLlRJ.jpg" alt="logo">
 >Magic Mushrooms :D
 
-####The Trip:
+#### The Trip:
 
 <img src="https://i.imgur.com/ZdJhXth.jpg" alt="logo">
 >Amsterdam
@@ -95,7 +95,7 @@ From there the guide took us to the old church via the Red light Area. Even in t
 Around some corner, in between the tour, I lost the group around some corner. From there, google maps came to rescue. Next place to visit was Bloemenmarkt flower market. This is a small street filled with a variety of flowers, Tulips being the most prominent. I wanted to buy a bonsai from here, but since it required high maintenance, I gave up the Idea. I walked to the upscale Jordaan neighbourhood and Photographed the classic 17th and 18th-century buildings.
 
 
-<img src="https://i.imgur.com/S2udbGu.jpg" alt="logo">
+<img src="https://i.imgur.com/EXcvqpk.jpg" alt="logo">
 >Too Many Bikes
 
 <img src="https://i.imgur.com/yQGtkcA.jpg" alt="logo">
