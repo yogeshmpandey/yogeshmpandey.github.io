@@ -26,7 +26,7 @@ Amsterdam residents include the diarist Anne Frank, artists Rembrandt van Rijn a
 <img src="https://i.imgur.com/7xfOPVC.jpg" alt="logo">
 >Amsterdam Footprints
 
-The trip to Amsterdam was my first solo backpacking trip outside of India. Since it is a different Country, and I am an expat here only for a few months, I had to meticulously plan the trip. As a frugal guy with an immense urge to seek new things these were a few points that I kept in mind.
+The trip to Amsterdam was my first solo backpacking trip outside of India. Since it was a different Country, I had to meticulously plan the trip. These were a few points that I kept in mind while planning.
 
 * Cost: Western Europe is way costlier than the eastern Europe. I pizza costs 16 Euros in Switzerland, 8 in Italy, 5 in Chezh.(Travelling Solo to costlier place did make sense to me.)
 
@@ -68,7 +68,6 @@ Amsterdam welcomed with a bright and sunny day.
 
 The bus dropped me at Amsterdam Sloterdijk train station. From there I purchased a day ticket for the city. The intercity train took me to the Central Station. From the Central Station, all the city attraction can be covered by foot. At Dam Square, I participated in the Free Walking tour. Dam Square the heart of the city and has National Monument and Nieuwe Kerk (New Church). Free Walking tour is wonderful first activity in any city and an amazing way to orient yourself to the culture. 
 
-
 <img src="https://i.imgur.com/K8cnlgT.jpg" alt="logo">
 >Dam Square
 
@@ -94,7 +93,6 @@ From there the guide took us to the old church via the Red light Area. Even in t
 
 Around some corner, in between the tour, I lost the group around some corner. From there, google maps came to rescue. Next place to visit was Bloemenmarkt flower market. This is a small street filled with a variety of flowers, Tulips being the most prominent. I wanted to buy a bonsai from here, but since it required high maintenance, I gave up the Idea. I walked to the upscale Jordaan neighbourhood and Photographed the classic 17th and 18th-century buildings.
 
-
 <img src="https://i.imgur.com/EXcvqpk.jpg" alt="logo">
 >Too Many Bikes
 
@@ -107,15 +105,12 @@ Around some corner, in between the tour, I lost the group around some corner. Fr
 <img src="https://i.imgur.com/FkHOXf1.jpg" alt="logo">
 >Graffites on Old Walls
 
-
-
 Next in the list was Rijksmuseum. I skipped the inside the museum as it would require a full day. Although I visited the sculpture gardens surrounding the Rijksmuseum for free. At the entrance of the museum is the famous Iamsterdam Sign. There were too many people surrounded the place, everyone wanted to take a picture with the iconic Sign. 
 
 From there I passed by VanGogh museum and Stedelijk modern art museum. 
 
 <img src="https://i.imgur.com/AhiZezw.jpg" alt="logo">
 >Ceaser at Rijksmuseum
-
 
 <img src="https://i.imgur.com/t0tTJaO.jpg" alt="logo">
 > Inside Rijksmuseum
