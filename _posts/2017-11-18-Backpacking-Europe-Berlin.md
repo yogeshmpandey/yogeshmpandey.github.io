@@ -101,10 +101,7 @@ One can see the stark difference in the composition of cultures in East and West
 >An Alternate History?
 
 <img src="https://i.imgur.com/ZsELskP.jpg" alt="logo">
->Satiere ? eh !
-
-<img src="https://i.imgur.com/FkHOXf1.jpg" alt="logo">
->Graffites on Old Walls
+>Satire ? eh !
 
 It was 4 pm now and I headed toward the Tiergarten. In the centre of the garden is Berlin Victory Column. It hosted an interesting night show in the evening over looking the Branderburg Gate.
 
