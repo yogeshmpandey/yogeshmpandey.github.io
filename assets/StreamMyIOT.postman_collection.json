@@ -1,0 +1,439 @@
+{
+	"info": {
+		"name": "StreamMyIOT",
+		"_postman_id": "7fbb1b29-aafc-68a3-fb3e-84e374fc3f31",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get token from Stream My IOT account[Works]",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"username\": \"yogeshx.pandey@intel.com\",\r\n  \"password\": \"Intel!1\"\r\n}"
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/auth/token",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"auth",
+						"token"
+					]
+				},
+				"description": "http://streammyiot.com/v1/api/auth/token"
+			},
+			"response": []
+		},
+		{
+			"name": "Add a Device ",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2OTI5MGUyZC05MzVhLTRlY2YtODJjYy01NDU1YjEyZTYzOTMiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTQ6MzQ6MTEuNzAxWiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.IfzXax7MHYAyIWZzDPNn5EIAQNLadjlvowYGIeJXVzVfet-RR6aVtCEzdIbihUsCWOp5e21P8DWSsVzVa4F-I80xGhecytRh-ErT2W1sQV4DAP7AOmNFg_-i5mLASRYOf4cxTzV12sa2uM_ldh5Kf5-pgXI3UojRWDedISyd3Mc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \r\n\t\"deviceId\": \"00-07-32-42-fb-30\",\r\n\t\"gatewayId\": \"00-07-32-42-fb-30\",\r\n\t\"name\":\"UP Gateway\",            \r\n\t\"tags\": [\"US\", \"California\", \"Sacramento\"],\r\n\t\"loc\": [ 45.5434085, -122.654422, 124.3 ],\r\n\t\"attributes\": {\r\n\t\t\"vendor\": \"intel\",\r\n\t\t\"platform\": \"x86\",\r\n\t\t\"os\": \"linux\"\r\n\t}\r\n}"
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/account/b3a3db73-03f8-42d0-b443-55982f520307/devices",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"account",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"devices"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "create an account",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2MGIwNDdkZi1hOGM2LTRmYTAtODk5MS05NjAyMDBlMjMwODkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTM6MTE6MzEuMjA2WiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.JyRirDjPyLWVTpX8hus3UBPjK7LS1ojebOZQOPfvWbwsIuzHJqP2JiF0PF-fFboFnWZTor0vfEbECaG9IYK-lpiLtGsIr3iqN35Ry9Z7uw3T1i6SY24CpjHjD68tyJGPOl-Gq0z1InnsztCnwb9yDoO4uMd5B3H5bRqzhO7tFcM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"name\": \"yogesh\"\r\n}"
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/accounts",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"accounts"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get Authorization Token Info[Works]",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2MGIwNDdkZi1hOGM2LTRmYTAtODk5MS05NjAyMDBlMjMwODkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTM6MTE6MzEuMjA2WiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.JyRirDjPyLWVTpX8hus3UBPjK7LS1ojebOZQOPfvWbwsIuzHJqP2JiF0PF-fFboFnWZTor0vfEbECaG9IYK-lpiLtGsIr3iqN35Ry9Z7uw3T1i6SY24CpjHjD68tyJGPOl-Gq0z1InnsztCnwb9yDoO4uMd5B3H5bRqzhO7tFcM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"disabled": true
+					},
+					{
+						"key": "Authorization",
+						"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiIzZTkxNjU5YS0yZTZmLTRiYzktODM4YS1mZThhNzkzYWIyNjkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTI6NTQ6MjQuMTEwWiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.D-IzX0zyVUkDB9Ei0N-8eOGg91ato10AViZSwIESa1nZ4M4o55wlS70NnL-y08nl97b6NpahEP7rYh0VBH6Sb67KBKs_g5OMI7Bh3o4PBGmkdJuoccyNX_zSsmTqVSDWOd1XvW2TmVriY6T_NIL0BPGmnbT5lcw3-JMZhcjHldc",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/auth/tokenInfo",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"auth",
+						"tokenInfo"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Add Data ",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2MGIwNDdkZi1hOGM2LTRmYTAtODk5MS05NjAyMDBlMjMwODkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTM6MTE6MzEuMjA2WiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.JyRirDjPyLWVTpX8hus3UBPjK7LS1ojebOZQOPfvWbwsIuzHJqP2JiF0PF-fFboFnWZTor0vfEbECaG9IYK-lpiLtGsIr3iqN35Ry9Z7uw3T1i6SY24CpjHjD68tyJGPOl-Gq0z1InnsztCnwb9yDoO4uMd5B3H5bRqzhO7tFcM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"on\": 1354741967799,\r\n  \"accountId\": \"550e8400-e29b-41d4-a716-446655440000\",\r\n  \"data\": [            \r\n  {\r\n    \"componentId\": \"436e7e74-6771-4898-9057-26932f5eb7e1_01\",\r\n    \"on\": 1354741966688,\r\n    \"loc\": [ 45.5434085, -122.654422, 124.3 ],\r\n    \"value\": \"26.7\"\r\n  }\r\n  ]   \r\n}"
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/accounts/b3a3db73-03f8-42d0-b443-55982f520307/data/00-07-32-42-fb-30",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"accounts",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"data",
+						"00-07-32-42-fb-30"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "get device list",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2MGIwNDdkZi1hOGM2LTRmYTAtODk5MS05NjAyMDBlMjMwODkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTM6MTE6MzEuMjA2WiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.JyRirDjPyLWVTpX8hus3UBPjK7LS1ojebOZQOPfvWbwsIuzHJqP2JiF0PF-fFboFnWZTor0vfEbECaG9IYK-lpiLtGsIr3iqN35Ry9Z7uw3T1i6SY24CpjHjD68tyJGPOl-Gq0z1InnsztCnwb9yDoO4uMd5B3H5bRqzhO7tFcM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api//accounts/b3a3db73-03f8-42d0-b443-55982f520307/devices",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"",
+						"accounts",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"devices"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Activate a Device",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2OTI5MGUyZC05MzVhLTRlY2YtODJjYy01NDU1YjEyZTYzOTMiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTQ6MzQ6MTEuNzAxWiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.IfzXax7MHYAyIWZzDPNn5EIAQNLadjlvowYGIeJXVzVfet-RR6aVtCEzdIbihUsCWOp5e21P8DWSsVzVa4F-I80xGhecytRh-ErT2W1sQV4DAP7AOmNFg_-i5mLASRYOf4cxTzV12sa2uM_ldh5Kf5-pgXI3UojRWDedISyd3Mc",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \r\n  \"activationCode\": \"wXslPvE5\"\r\n}"
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/account/v1/api/accounts/b3a3db73-03f8-42d0-b443-55982f520307/devices/00-07-32-42-fb-30/activation",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"account",
+						"v1",
+						"api",
+						"accounts",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"devices",
+						"00-07-32-42-fb-30",
+						"activation"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Get Activation Code[Works]",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2MGIwNDdkZi1hOGM2LTRmYTAtODk5MS05NjAyMDBlMjMwODkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTM6MTE6MzEuMjA2WiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.JyRirDjPyLWVTpX8hus3UBPjK7LS1ojebOZQOPfvWbwsIuzHJqP2JiF0PF-fFboFnWZTor0vfEbECaG9IYK-lpiLtGsIr3iqN35Ry9Z7uw3T1i6SY24CpjHjD68tyJGPOl-Gq0z1InnsztCnwb9yDoO4uMd5B3H5bRqzhO7tFcM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"body": {},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/accounts/b3a3db73-03f8-42d0-b443-55982f520307/activationcode",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"accounts",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"activationcode"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Add Componenet",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiI2MGIwNDdkZi1hOGM2LTRmYTAtODk5MS05NjAyMDBlMjMwODkiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjFUMTM6MTE6MzEuMjA2WiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.JyRirDjPyLWVTpX8hus3UBPjK7LS1ojebOZQOPfvWbwsIuzHJqP2JiF0PF-fFboFnWZTor0vfEbECaG9IYK-lpiLtGsIr3iqN35Ry9Z7uw3T1i6SY24CpjHjD68tyJGPOl-Gq0z1InnsztCnwb9yDoO4uMd5B3H5bRqzhO7tFcM",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					},
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{ \r\n  \"cid\": \"436e7e74-6771-4898-9057-26932f5eb7e1\",\r\n  \"name\": \"temp\",\r\n  \"type\": \"temperature.v1.0\"\r\n}"
+				},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/account/v1/api/accounts/b3a3db73-03f8-42d0-b443-55982f520307/devices/00-07-32-42-fb-30/components",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"account",
+						"v1",
+						"api",
+						"accounts",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"devices",
+						"00-07-32-42-fb-30",
+						"components"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		},
+		{
+			"name": "Refresh Activation Code[Works]",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJqdGkiOiJkNDdhZTRkNC1mZTBmLTRkNGUtODI0OC1hZDQyYzFhZTdhMzMiLCJpc3MiOiJodHRwOi8vZW5hYmxlaW90LmNvbSIsInN1YiI6IjlkYTdlYmRlLTYyODAtNDI4ZS05MDE1LWFjNzA2ZDBkZmIzYyIsImV4cCI6IjIwMTctMTEtMjJUMTE6NTc6MjMuNDAxWiIsImFjY291bnRzIjp7ImIzYTNkYjczLTAzZjgtNDJkMC1iNDQzLTU1OTgyZjUyMDMwNyI6ImFkbWluIn19.b023sb9n_Z221YOSxDnp9bgVdLyt8WazMYBd7IaUlAqT2eOAmdTt61NRaSyRhJrcd3_SfQfU64eIFMBZDOX6r-Of9iclVwMH7M0zdzYipf7eES3da4K-eSMiH8juoC_hd7AE-HUz_9lOUqOZ88FArQK4AKhymH9wsEiBW2l2id4",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json"
+					}
+				],
+				"body": {},
+				"url": {
+					"raw": "http://streammyiot.com/v1/api/accounts/b3a3db73-03f8-42d0-b443-55982f520307/activationcode/refresh",
+					"protocol": "http",
+					"host": [
+						"streammyiot",
+						"com"
+					],
+					"path": [
+						"v1",
+						"api",
+						"accounts",
+						"b3a3db73-03f8-42d0-b443-55982f520307",
+						"activationcode",
+						"refresh"
+					]
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
