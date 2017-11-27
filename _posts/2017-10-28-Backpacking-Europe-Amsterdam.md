@@ -3,7 +3,7 @@ layout: post
 title:  "Backpacking Europe: Amsterdam"
 date:   2017-10-28 03:52:38
 categories: Travel
-tags: [Travel, Bagpacking , Europe, Friends , Photoblog, WeekendDiaries]
+tags: [Travel, Backpacking , Europe, Friends , Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
