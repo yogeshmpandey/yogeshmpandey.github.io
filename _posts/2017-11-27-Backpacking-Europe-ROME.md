@@ -89,7 +89,9 @@ Next stop was this magnanimous building Altare della Patria. The base of the str
 
 From there I took a bus to Vatican City.  The Vatican City is an independent country inside the city boundaries of Rome, the only existing example of a country within a city. And Interestingly, for this reason, Rome has been often defined as the capital of two states. With an area of approximately 44 hectares and a population of 1,000, it is the smallest state in the world by both area and population.
 
-I found myself in Peter Square in a dilemma of whether to get in the line for St Peter Bascilia or not. After 5 minutes of pondering I was standing in the line. It was probably the third biggest queue after my college mess and once when I stood in the ATM while Demonetisation was in implementation in India. Quicktip, you won't be allowed to enter if you are scantily dressed. 
+I found myself in Peter Square in a dilemma of whether to get in the line for St Peter Bascilia or not. After 5 minutes of pondering I was standing in the line. It was probably the third biggest queue after my college mess and once when I stood in the ATM while Demonetisation was in implementation in India.
+
+Quicktip, you won't be allowed to enter if you are scantily dressed. 
 
 <img src="https://i.imgur.com/DAiJiLk.jpg" alt="logo">
 >Stack vs Queue
