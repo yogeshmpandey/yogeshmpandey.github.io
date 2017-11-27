@@ -119,7 +119,7 @@ One can see the works of Leonardo da Vinci, Michelangelo and Raphael in the inte
 <img src="https://i.imgur.com/xyKWvIi.jpg" alt="logo">
 >Form Top
 
-My bus was to leave at 9 pm in the night. I had time so, I went to a Pizza restaurant nearby and ordered some unpronounceable pizza. (The name is so twisted that I can't even Google it now, Google's Do you mean? is failing me). 
+My bus was to leave at 9 pm in the night. I had time and as they say, When in Rome, do as the Romans do. I went to a Pizza restaurant nearby and ordered some unpronounceable pizza. (The name is so twisted that I can't even Google it now, Google's Do you mean? is failing me). 
 The Pizza came and it was just Delicious, although it had tuna in it and I was not able to make my way through knife and fork. But Still, the taste was finger licking good. 
 
 <img src="https://i.imgur.com/u2U5fHd.jpg" alt="logo">
