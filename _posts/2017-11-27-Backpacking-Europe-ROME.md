@@ -125,8 +125,6 @@ The Pizza came and it was just Delicious, although it had tuna in it and I was n
 <img src="https://i.imgur.com/u2U5fHd.jpg" alt="logo">
 >Beautiful Sculptures
 
-I then visited Castel Sant'Angelo from the Outside. It was originally the tomb of Emperor Hadrian but later was turned into a protective place where the Pope could take refuge in times of danger. 
-I grabbed a gelato from a shop and went to my bus station. 
-
+I then visited Castel Sant'Angelo from the Outside. It was originally the tomb of Emperor Hadrian but later was turned into a protective place where the Pope could take refuge in times of danger. After spending few hours here, I grabbed a gelato from a shop and went to my bus station. 
 
 Rome would certainly be visited again. The wish gets fulfilled or otherwise.
