@@ -48,7 +48,7 @@ On the east of Colosseum is the Roman Forum. Roman Forum was sort of city centre
 
 The next stop was the Pantheon. It is one of the best-preserved of all Ancient Roman buildings, in large part because it has been in continuous use throughout its history. Once called the Temple of all Gods. It is a magnificent building with splendid architecture. It has a domed ceiling, which, in addition to the entrance, is the structure’s only source of light.
 
-From there we walked to Piazza  Navona. Piazza in Italian stands for Public square. It is dominated by the Fountain of the Four Rivers from great Italian sculptor Bernini. One can grab a Pizza from the various restaurants alongside the fountain. This fountain was seen in Angels and Demons (when Tom Hanks saves the fourth cardinal from drowning in the water.
+From there, I walked to Piazza  Navona. Piazza in Italian stands for Public square. It is dominated by the Fountain of the Four Rivers from great Italian sculptor Bernini. One can grab a Pizza from the various restaurants alongside the fountain. This fountain was seen in Angels and Demons (where Tom Hanks saves the fourth cardinal from drowning in the water).
 
 <img src="https://i.imgur.com/hWmoWAJ.jpg" alt="logo">
 >Piazza  Navona
@@ -65,8 +65,7 @@ From there we walked to Piazza  Navona. Piazza in Italian stands for Public squa
 <img src="https://i.imgur.com/u2SydNh.jpg" alt="logo">
 >Ruines of Anceint Rome
 
-I Crossed a lot of unknown buildings which would have a great historic relevance. As Ignorance is a bliss, as they say, I walked to my destination The Triveni Fountain. This is the most famous fountain in the world thanks to movies like Roman Holiday. People here Throw a penny in, make a wish and vow to return to Rome. I too threw a penny, but in anxiety forgot to make a wish. (Roman Holiday with Audrey Hepburn is a must watch, just saying)
-
+I crossed a lot of unknown buildings which would have a great historic relevance. Ignorance is a bliss, as they say, I walked towards my destination, The Triveni Fountain. This is the most famous fountain in the world, thanks to movies like Roman Holiday. People here Throw a penny in, make a wish and vow to return to Rome. I too threw a penny, but in anxiety forgot to make a wish. (Roman Holiday with Audrey Hepburn is a must watch, just saying)
 
 <img src="https://i.imgur.com/TmhaqFx.jpg" alt="logo">
 >Triveni Fountain
@@ -90,8 +89,7 @@ Next stop was this magnanimous building Altare della Patria. The base of the str
 
 From there I took a bus to Vatican City.  The Vatican City is an independent country inside the city boundaries of Rome, the only existing example of a country within a city. And Interestingly, for this reason, Rome has been often defined as the capital of two states. With an area of approximately 44 hectares and a population of 1,000, it is the smallest state in the world by both area and population.
 
-I found myself in Peter Square in a dilemma of whether to get in the line for St Peter Bascilia or not. After 5 minutes of pondering I was standing in the line. It was probably the third biggest queue after my college mess and once when I stood in the ATM while Demonetisation was in implementation in India.
-Also, you won't be allowed to enter if you are scantily dressed.
+I found myself in Peter Square in a dilemma of whether to get in the line for St Peter Bascilia or not. After 5 minutes of pondering I was standing in the line. It was probably the third biggest queue after my college mess and once when I stood in the ATM while Demonetisation was in implementation in India. Quicktip, you won't be allowed to enter if you are scantily dressed. 
 
 <img src="https://i.imgur.com/DAiJiLk.jpg" alt="logo">
 >Stack vs Queue
@@ -102,7 +100,7 @@ Also, you won't be allowed to enter if you are scantily dressed.
 <img src="https://i.imgur.com/EqR2GZz.jpg" alt="logo">
 >Vatican Guards
 
-But it was worth it. I climbed some 600 stairs to reach the top of the Bascilia. The views from the Top were breathtaking. The city expanded to the horizon. It literally looked infinite.
+I had to wait for an hour, but it was worth it. From here, I climbed some 600 stairs to reach the top of the Bascilia. The views from the Top were breathtaking. The city expanded towards the horizon. It literally looked infinite.
 
 One can see the works of Leonardo da Vinci, Michelangelo and Raphael in the interiors. The architecture inside is so amazing that I am out of adjectives.
 
@@ -121,7 +119,7 @@ One can see the works of Leonardo da Vinci, Michelangelo and Raphael in the inte
 <img src="https://i.imgur.com/xyKWvIi.jpg" alt="logo">
 >Form Top
 
-My bus was to leave at 9 pm in the night.And I had time so, I went to a Pizza restaurant nearby and ordered some unpronounceable pizza. The name is so twisted that I can't even Google it now, Google's Do you mean? is failing me. 
+My bus was to leave at 9 pm in the night. I had time so, I went to a Pizza restaurant nearby and ordered some unpronounceable pizza. (The name is so twisted that I can't even Google it now, Google's Do you mean? is failing me). 
 The Pizza came and it was just Delicious, although it had tuna in it and I was not able to make my way through knife and fork. But Still, the taste was finger licking good. 
 
 <img src="https://i.imgur.com/u2U5fHd.jpg" alt="logo">
@@ -129,4 +127,6 @@ The Pizza came and it was just Delicious, although it had tuna in it and I was n
 
 I then visited Castel Sant'Angelo from the Outside. It was originally the tomb of Emperor Hadrian but later was turned into a protective place where the Pope could take refuge in times of danger. 
 I grabbed a gelato from a shop and went to my bus station. 
+
+
 Rome would certainly be visited again. The wish gets fulfilled or otherwise.
