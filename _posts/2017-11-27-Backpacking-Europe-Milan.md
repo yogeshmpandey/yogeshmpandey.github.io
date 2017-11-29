@@ -11,7 +11,7 @@ image:
 <img src="https://i.imgur.com/UBMu1fb.jpg" alt="logo">
 
 Milan is the second most populous city in Italy after Rome, the city has long been named fashion capital of the world and the world's design capital, thanks to several international events and fairs, including Milan Fashion Week. 
-And Since, Milan was the most watched city of my teenage years. A visit to Milan was must ( _Winkey face smilie_ ).
+And Since, Milan was the most watched city of my teenage years. A visit to Milan was must ( _Winkey face smilie_ :grin: ).
   
 I landed in Milan and went to the famous city’s cathedral. It is a hard miss it as it stands in the city centre, at the Piazza del Duomo. It is truly magnificent, even more, if you are familiar with the fact, that 6 centuries were needed to be completely built. The cathedral is also the third largest in the world.
 
