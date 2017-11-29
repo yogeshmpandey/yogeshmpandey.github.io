@@ -13,7 +13,7 @@ image:
 Milan is the second most populous city in Italy after Rome, the city has long been named fashion capital of the world and the world's design capital, thanks to several international events and fairs, including Milan Fashion Week. 
 And Since, Milan was the most watched city of my teenage years. A visit to Milan was must. :stuck_out_tongue_winking_eye: :grinning: :grin: 
   
-I landed in Milan and went to the famous city’s cathedral. It is a hard miss it as it stands in the city centre, at the Piazza del Duomo. It is truly magnificent, even more, if you are familiar with the fact, that 6 centuries were needed to be completely built. The cathedral is also the third largest in the world.
+I landed in Milan and went to the famous city’s cathedral. It is a hard miss it as it stands in the city centre, at the Piazza del Duomo. It is truly magnificent, even more, if you are familiar with the fact, that 6 centuries were needed to be completely built it. The cathedral is also the third largest in the world.
 
 <img src="https://i.imgur.com/JEBIGCR.jpg" alt="logo">
 >Look Up !
@@ -24,7 +24,7 @@ I landed in Milan and went to the famous city’s cathedral. It is a hard miss i
 <img src="https://i.imgur.com/kGvwbxg.jpg" alt="logo">
 >Sit here and admire the Duomo
 
-It’s an astonishing gothic confection of white pink marble that dominates Cathedral Square. Literally, it took my breath away. So just sat there, near the fountain, gasped, and looked at it for half an hour.
+It’s an astonishing gothic confection of white pink marble that dominates Cathedral Square. Literally, it took my breath away. So just sat there, near this :point_up: fountain, gasped, and looked at it for half an hour.
  
 On the right is the Museum that holds various famous artefacts related to the Duomo.
 
