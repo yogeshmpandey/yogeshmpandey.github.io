@@ -3,6 +3,7 @@ layout: post
 title:  "Backpacking Europe:  Rome"
 date:   2017-11-27 03:52:38
 categories: Travel
+hidden: true
 tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
