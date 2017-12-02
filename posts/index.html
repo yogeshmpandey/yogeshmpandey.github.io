@@ -1,7 +1,44 @@
 ---
 layout: post-index
-title: All Posts
-description: "An archive of posts."
+title: Start Exploring
+description: "An archive of posts sorted by tag."
 comments: false
 ---
-{% include social-links.html %}
+<article>
+{% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
+{% assign tags_list = site_tags | split:',' | sort %}
+
+<ul class="entry-meta inline-list">
+  {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+    {% capture this_word %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+  	<li><a href="tags/#{{ this_word }}" class="tag"><span class="term">{{ this_word }}</span> <span class="count">{{ site.tags[this_word].size }}</span></a></li>
+  {% endunless %}{% endfor %}
+</ul>
+
+</article>
+
+{% for post in site.posts %}
+    {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
+
+    {% if forloop.first %}
+    <article>
+      <h2 id="{{ this_year }}-ref">{{ this_year }}</h2>
+      <ul>
+    {% endif %}
+
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+
+    {% if forloop.last %}
+      </ul>
+    </article>
+    {% else %}
+        {% if this_year != next_year %}
+          </ul>
+        </article>
+        <article>
+          <h2 id="{{ next_year }}-ref" class="year-heading">{{next_year}}</h2>
+          <ul>
+        {% endif %}
+    {% endif %}
+{% endfor %}
