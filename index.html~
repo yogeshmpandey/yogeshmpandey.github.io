@@ -16,7 +16,3 @@ comments: false
 </ul>
 
 </article>
-
-    {% include social-share.html %}
-
-
