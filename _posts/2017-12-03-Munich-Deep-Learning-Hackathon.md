@@ -12,7 +12,7 @@ image:
 The previous month, I had an opportunity to participate in a hackathon in Munich. For the sake of free food, scrap the rust off our brains and keeping up with the upcoming Tech, We decided to spend our weekends on the campus of the Technical University of Munich.
 We chose a problem in which we had to analyse logos out around 50 thousand screenshots of 15 TV stations that operate in Germany.
 Logo detection was done with RCNN using Tensorflow. But interestingly, since we had the access to this dataset, Why not find something interesting out of it.
-So, the idea was to 
+So, the idea was to :-
 
 - Use AZURE Cognitive Vision APIs and Emotion API for detecting the emotions the characters portray. 
 - The emotions detected are happiness, sadness, surprise, anger, fear, contempt, disgust or neutral. 
@@ -38,7 +38,7 @@ The end results can be downloaded from [here](https://goo.gl/W551AN).
 Some of the interesting facts from the data "
 - 71.53 percent of the faces German people see on their TV screens are neutral.
 - The least shown emotion is fear (0.36 percent) followed by disgust (0.72 percent) and contempt (1.13).
-- On an average Germans see 23 percent of happy faces.
+- On an average Germans see 23 percent of happy faces on their screens.
 - With 31.3 percent prosieben is the happiest channel and with 4.5 percent sadly the saddest too.
 
 More data crunching can be done with the above Excel sheet.
