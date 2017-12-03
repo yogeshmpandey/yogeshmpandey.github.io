@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Emotional Insights of German TV Channels "
+title:  "Emotions in German TV Channels "
 date:   2017-12-03 20:52:38
 categories: coding
 tags: [Coding, Learning, DIY]
 image:
   background: witewall_3.png
 ---
+“Because emotions can't be ignored, no matter how they seem.”  ― Anne Frank
 
 The previous month, I had an opportunity to participate in a hackathon in Munich. For the sake of free food, scrap the rust off our brains and keeping up with the upcoming Tech, We decided to spend our weekends on the campus of the Technical University of Munich.
 We chose a problem in which we had to analyse logos out around 50 thousand screenshots of 15 TV stations that operate in Germany.
