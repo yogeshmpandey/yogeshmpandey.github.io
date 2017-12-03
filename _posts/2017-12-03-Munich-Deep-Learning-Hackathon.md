@@ -22,7 +22,7 @@ So, the idea was to
 <img src="https://i.imgur.com/LgJSI4K.jpg" alt="">
 >Classification
 
-Now coming to the how? part. Microsoft Azure provides a very dense APIs for deep learning and image recognition. Out of all these, we chose the [Emotion Api] (https://azure.microsoft.com/en-us/services/cognitive-services/emotion/) that can help in the detecting the Emotional values in a frame.
+Now coming to the how? part. Microsoft Azure provides a very dense APIs for deep learning and image recognition. Out of all these, we chose the [Emotion Api](https://azure.microsoft.com/en-us/services/cognitive-services/emotion/) that can help in the detecting the Emotional values in a frame.
 We patched the Dataset with a simple rough python script that consumes the API and provides the output. The code can be downloaded  [here](https://github.com/yogeshmpandey/Scripts/blob/master/hackathon_nov_munich.py).
 The script ran for around 9 hours and ran on approximately 90 percent of the dataset and next morning we had some great results.
 
