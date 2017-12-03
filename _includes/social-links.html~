@@ -1,13 +1,13 @@
               <div class="social-links">
-                  {% if site.email %}<a href="mailto:{{ site.email }}" class="author-social" target="_blank"><i class="fa fa-2x fa-envelope-square"></i></a>{% endif %}
-                  {% if site.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-2x fa-twitter-square"></i></a>{% endif %}
-                  {% if site.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>{% endif %}
                   {% if site.google.plus %}<a href="http://plus.google.com/+{{ site.google.plus }}" class="author-social" target="_blank"><i class="fa fa-2x fa-google-plus-square"></i></a>{% endif %}
                   {% if site.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="fa fa-2x fa-linkedin-square"></i></a>{% endif %}
                   {% if site.xing %}<a href="http://www.xing.com/profile/{{ site.xing }}" class="author-social" target="_blank"><i class="fa fa-2x fa-xing-square"></i></a>{% endif %}
                   {% if site.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="fa fa-2x fa-instagram"></i></a>{% endif %}
                   {% if site.tumblr %}<a href="http://{{ site.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="fa fa-2x fa-tumblr-square"></i></a>{% endif %}
                   {% if site.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="fa fa-2x fa-github"></i></a>{% endif %}
+                  {% if site.email %}<a href="mailto:{{ site.email }}" class="author-social" target="_blank"><i class="fa fa-2x fa-envelope-square"></i></a>{% endif %}
+                  {% if site.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="fa fa-2x fa-twitter-square"></i></a>{% endif %}
+                  {% if site.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="fa fa-2x fa-facebook-square"></i></a>{% endif %}
                   {% if site.stackoverflow %}<a href="http://stackoverflow.com/users/{{ site.stackoverflow }}" class="author-social" target="_blank"><i class="fa fa-2x fa-stack-overflow"></i></a>{% endif %}
                   {% if site.lastfm %}<a href="http://lastfm.com/user/{{ site.lastfm }}" class="author-social" target="_blank"><i class="fa fa-2x fa-music"></i></a>{% endif %}
                   {% if site.dribbble %}<a href="http://dribbble.com/{{ site.dribbble }}" class="author-social" target="_blank"><i class="fa fa-2x fa-dribbble"></i></a>{% endif %}

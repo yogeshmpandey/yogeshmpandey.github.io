@@ -1,10 +1,6 @@
 ---
-layout: post-index
-title: All Posts
-description: "An archive of posts."
+layout: default
 comments: false
 ---
-<article>
-
-</article>
-
+<article></article>
+{% include social-links.html %}
