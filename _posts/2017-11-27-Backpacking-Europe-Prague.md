@@ -10,27 +10,24 @@ image:
 ---
 <img src="https://i.imgur.com/dZdR2Y2.jpg" alt="">
 
-Second Last week of the year, the country wrapped itself in cold and frestive season. For some of us it was right time to escape, to add another experience, another journey, to seek new places, to wander, to learn, to live. With plenty of leaves this time we  planned to cover the Christmas markets of the nearby European countries.
+Second Last week of the year, the country wrapped itself in cold and festive season. For some of us, it was right time to escape, to add another experience, another journey, to seek new places, to wander, to learn, to live. With plenty of leaves this time we planned to cover the Christmas markets of the nearby European countries.
 
 The plan was to cover five Christmas Market starting from Munich, then Prague, then Budapest, to Bratislava and finally Vienna.
 
-We started out journey in the night of 22nd March from the Munich ZOB station. We started early from the office and visited Marineplatz, at marineplatz one can find the biggest christmas market in Munich. The Market was jampacked with people. Everyone was busy buying items to decorate their houses, while some were enjoying gluewine in the slow snowfall. The Marineplaz church was flodded in the yellowish lights and snowfall in the midnight. After a few rounds of gluewine we headed towards the bus station.
+We started out the journey on the night of 22nd March from the Munich ZOB station. We started early from the office and visited Marienplatz, at Marienplatz one can find the biggest Christmas market in Munich. The Market was jampacked with people. Everyone was busy buying items to decorate their houses, while some were enjoying gluewine in the slow snowfall. The Marienplatz church was flooded in the yellowish lights and snowfall in the midnight. After a few rounds of gluewine, we headed towards the bus station.
 
-Like always, we tried to get first two seats at the top floor, and like always, thry was already taken. Hoping for a better luck next time to myself and other friend we took the second seats and began our journey to other country.
+Like always, we tried to get first two seats at the top floor, and like always, they was already taken. Hoping for a better luck next time to myself and another friend we took the second seats and began our journey to another country.
 
 
-In my research of how to travel to prague, I had already populated my Google Trip App with the main must see places. \from that, It was quite evident that we can cover the entire city on foot.
+In my research of how to travel to Prague, I had already populated my Google Trip App with the main must-see places. \from that, It was quite evident that we can cover the entire city on foot.
 
-From the bus stand we reached the
+From the bus stand, we reached the Main City center and as per the App we started exploring the city.
 
 <img src="https://i.imgur.com/BpExRVa.jpg" alt="Prague">
 >Marineplaz church Lights up in Christmas  
 
 <img src="https://i.imgur.com/fhmWGA1.jpg" alt="Prague">
 >First View of Prague
-
-<img src="https://i.imgur.com/jfK3a2r.jpg" alt="Prague">
->Viewing Moon from Observatory
 
 <img src="https://i.imgur.com/raj879O.jpg" alt="Prague">
 >Parsian Style building in Prague
@@ -91,12 +88,6 @@ From the bus stand we reached the
 <img src="https://i.imgur.com/eUw3Fhi.jpg" alt="Prague">
 >The Castle in the Background
 
-<img src="https://i.imgur.com/PDPrNCI.jpg" alt="Prague">
->Picture of a Dome from Castle
-
-<img src="https://i.imgur.com/6NjmXJs.jpg" alt="Prague">
->Houses
-
 <img src="https://i.imgur.com/GJnEKRB.jpg" alt="Prague">
 >Only for 10 Euros
 
@@ -109,6 +100,11 @@ From the bus stand we reached the
 <img src="https://i.imgur.com/hDLpT4C.jpg" alt="Prague">
 >Views from the lookout tower
 
+<img src="https://i.imgur.com/PDPrNCI.jpg" alt="Prague">
+>Picture of a Dome from Castle
+
+<img src="https://i.imgur.com/6NjmXJs.jpg" alt="Prague">
+>Houses
 
 <img src="https://i.imgur.com/ghTQ0En.jpg" alt="Prague">
 >View of Prague Church
@@ -122,11 +118,14 @@ From the bus stand we reached the
 <img src="https://i.imgur.com/zqhsIK5.jpg" alt="Prague">
 >This is Quite a Delicacy in Prague
 
+<img src="https://i.imgur.com/jfK3a2r.jpg" alt="Prague">
+>Viewing Moon from Observatory
+
 <img src="https://i.imgur.com/MlZr1Tk.jpg" alt="Prague">
 >Moon from the Observatory
 
 <img src="https://i.imgur.com/yloD2MK.jpg" alt="Prague">
->Walking Downhill from the Tower
+>Walking Downhill  from the Tower
 
 <img src="https://i.imgur.com/JPNzgAB.jpg" alt="Prague">
 >Night at the christmas Market
