@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Backpacking Europe:  Budapest"
-date:   2018-01-08 03:52:38
+date:   2018-01-09 03:52:38
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]

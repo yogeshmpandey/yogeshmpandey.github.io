@@ -13,7 +13,7 @@ image:
 Innsbruck is a colourful, picturesque city nestled in the Austrian Alps. Its biggest draw is its location. Innsbruck sits in a valley and is surrounded by enormous, snow-capped mountains. This is a city with endless views, Sitting between Germany and Italy in Austria. This is the place that gives Switzerland shame in terms of the Natural beauty.
 
 <img src="https://i.imgur.com/p7ppBk6.jpg" alt="Innsbruck">
->Hills of  Garmish Paterkirchen Germany
+>Hills of  Garmisch Partenkirchen Germany
 
 On Saturday, I was bored and wanted to escape the slow life of our suburb in Munich, So I called my friend and the plan was in place for the next day for Innsbruck. The weather was sunny, a perfect day to visit the queen of Alps. We started in the morning and reached Innsbruck around 10 am.
 
@@ -60,7 +60,7 @@ There are a series of cable cars that can whisk you to the top of the Nordkette 
 Next, we stopped at Innsbruck Zoo. This Zoo is Europe’s highest (Alpine) Zoo alongside various viewing platforms. The guide claimed that when the church bells ring in Innsbruck, the wolves at the Alpine Zoo howl along in unison.
 
 <img src="https://i.imgur.com/mFn3F40.jpg" alt="Innsbruck">
->Wingsapn of differnet birds
+>Wingspan of differnet birds
 
 <img src="https://i.imgur.com/ZWrVeYr.jpg" alt="Innsbruck">
 >Mountain Cat
