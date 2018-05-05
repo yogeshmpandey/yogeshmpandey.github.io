@@ -19,9 +19,11 @@ We started out the journey on the night of 22nd March from the Munich ZOB statio
 Like always, we tried to get first two seats at the top floor, and like always, they was already taken. Hoping for a better luck next time to myself and another friend we took the second seats and began our journey to another country.
 
 
-In my research of how to travel to Prague, I had already populated my Google Trip App with the main must-see places. \from that, It was quite evident that we can cover the entire city on foot.
+In my research of how to travel to Prague, I had already populated my Google Trip App with the main must-see places. from that, It was quite evident that we can cover the entire city on foot.
 
 From the bus stand, we reached the Main City center and as per the App we started exploring the city.
+
+The city walk from starting to end is captured in these photographs.
 
 <img src="https://i.imgur.com/BpExRVa.jpg" alt="Prague">
 >Marineplaz church Lights up in Christmas  
