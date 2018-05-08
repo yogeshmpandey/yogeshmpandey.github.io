@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Backpacking Europe:  Paris"
+title:  "Backpacking Europe:  Munich"
 date:   2018-01-08 03:52:38
 categories: Travel
 hidden: true
