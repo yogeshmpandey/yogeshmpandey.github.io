@@ -8,8 +8,13 @@ tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
+
 <img src="https://i.imgur.com/BrlFPJr.jpg" alt="Budapest">
->
+
+After a amazing day at Prague, we took a night bus to Budapest. Reached early morning in Budapest and were amazed by the geography of the city. One one side you have the rich and hilly Buda side and divided by the river Pest on the other is very plain unsophesticated. To my amazement Budapest is made up of 2 different cites Buda+pest.
+
+
+This time< I had downloaded the Rick steves Guide for Budapest and was following through each and every historical reference of the Places I was visiting by.  
 
 <img src="https://i.imgur.com/n7r8r6o.jpg" alt="Budapest">
 >
