@@ -80,7 +80,6 @@ Buda Castle is now home to the Budapest History Museum and Hungarian National Ga
 
 After this, we went to Heroes’ Square. It is a world heritage site and a popular gathering spot for locals whenever something political is going on. Near to the Square is Vajdahunyad Castle and houses the Museum of Hungarian Agriculture. here we found the world famous Anonymus Szobor (Anonymous' Statue). This statue of an anonymous writer is a very popular spot for taking pictures. The setting certainly enhanced the mystic and aura of mystery surrounding the identity of this writer. Touching the tip of the pen is supposed to enlighten any aspiring writers.
 
-
 <img src="https://i.imgur.com/LmmaOES.jpg" alt="Budapest">
 >Heros's Square
 
@@ -91,7 +90,6 @@ After this, we went to Heroes’ Square. It is a world heritage site and a popul
 >Anonymus Szobor
 
 Everyone travelling to Eastern Europe must also know the grim years it underwent in Pre Cold war, communism era. Every City had its own way to hide or remove those memories. Budapest unlike other countries didn't burn down or destroyed those statues rather took them out of the town and made a Museum. We had plenty of time left and as we had covered all the major places, we visited this Museum. The Museum is called Momento Park.
-
 
 <img src="https://i.imgur.com/z4oSahz.jpg" alt="Budapest">
 >Propoganda Statue
