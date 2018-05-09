@@ -1,13 +1,16 @@
 ---
 layout: post
 title:  "Backpacking Europe:  Bratislava"
-date:   2018-01-11 03:52:38
+date:   2018-01-12 02:52:38
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
+<img src="https://i.imgur.com/skEWmlr.jpg" alt="bratislava">
+>
+
 <img src="https://i.imgur.com/FsD09XO.jpg" alt="bratislava">
 >
 
@@ -26,6 +29,9 @@ image:
 <img src="https://i.imgur.com/296xXAj.jpg" alt="bratislava">
 >
 
+<img src="https://i.imgur.com/qSldeDV.jpg" alt="bratislava">
+>
+
 <img src="https://i.imgur.com/knusEFJ.jpg" alt="bratislava">
 >
 
@@ -35,17 +41,12 @@ image:
 <img src="https://i.imgur.com/EXkCPfN.jpg" alt="bratislava">
 >
 
-<img src="https://i.imgur.com/JQlq90R.jpg" alt="bratislava">
->
 
 <img src="https://i.imgur.com/SdLBG1B.jpg" alt="bratislava">
 >
 
-<img src="https://i.imgur.com/skEWmlr.jpg" alt="bratislava">
->
 
-<img src="https://i.imgur.com/qSldeDV.jpg" alt="bratislava">
->
+
 
 <img src="https://i.imgur.com/xfMMKoQ.jpg" alt="bratislava">
 >
@@ -62,6 +63,10 @@ image:
 <img src="https://i.imgur.com/clE4Gcs.jpg" alt="bratislava">
 >
 
+<img src="https://i.imgur.com/a3hGqcS.jpg" alt="bratislava">
+>
+
+
 <img src="https://i.imgur.com/E2i4FHG.jpg" alt="bratislava">
 >
 
@@ -71,14 +76,12 @@ image:
 <img src="https://i.imgur.com/bKyJ2Qm.jpg" alt="bratislava">
 >
 
-<img src="https://i.imgur.com/7WXI5av.jpg" alt="bratislava">
->
 
-<img src="https://i.imgur.com/a3hGqcS.jpg" alt="bratislava">
->
+
 
 <img src="https://i.imgur.com/OtfW5Fn.jpg" alt="bratislava">
 >
+
 
 <img src="https://i.imgur.com/VEzQiYf.jpg" alt="bratislava">
 >
@@ -87,4 +90,7 @@ image:
 >
 
 <img src="https://i.imgur.com/OHN19wV.jpg" alt="bratislava">
+>
+
+<img src="https://i.imgur.com/7WXI5av.jpg" alt="bratislava">
 >

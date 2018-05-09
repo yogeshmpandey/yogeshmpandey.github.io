@@ -14,6 +14,13 @@ Second Last week of the year, the country wrapped itself in cold and festive sea
 
 The plan was to cover five Christmas Market starting from Munich, then Prague, then Budapest, to Bratislava and finally Vienna.
 
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
+
 We started out the journey on the night of 22nd March from the Munich ZOB station. We started early from the office and visited Marienplatz, at Marienplatz one can find the biggest Christmas market in Munich. The Market was jampacked with people. Everyone was busy buying items to decorate their houses, while some were enjoying gluewine in the slow snowfall. The Marienplatz church was flooded in the yellowish lights and snowfall in the midnight. After a few rounds of gluewine, we headed towards the bus station.
 
 Like always, we tried to get first two seats at the top floor, and like always, they was already taken. Hoping for a better luck next time to myself and another friend we took the second seats and began our journey to another country.

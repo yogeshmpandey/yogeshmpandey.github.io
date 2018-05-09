@@ -10,8 +10,12 @@ image:
 
 <img src="https://i.imgur.com/CPgseBU.jpg" alt="logo">
 
-Belin is the city which according to me has the most twisted history in the world. But, even after all those turbulent days, it has now become the most popular cities in Europe. 
+Belin is the city which according to me has the most twisted history in the world. But, even after all those turbulent days, it has now become the most popular cities in Europe.
 It has the right mix of old and new. One can see the ruins of WW2 along with some of the most iconic skyscrapers in the city.
+
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
 
 <img src="https://i.imgur.com/D2Iivhj.png" alt="Berlin Footprints">
 >Berlin Footprints
@@ -79,18 +83,18 @@ From Alexander Platz I went to the Brandenburg Gate and joined a Walking tour. W
 <img src="https://i.imgur.com/NaBnXNa.jpg" alt="logo">
 >The bulged files are the only convicted Nazis amongst all.
 
-Leaving the walking tour I went to Potsdamer Platz, Which stood between the old East/West Berlin wall. Potsdamer Platz is an entire quarter built from scratch after 1995 after the Wall came down. And skyscrapers are Magnanimous. 
+Leaving the walking tour I went to Potsdamer Platz, Which stood between the old East/West Berlin wall. Potsdamer Platz is an entire quarter built from scratch after 1995 after the Wall came down. And skyscrapers are Magnanimous.
 
 <img src="https://i.imgur.com/4CIQin3.jpg" alt="logo">
 >what Nazis wanted
 
 <img src="https://i.imgur.com/Ew4DvI2.jpg" alt="logo">
->What it became 
+>What it became
 
 <img src="https://i.imgur.com/JgsFxt5.jpg" alt="logo">
 >Tour Bus
 
-Now it was the time for the most interesting part of the city, The East side Gallery. The Gallery consists of 105 paintings by artists from all over the world, painted in 1990 on the east side of the Berlin Wall. 
+Now it was the time for the most interesting part of the city, The East side Gallery. The Gallery consists of 105 paintings by artists from all over the world, painted in 1990 on the east side of the Berlin Wall.
 The paintings at the East Side Gallery document a time of change and express the euphoria and great hopes for a better, more free future for all people of the world. Some of the paintings grip you in astonishment and some in confusion.
 One can see the stark difference in the composition of cultures in East and West Belin.
 

@@ -15,6 +15,14 @@ After an amazing day at Prague, we took a night bus to Budapest. Reached early m
 
 This time, I had downloaded the Rick Steves Guide (Amazing Guy! His Ted talk is a must watch) for Budapest and was following through each and every historical reference of the places I was visiting by.  
 
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
+
 <img src="https://i.imgur.com/bu1JfRM.jpg" alt="Budapest">
 >Panaromic City Views
 

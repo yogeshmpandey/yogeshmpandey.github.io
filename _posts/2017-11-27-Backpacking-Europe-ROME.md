@@ -17,6 +17,11 @@ Rome is the capital city of Italy whose history dates back to 3000 years. Due to
 
 "Rome" is the most heard and read word in the history books. I had a long desire to visit the city after binge-watching Spartacus, Da Vinci Demons, Rome and other historical spinoff sitcoms during my Busy college life.
 
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
+
 So, It was my ambitious plan to cover all the majority of the touristy places of Rome in a day. "It is just not possible", said the co-passenger somewhere near Florence, when I told her my ambitious plans. Leisure travel and gourmet food , I had kept for my retirement, I told her. And, Did I told you I will be visiting Vatican City also?. She just didn't buy it and gave me a rather ludicrous look.
 
 <img src="https://i.imgur.com/LI0HVnQ.png" alt="Berlin Footprints">
@@ -28,14 +33,14 @@ So, It was my ambitious plan to cover all the majority of the touristy places of
 <img src="https://i.imgur.com/kG5FlBw.jpg" alt="logo">
 >Old Rome
 
-I landed in Rome and searched for the ticketing machines from where I bought the day pass to the city. The first place I went to in Rome was yes, The mighty Colosseum. 
-We’ve all seen The Gladiator and know the legends of the Colosseum, but seeing it up close is a different experience. Completed in A.D. 80, this massive, still-standing structure is considered one of the greatest works of Roman architecture and engineering.Although it is now partially ruined because of damage caused by earthquakes and stone-robbers. 
+I landed in Rome and searched for the ticketing machines from where I bought the day pass to the city. The first place I went to in Rome was yes, The mighty Colosseum.
+We’ve all seen The Gladiator and know the legends of the Colosseum, but seeing it up close is a different experience. Completed in A.D. 80, this massive, still-standing structure is considered one of the greatest works of Roman architecture and engineering.Although it is now partially ruined because of damage caused by earthquakes and stone-robbers.
 To capture Colosseum in full frame I reached to place very far and top. But still couldn't capture this whole magnanimous wonder in a full frame.
 
-On the east of Colosseum is the Roman Forum. Roman Forum was sort of city centre for the people of ancient Rome.It served as a venue for public speeches, criminal trials, and gladiatorial matches; and the nucleus of commercial affairs. 
+On the east of Colosseum is the Roman Forum. Roman Forum was sort of city centre for the people of ancient Rome.It served as a venue for public speeches, criminal trials, and gladiatorial matches; and the nucleus of commercial affairs.
 
 <img src="https://i.imgur.com/x4yywVW.jpg" alt="logo">
->Colosseum 
+>Colosseum
 
 <img src="https://i.imgur.com/PyVzvje.jpg" alt="logo">
 >Ruins Outside.
@@ -92,7 +97,7 @@ From there I took a bus to Vatican City.  The Vatican City is an independent cou
 
 I found myself in Peter Square in a dilemma of whether to get in the line for St Peter Bascilia or not. After 5 minutes of pondering I was standing in the line. It was probably the third biggest queue after my college mess and once when I stood in the ATM while Demonetisation was in implementation in India.
 
-Quicktip, you won't be allowed to enter if you are scantily dressed. 
+Quicktip, you won't be allowed to enter if you are scantily dressed.
 
 <img src="https://i.imgur.com/DAiJiLk.jpg" alt="logo">
 >Stack vs Queue
@@ -122,13 +127,13 @@ One can see the works of Leonardo da Vinci, Michelangelo and Raphael in the inte
 <img src="https://i.imgur.com/xyKWvIi.jpg" alt="logo">
 >Form Top
 
-My bus was to leave at 9 pm in the night. I had time and as they say, When in Rome, do as the Romans do. I went to a Pizza restaurant nearby and ordered some unpronounceable pizza. (The name is so twisted that I can't even Google it now, Google's Do you mean? is failing me). 
-The Pizza came and it was just Delicious, although it had tuna in it and I was not able to make my way through knife and fork. But Still, the taste was finger licking good. 
+My bus was to leave at 9 pm in the night. I had time and as they say, When in Rome, do as the Romans do. I went to a Pizza restaurant nearby and ordered some unpronounceable pizza. (The name is so twisted that I can't even Google it now, Google's Do you mean? is failing me).
+The Pizza came and it was just Delicious, although it had tuna in it and I was not able to make my way through knife and fork. But Still, the taste was finger licking good.
 
 <img src="https://i.imgur.com/u2U5fHd.jpg" alt="logo">
 >Beautiful Sculptures
 
-I then visited Castel Sant'Angelo from the Outside. It was originally the tomb of Emperor Hadrian but later was turned into a protective place where the Pope could take refuge in times of danger. After spending few hours here, I grabbed a gelato from a shop and went to my bus station. 
+I then visited Castel Sant'Angelo from the Outside. It was originally the tomb of Emperor Hadrian but later was turned into a protective place where the Pope could take refuge in times of danger. After spending few hours here, I grabbed a gelato from a shop and went to my bus station.
 
 <img src="https://i.imgur.com/vN54sWr.jpg" alt="logo">
 >Rome Footprints
