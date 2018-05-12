@@ -109,10 +109,10 @@ Everyone travelling to Eastern Europe must also know the grim years it underwent
 >The Republic of Councils Monument, based on a 1919 revolutionary poster
 
 <img src="https://i.imgur.com/hLFnuq4.jpg" alt="Budapest">
->red Army
+>Red Army
 
 <img src="https://i.imgur.com/wJEAUwN.jpg" alt="Budapest">
->Ferrari of Communist People
+>Ferrari of the Communist People
 
 In the evening we visited the Christmas Markets of Budapest, By then, I had taken so many photos that my battery had died. Exhausted after walking so many miles, we had Dinner at a Turkish Restaurant and then, we later went to our AirBnB for a sound sleep.
 

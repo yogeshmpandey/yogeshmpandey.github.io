@@ -68,39 +68,36 @@ image:
 
 
 <img src="https://i.imgur.com/E2i4FHG.jpg" alt="bratislava">
->
+>Statue of Crows looking at a lady
 
 <img src="https://i.imgur.com/QajkTGY.jpg" alt="bratislava">
->
-
-<img src="https://i.imgur.com/bKyJ2Qm.jpg" alt="bratislava">
->
+>Old Ruins in the city
 
 <img src="https://i.imgur.com/OtfW5Fn.jpg" alt="bratislava">
->
+>Walking Up to the Castle
 
 
 <img src="https://i.imgur.com/VEzQiYf.jpg" alt="bratislava">
->
+>Taking TimeLapse of the fog surrounding the village
 
 <img src="https://i.imgur.com/RvfPgPo.jpg" alt="bratislava">
->
+>Other hill of Devlin
 
 <img src="https://i.imgur.com/OHN19wV.jpg" alt="bratislava">
->
+>At the edge of castle Devlin
 
 <img src="https://i.imgur.com/7WXI5av.jpg" alt="bratislava">
->
+>Bratislava castle in the Night
 
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
-| 1.      | Day Ticket      |4.5|
+|----------|:----------:|-:|
+| 1.      | Day Ticket      |3.5|
 | 2.      | Lunch      |7|
-| 3.      | Dinner      |0|
+| 3.      | Dinner      |7|
 | 4.      | Breakfast      |4|
 | 5.     | AirBnB     |0|
 | 6.      | Momento      |5|
 | 7.      | Bus Tickets       |20|
-||Total|40 Euros ~ 3200 INR|
+||Total|46.5 Euros ~ 3700 INR|
