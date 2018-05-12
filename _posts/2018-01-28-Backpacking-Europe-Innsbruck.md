@@ -86,3 +86,13 @@ After the mountains, I grabbed some shots of the beautiful brightly coloured hou
 >Innsbruck at Night
 
 With these Views, we said Goodbye to Innsbruck.
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |39|
+| 2.      | Lunch      |7|
+| 3.      | Breakfast      |7|
+| 7.      | Bus Tickets       |18|
+||Total|71 Euros ~ 5680 INR|

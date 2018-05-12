@@ -103,3 +103,16 @@ The castle has many museums but on our visit. The castle and the Museum also hou
 >Fountain in the Castle
 
 Milan is Italy's Munich. Called the economic and financial capital of the country similar to Munich. Milan hosts alps on the north, while Munich to the south. After a nostalgic ride in the tram, I hopped on the bus back to Munich.
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |4.5|
+| 2.      | Lunch      |7|
+| 3.      | Dinner      |0|
+| 4.      | Breakfast      |4|
+| 5.     | AirBnB     |0|
+| 6.      | Momento      |5|
+| 7.      | Bus Tickets       |20|
+||Total|40 Euros ~ 3200 INR|

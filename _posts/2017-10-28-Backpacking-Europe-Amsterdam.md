@@ -16,12 +16,12 @@ The Amsterdam Walking tour gave me some interesting insights into the history an
 
 Amsterdam is located in the western Netherlands. Interestingly, Amsterdam is about 2 metres (6.6 feet) below sea level. It has more than 100 kilometres (60 miles) of canals, most of which are navigable by boat. Around 1100 AD locals near the river, Amstel built a bridge over the river and a dam across it, giving its name to the village: "Aemstelredamme".
 
-From the 14th century on, Amsterdam flourished, largely from trade and its open culture (read Legalised prostitution and Soft drugs). It was a well-known seaport, which allowed the cumulation of different cultures in the City. The 17th century is considered Amsterdam's Golden Age, during which it became the wealthiest city in the western world. Germany invaded Netherlands in the process of annexing France in 1940's. 
+From the 14th century on, Amsterdam flourished, largely from trade and its open culture (read Legalised prostitution and Soft drugs). It was a well-known seaport, which allowed the cumulation of different cultures in the City. The 17th century is considered Amsterdam's Golden Age, during which it became the wealthiest city in the western world. Germany invaded Netherlands in the process of annexing France in 1940's.
 
 Amsterdam residents include the diarist Anne Frank, artists Rembrandt van Rijn and Vincent van Gogh. And, 2 out of 100 people in Amsterdam are Indians.
 
 
-### The Plan: 
+### The Plan:
 
 <img src="https://i.imgur.com/7xfOPVC.jpg" alt="logo">
 >Amsterdam Footprints
@@ -32,7 +32,7 @@ The trip to Amsterdam was my first solo backpacking trip outside of India. Since
 
 * Food: Don't eat the gourmet food, It is very costly and unhealthy. You never know the unpronounceable dish you just ordered might have something that is normally forbidden. So choose the wiser and healthier option. I bought Ready to eat munchies, salads, smoothies, sandwiches for my lunch and breakfast from the local grocery malls. You can find them easily (Lidl, Penny, Rewe, Edeka to name a few). They are really cheap and Healthy. Keep a 1.5l water bottle handy as water is not free.
 
-* Transport. Train tickets are very expensive. The best option is to Download the Flixbus app and buy interflix bus tickets. You will get 5 vouchers using which you can visit any city in the Schengen Area. Each ticket will cost you approx 20 Euros. The bus has a washroom and provides free wifi. The buses are comfortable and have reclining seats. Choose good seats for better comfort. If you need leg space like I do, take the seat with a table on the ground floor or the first seat on the top floor. 
+* Transport. Train tickets are very expensive. The best option is to Download the Flixbus app and buy interflix bus tickets. You will get 5 vouchers using which you can visit any city in the Schengen Area. Each ticket will cost you approx 20 Euros. The bus has a washroom and provides free wifi. The buses are comfortable and have reclining seats. Choose good seats for better comfort. If you need leg space like I do, take the seat with a table on the ground floor or the first seat on the top floor.
 
 * In the City: Don't take the city card rather take the Day ticket to explore the city. Majority of the cities issue day ticket using which you can visit the city using all the possible modes of transportation Tram/Trains/buses/Ferry. Since EU has roaming free Take a Lebara sim and incoming and data is free of cost if you move out of your base country.
 
@@ -64,9 +64,9 @@ Amsterdam welcomed with a bright and sunny day.
 >Autumn Vibes
 
 <img src="https://i.imgur.com/LuRbCZe.jpg" alt="logo">
->Indian Restaurent 
+>Indian Restaurent
 
-The bus dropped me at Amsterdam Sloterdijk train station. From there I purchased a day ticket for the city. The intercity train took me to the Central Station. From the Central Station, all the city attraction can be covered by foot. At Dam Square, I participated in the Free Walking tour. Dam Square the heart of the city and has National Monument and Nieuwe Kerk (New Church). Free Walking tour is wonderful first activity in any city and an amazing way to orient yourself to the culture. 
+The bus dropped me at Amsterdam Sloterdijk train station. From there I purchased a day ticket for the city. The intercity train took me to the Central Station. From the Central Station, all the city attraction can be covered by foot. At Dam Square, I participated in the Free Walking tour. Dam Square the heart of the city and has National Monument and Nieuwe Kerk (New Church). Free Walking tour is wonderful first activity in any city and an amazing way to orient yourself to the culture.
 
 <img src="https://i.imgur.com/K8cnlgT.jpg" alt="logo">
 >Dam Square
@@ -105,9 +105,9 @@ Around some corner, in between the tour, I lost the group around some corner. Fr
 <img src="https://i.imgur.com/FkHOXf1.jpg" alt="logo">
 >Graffites on Old Walls
 
-Next in the list was Rijksmuseum. I skipped the inside the museum as it would require a full day. Although I visited the sculpture gardens surrounding the Rijksmuseum for free. At the entrance of the museum is the famous Iamsterdam Sign. There were too many people surrounded the place, everyone wanted to take a picture with the iconic Sign. 
+Next in the list was Rijksmuseum. I skipped the inside the museum as it would require a full day. Although I visited the sculpture gardens surrounding the Rijksmuseum for free. At the entrance of the museum is the famous Iamsterdam Sign. There were too many people surrounded the place, everyone wanted to take a picture with the iconic Sign.
 
-From there I passed by VanGogh museum and Stedelijk modern art museum. 
+From there I passed by VanGogh museum and Stedelijk modern art museum.
 
 <img src="https://i.imgur.com/AhiZezw.jpg" alt="logo">
 >Ceaser at Rijksmuseum
@@ -144,7 +144,7 @@ My next stop was Vondelpark. Vondelpark is the city's laid-back park with many s
 >At VondelPark
 
 
-After relaxing for approximately an hour. I reached another part of the city by crossing the sea by a ferry. There were old ships docked near the bank and people trying their luck in fishing. 
+After relaxing for approximately an hour. I reached another part of the city by crossing the sea by a ferry. There were old ships docked near the bank and people trying their luck in fishing.
 
 
 <img src="https://i.imgur.com/0WQSiZe.jpg" alt="logo">
@@ -161,3 +161,17 @@ With the sun going down behind the Windmills. I said goodbye to Amsterdam.
 
 <img src="https://i.imgur.com/Zbxxa7e.jpg" alt="logo">
 >Adios Amsterdam
+
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |7.5|
+| 2.      | Lunch      |6|
+| 3.      | Dinner      |6|
+| 4.      | Breakfast      |4|
+| 5.     | AirBnB     |0|
+| 6.      | Momento      |5|
+| 7.      | Bus Tickets       |20|
+||Total|48.5 Euros ~ 3880 INR|

@@ -141,3 +141,17 @@ The city walk from starting to end is captured in these photographs.
 
 <img src="https://i.imgur.com/JyWunb3.jpg" alt="Prague">
 >GoodBye Prague
+
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |0|
+| 2.      | Lunch      |5|
+| 3.      | Dinner      |6|
+| 4.      | Breakfast      |5|
+| 5.     | AirBnB     |0|
+| 6.      | Momento      |4.5|
+| 7.      | Bus Tickets       |20|
+||Total|40.5 Euros ~ 3200 INR|

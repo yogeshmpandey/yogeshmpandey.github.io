@@ -76,9 +76,6 @@ image:
 <img src="https://i.imgur.com/bKyJ2Qm.jpg" alt="bratislava">
 >
 
-
-
-
 <img src="https://i.imgur.com/OtfW5Fn.jpg" alt="bratislava">
 >
 
@@ -94,3 +91,16 @@ image:
 
 <img src="https://i.imgur.com/7WXI5av.jpg" alt="bratislava">
 >
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |4.5|
+| 2.      | Lunch      |7|
+| 3.      | Dinner      |0|
+| 4.      | Breakfast      |4|
+| 5.     | AirBnB     |0|
+| 6.      | Momento      |5|
+| 7.      | Bus Tickets       |20|
+||Total|40 Euros ~ 3200 INR|

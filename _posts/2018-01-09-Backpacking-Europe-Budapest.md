@@ -115,3 +115,16 @@ Everyone travelling to Eastern Europe must also know the grim years it underwent
 >Ferrari of Communist People
 
 In the evening we visited the Christmas Markets of Budapest, By then, I had taken so many photos that my battery had died. Exhausted after walking so many miles, we had Dinner at a Turkish Restaurant and then, we later went to our AirBnB for a sound sleep.
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |5|
+| 2.      | Lunch      |3|
+| 3.      | Dinner      |6|
+| 4.      | Breakfast      |4|
+| 5.     | AirBnB     |5|
+| 6.      | Momento      |4.5|
+| 7.      | Bus Tickets       |20|
+||Total|47.5 Euros ~ 3800 INR|

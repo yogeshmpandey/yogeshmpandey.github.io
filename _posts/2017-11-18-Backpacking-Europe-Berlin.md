@@ -137,3 +137,16 @@ Berlin was Amazing. For me it was reliving the history books and WW2 Docuemntrie
 
 <img src="https://i.imgur.com/D39055c.jpg" alt="logo">
 >Adios Berlin
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |7.7|
+| 2.      | Lunch      |5|
+| 3.      | Dinner      |6|
+| 4.      | Breakfast      |5|
+| 5.     | AirBnB     |0|
+| 6.      | Momento      |5|
+| 7.      | Bus Tickets       |40|
+||Total|68.7Euros ~ 5500 INR|

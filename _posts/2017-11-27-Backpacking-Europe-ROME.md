@@ -139,3 +139,17 @@ I then visited Castel Sant'Angelo from the Outside. It was originally the tomb o
 >Rome Footprints
 
 Rome would certainly be visited again. The wish gets fulfilled or otherwise.
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|----------|----------|-|
+| 1.      | Day Ticket      |7|
+| 2.      | Lunch      |5|
+| 3.      | Dinner      |6|
+| 4.      | Breakfast      |4|
+| 5.     | AirBnB     |0|
+| 6.      | Momento      |5|
+| 7.      | Bus Tickets       |40|
+| 7.      | Vatican City Church   |5|
+||Total|72 Euros ~ 5760 INR|
