@@ -10,13 +10,13 @@ image:
 ---
 <img src="https://i.imgur.com/skEWmlr.jpg" alt="bratislava">
 
-Bratislava has a very pleasant medieval town with narrow, winding streets, a hill-top castle next to the river Danube, and many historic churches and buildings to visit. The main places of significance are situated around the old town. Budapest is the capital city of Slovakia. A country formed as a part of the Velvet Revolution, the fall of Communism led to the dissolution of Czechoslovakia into two separate and independent nations: the Czech Republic, and of course Slovakia (Slovak Republic).
+Bratislava is a very pleasant medieval town with narrow, winding streets, a hill-top castle next to the river Danube, and many historic churches and buildings to visit. The main places of significance are situated around the old town. Budapest is the capital city of Slovakia. A country formed as a part of the Velvet Revolution, the fall of Communism led to the dissolution of Czechoslovakia into two separate and independent nations: the Czech Republic, and of course Slovakia (Slovak Republic).
 
 Our bus to Bratislava from Vienna was at 7 am. We woke up on the call of the alarm at 5:30 am and frantically headed towards the bus station.  It was a small 1-hour journey from Vienna to Bratislava.
 
 The weather in Bratislava was a bit foggy. The bus dropped us slightly on the outskirts of the city. From there we took the day ticket the old city. Even though Slovakia is a relative new Country, it gives a good competition to the other fairly developed European Countries.
 
-We reached the old City and started walking. The first strikingly remarkable building we came across was the blue church, we went inside but it was already full of people. The Christmas Market near the fountain was slowly opening up. 
+We reached the old City and started walking. The first strikingly remarkable building we came across was the blue church, we went inside but it was already full of people. The Christmas Market near the fountain was slowly opening up.
 
 
 **_Read previous Eurotrip Blogs:_**
