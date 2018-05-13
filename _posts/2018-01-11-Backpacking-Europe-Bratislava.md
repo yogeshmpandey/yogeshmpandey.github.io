@@ -9,69 +9,97 @@ image:
   background: witewall_3.png
 ---
 <img src="https://i.imgur.com/skEWmlr.jpg" alt="bratislava">
->
+
+Bratislava has a very pleasant medieval town with narrow, winding streets, a hill-top castle next to the river Danube, and many historic churches and buildings to visit. The main places of significance are situated around the old town. Budapest is the capital city of Slovakia. A country formed as a part of the Velvet Revolution, the fall of Communism led to the dissolution of Czechoslovakia into two separate and independent nations: the Czech Republic, and of course Slovakia (Slovak Republic).
+
+Our bus to Bratislava from Vienna was at 7 am. We woke up on the call of the alarm at 5:30 am and frantically headed towards the bus station.  It was a small 1-hour journey from Vienna to Bratislava.
+
+The weather in Bratislava was a bit foggy. The bus dropped us slightly on the outskirts of the city. From there we took the day ticket the old city. Even though Slovakia is a relative new Country, it gives a good competition to the other fairly developed European Countries.
+
+We reached the old City and started walking. The first strikingly remarkable building we came across was the blue church, we went inside but it was already full of people.
+
+
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
 
 <img src="https://i.imgur.com/FsD09XO.jpg" alt="bratislava">
->
-
-<img src="https://i.imgur.com/fJhXqpn.jpg" alt="bratislava">
->
-
-<img src="https://i.imgur.com/18NGQZw.jpg" alt="bratislava">
->
-
-<img src="https://i.imgur.com/oat4crg.jpg" alt="bratislava">
->
-
-<img src="https://i.imgur.com/rFstiad.jpg" alt="bratislava">
->
+>The Church of St. Elisabeth
 
 <img src="https://i.imgur.com/296xXAj.jpg" alt="bratislava">
->
+>At a Restaurant
 
-<img src="https://i.imgur.com/qSldeDV.jpg" alt="bratislava">
->
 
 <img src="https://i.imgur.com/knusEFJ.jpg" alt="bratislava">
->
+>At St Micheal's Gate
 
-<img src="https://i.imgur.com/jCA23ZS.jpg" alt="bratislava">
->
+<img src="https://i.imgur.com/fJhXqpn.jpg" alt="bratislava">
+>Old bicycles in old town
+
+<img src="https://i.imgur.com/oat4crg.jpg" alt="bratislava">
+>Childrens in the skating ring
+
+
+As we were walking in the city we came across the famous Statue of old Guy peeping out of manhole happily, its called the men at work.
+
+The bridge over the Danube river, with its flying saucer-shaped structure housing a restaurant called "UFO". There is an observation deck on its roof, open from 10:00 – 23:00 daily, offering great views of the old town. Below the bridge is the MOST SNP the local main bus stand of the city.
 
 <img src="https://i.imgur.com/EXkCPfN.jpg" alt="bratislava">
->
+>UFO bridge
 
+<img src="https://i.imgur.com/qSldeDV.jpg" alt="bratislava">
+>Most SNP
+
+<img src="https://i.imgur.com/rFstiad.jpg" alt="bratislava">
+>Men at work
+
+<img src="https://i.imgur.com/jCA23ZS.jpg" alt="bratislava">
+>Written on a Dustbin
 
 <img src="https://i.imgur.com/SdLBG1B.jpg" alt="bratislava">
->
+>Love locks on Dunabe Bridge
 
 
+Bratislava Castle is a major attraction that is easily reachable from the St Micheal Church. To our luck, the Castle had just opened after the reconstruction. One guide told us that in a clear day the castle provides a good view of the city and also of the nearby countries like Austria, Hungary.
 
 
 <img src="https://i.imgur.com/xfMMKoQ.jpg" alt="bratislava">
->
+>Bratislava Castle
+
+<img src="https://i.imgur.com/18NGQZw.jpg" alt="bratislava">
+> The King Over looking his city
 
 <img src="https://i.imgur.com/BQH1ojn.jpg" alt="bratislava">
->
+>St. Martin's cathedral
 
 <img src="https://i.imgur.com/RMw3qFa.jpg" alt="bratislava">
->
+>Boutique Gardens
 
 <img src="https://i.imgur.com/3smOclG.jpg" alt="bratislava">
->
+>Statue of a child singing Flutes
 
 <img src="https://i.imgur.com/clE4Gcs.jpg" alt="bratislava">
->
+>Nice Cabin in the Garden
 
 <img src="https://i.imgur.com/a3hGqcS.jpg" alt="bratislava">
->
-
+>Wall Gardens
 
 <img src="https://i.imgur.com/E2i4FHG.jpg" alt="bratislava">
 >Statue of Crows looking at a lady
 
 <img src="https://i.imgur.com/QajkTGY.jpg" alt="bratislava">
 >Old Ruins in the city
+
+From the Bratislava Castle, we went to Most SNP and took a bus no. 29 to a nearby village where there are the very famous old ruins of Castle Devin. According to the Pamphlet Guide, The site has been settled since the Neolithic Age (11000 BC) and fortified since the Bronze and Iron Age and later by Celts and Romans.
+
+The cliff (elevation 212 meters) was an ideal place for a fort due to its position at the confluence of the Danube and Morava rivers. The fort watches over an important trade route along the Danube as well as one branch of the Amber Road. From the op of the fort, you can see the Austria - Slovakia Border in the middle of the river. Pretty Amazing.
+
 
 <img src="https://i.imgur.com/OtfW5Fn.jpg" alt="bratislava">
 >Walking Up to the Castle
@@ -97,7 +125,7 @@ image:
 | 2.      | Lunch      |7|
 | 3.      | Dinner      |7|
 | 4.      | Breakfast      |4|
-| 5.     | AirBnB     |0|
+| 5.     | Castle fee     |5|
 | 6.      | Momento      |5|
 | 7.      | Bus Tickets       |20|
-||Total|46.5 Euros ~ 3700 INR|
+||Total|51.5 Euros ~ 4100 INR|
