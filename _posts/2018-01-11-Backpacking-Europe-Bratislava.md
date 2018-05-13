@@ -16,7 +16,7 @@ Our bus to Bratislava from Vienna was at 7 am. We woke up on the call of the ala
 
 The weather in Bratislava was a bit foggy. The bus dropped us slightly on the outskirts of the city. From there we took the day ticket the old city. Even though Slovakia is a relative new Country, it gives a good competition to the other fairly developed European Countries.
 
-We reached the old City and started walking. The first strikingly remarkable building we came across was the blue church, we went inside but it was already full of people.
+We reached the old City and started walking. The first strikingly remarkable building we came across was the blue church, we went inside but it was already full of people. The Christmas Market near the fountain was slowly opening up. 
 
 
 **_Read previous Eurotrip Blogs:_**
@@ -98,7 +98,7 @@ Bratislava Castle is a major attraction that is easily reachable from the St Mic
 
 From the Bratislava Castle, we went to Most SNP and took a bus no. 29 to a nearby village where there are the very famous old ruins of Castle Devin. According to the Pamphlet Guide, The site has been settled since the Neolithic Age (11000 BC) and fortified since the Bronze and Iron Age and later by Celts and Romans.
 
-The cliff (elevation 212 meters) was an ideal place for a fort due to its position at the confluence of the Danube and Morava rivers. The fort watches over an important trade route along the Danube as well as one branch of the Amber Road. From the op of the fort, you can see the Austria - Slovakia Border in the middle of the river. Pretty Amazing.
+The cliff (elevation 212 meters) was an ideal place for a fort due to its position at the confluence of the Danube and Morava rivers. Looking like a just out of a scene out of a Game of Thrones episode, the fort watches over an important trade route along the Danube as well as one branch of the Amber Road. From the top of the fort, you can see the Austria - Slovakia Border in the middle of the river. Pretty Amazing.
 
 
 <img src="https://i.imgur.com/OtfW5Fn.jpg" alt="bratislava">
@@ -116,6 +116,8 @@ The cliff (elevation 212 meters) was an ideal place for a fort due to its positi
 
 <img src="https://i.imgur.com/7WXI5av.jpg" alt="bratislava">
 >Bratislava castle in the Night
+
+With Bratislava our Chrismas market city hopping trip came to an end.
 
 *Trip Cost Breakdown Per Person*
 
