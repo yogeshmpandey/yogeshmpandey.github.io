@@ -166,7 +166,7 @@ With the sun going down behind the Windmills. I said goodbye to Amsterdam.
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |7.5|
 | 2.      | Lunch      |6|
 | 3.      | Dinner      |6|

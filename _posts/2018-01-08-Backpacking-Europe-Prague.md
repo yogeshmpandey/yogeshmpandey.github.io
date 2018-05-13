@@ -146,7 +146,7 @@ The city walk from starting to end is captured in these photographs.
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |0|
 | 2.      | Lunch      |5|
 | 3.      | Dinner      |6|

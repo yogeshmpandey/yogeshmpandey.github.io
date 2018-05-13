@@ -119,7 +119,7 @@ In the evening we visited the Christmas Markets of Budapest, By then, I had take
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |5|
 | 2.      | Lunch      |3|
 | 3.      | Dinner      |6|

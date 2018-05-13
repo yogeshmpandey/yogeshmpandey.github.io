@@ -92,7 +92,7 @@ image:
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|:----------:|-:|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |3.5|
 | 2.      | Lunch      |7|
 | 3.      | Dinner      |7|

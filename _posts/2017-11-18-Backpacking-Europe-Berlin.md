@@ -141,7 +141,7 @@ Berlin was Amazing. For me it was reliving the history books and WW2 Docuemntrie
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |7.7|
 | 2.      | Lunch      |5|
 | 3.      | Dinner      |6|

@@ -107,7 +107,7 @@ Milan is Italy's Munich. Called the economic and financial capital of the countr
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |4.5|
 | 2.      | Lunch      |7|
 | 3.      | Dinner      |0|

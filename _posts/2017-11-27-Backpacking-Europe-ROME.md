@@ -143,7 +143,7 @@ Rome would certainly be visited again. The wish gets fulfilled or otherwise.
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
-|----------|----------|-|
+|:----------|:----------:|-:|
 | 1.      | Day Ticket      |7|
 | 2.      | Lunch      |5|
 | 3.      | Dinner      |6|
