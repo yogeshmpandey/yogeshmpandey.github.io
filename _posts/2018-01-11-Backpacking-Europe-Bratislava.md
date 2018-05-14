@@ -35,7 +35,6 @@ We reached the old City and started walking. The first strikingly remarkable bui
 <img src="https://i.imgur.com/296xXAj.jpg" alt="bratislava">
 >At a Restaurant
 
-
 <img src="https://i.imgur.com/knusEFJ.jpg" alt="bratislava">
 >At St Micheal's Gate
 
