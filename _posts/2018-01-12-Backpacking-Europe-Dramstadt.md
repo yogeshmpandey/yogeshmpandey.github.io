@@ -10,9 +10,10 @@ image:
 ---
 <img src="https://i.imgur.com/yF4htGH.jpg" alt="Dramstadt">
 
-**_Read previous Eurotrip Blogs:_**
 
 Thursday, while I was looking at this weekend temperature in Innsbruck, a place that I always wanted to visit, I got a WhatsApp ping that my sister will be visiting Germany for some work. So I planned to visit her city: Darmstadt.
+
+**_Read previous Eurotrip Blogs:_**
 
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>

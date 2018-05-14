@@ -12,6 +12,21 @@ image:
 
 Innsbruck is a colourful, picturesque city nestled in the Austrian Alps. Its biggest draw is its location. Innsbruck sits in a valley and is surrounded by enormous, snow-capped mountains. This is a city with endless views, Sitting between Germany and Italy in Austria. This is the place that gives Switzerland shame in terms of the Natural beauty.
 
+
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
+
+
+
 <img src="https://i.imgur.com/p7ppBk6.jpg" alt="Innsbruck">
 >Hills of  Garmisch Partenkirchen Germany
 
