@@ -52,7 +52,7 @@ Darmstadt is a small quaint city near Frankfurt. The first place we visited in D
 >Sculpture in the City Center
 
 
-From the City Center we went to The Mathildenhöhe neighbourhood. This place is littered with amazing buildings, sadly due to sunset I was not able to take good pictures. But, If there’s one sight that cannot be missed in Mathildenhöhe it’s Olbrich’s iconic Hochzeitsturm (Wedding Tower). The tower is just shy of 50 metres tall and has a striking build. Other than that we visited the Golden Russian Chapel and park which has neatly aligned trees. It is said that all of the building materials for the church was sourced in Russia, and the building is even claimed to have been built on Russian soil transported here by rail.
+From the City Center we went to The Mathildenhöhe neighbourhood. This place is littered with amazing buildings, sadly due to sunset, I was not able to take good pictures. But, If there’s one sight that cannot be missed in Mathildenhöhe it’s Olbrich’s iconic Hochzeitsturm (Wedding Tower). The tower is just shy of 50 metres tall and has a striking build. Other than that we visited the Golden Russian Chapel and park which has neatly aligned trees. It is said that all of the building materials for the church was sourced in Russia, and the building is even claimed to have been built on Russian soil transported here by rail.
 
 <img src="https://i.imgur.com/5kRsPLj.jpg" alt="Dramstadt">
 >Russian Chapel Darmstadt
@@ -61,3 +61,11 @@ From the City Center we went to The Mathildenhöhe neighbourhood. This place is 
 >Park near The Mathildenhöhe
 
 It was a small visit to the Town. In the night, my sister made delicious Kumaoni Food, madue ki roti, and bhat ki dal. I felt like going back to India ASAP.
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|:----------|:----------:|-:|
+| 1.      | Day Ticket      |3.5|
+| 2.      | Bus Tickets       |12|
+||Total|15.5 Euros ~ 1240 INR|
