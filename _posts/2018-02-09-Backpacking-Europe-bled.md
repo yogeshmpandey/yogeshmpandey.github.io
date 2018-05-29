@@ -63,9 +63,9 @@ One local Guide at the top told that “If you get married on that small island,
 
 For reaching the island one has to pay 15 Euros for a 10-minute boat ride. Which I felt was a Tourist Trap. So we decided to skip the island and continue with our walk around the lake.
 
-We started the descent and it was way scarier than the ascend. Coming down felt like walking down on an oil-covered road that is tilted at 75 degrees. It was unimaginable slippery. Then I decided to take the path where there is fresh snow so that I can get some fiction. I moved away from the group inside the forest. It was probably a bad decision:bust_in_silhouette: . The snow was really fresh and I was not able to figure out the depth. After a few steps, I fell, I fell from a freaking mountain. When I reached down, my thigh was heavily bruised. I thanked the stars that there was no major injury.
+We started the descent and it was way scarier than the ascend. Coming down felt like walking down on an oil-covered road that is tilted at 75 degrees. It was unimaginable slippery. Then I decided to take the path where there was fresh snow so that I can get some fiction. I moved away from the group inside the forest. It was probably a bad decision . The snow was really fresh and I was not able to figure out the depth. After a few steps, I fell, I fell from a freaking mountain. When I reached down, my thigh was heavily bruised. I thanked the stars that there was no major injury.
 
- Although I was limping, I was the first person to descend.
+ Although I was limping, I was the first person to descend.:stuck_out_tongue_winking_eye:
 
 <img src="https://i.imgur.com/aACxfck.jpg" alt="BLED">
 >Hiking to Ojstrica
