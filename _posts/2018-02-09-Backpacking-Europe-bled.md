@@ -51,7 +51,7 @@ We were stranded at the bus stop. But then he stopped the bus because he had for
 <img src="https://i.imgur.com/SEOMLph.jpg" alt="BLED">
 >Ducks in the Cold water
 
-The circumference of the lake is around 7 km. Halfway through this is a steep hike towards Ojstrica. The people who were coming down told us not to go up as it was already 1 pm and snow was melting, making the who path pretty slippery. Due to this the path towards the Osojnica (another vantage point) was closed. But we started to ascend.
+The circumference of the lake is around 7 km. Halfway through the lake is a steep hike towards Ojstrica. The people who were coming down told us not to go up as it was already 1 pm and snow was melting, making the path pretty slippery. Due to this the path towards the Osojnica (another vantage point) was closed. But we started to ascend.
 
 I was indeed very slippery, I was wearing plain sneakers, which had a flat sole. This made the hike frictionless. I was skidding, slipping in every step I took. Somehow, I grabbed the branches and twigs to make it to the top. Remembering that hike today still gives me chills.
 
