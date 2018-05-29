@@ -15,6 +15,23 @@ After a refreshing stay in Ljubljana, We packed our bags and headed towards the 
 
 Later in the previous night, we booked the bus to Bled from Ljubljana. Little did we knew, the bus conductor rejected our online tickets and asked us to get the printed one. I was like Dude ! from where will I bring printed tickets in 5 minutes :rage:   :triumph: . In the meantime the driver got busy in checking in rest of the passengers and  we were busy searching for the print shop. Thankfully we found one, got our tickets printed and ran back to the bus stand. Just as we reached the bus station the driver started the bus and didn't let us in.
 
+
+**_Read previous Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
+
+
 We were stranded at the bus stop. But then he stopped the bus because he had forgotten to close the side bunker where luggage is kept. We ran and entered the bus and grabbed our seats, It was an amazing feeling, like stars conspiring to make our journey a success. Within an hour the bus dropped us in Bled.
 
 <img src="https://i.imgur.com/V4yBB0V.jpg" alt="BLED">
@@ -81,3 +98,13 @@ We reached to the base and finished our walk of the lake. It was 3 pm now and we
 >Bled Cream cake
 
 While I write this I find myself standing on that hilltop, my eyes fixated down on the island watching the tiny boats that looked like dots in the blue water of the turquoise lake.  
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Euros) |
+|:----------|:----------:|-:|
+| 1.      | Lunch      |5|
+| 2.      | Dinner      |6|
+| 3.      | Breakfast      |5.5|
+| 4.      | Tickets to Bled      |10|
+||Total|26.5Euros ~ 2K INR|
