@@ -19,7 +19,6 @@ Later in the previous night, we booked the bus to Bled from Ljubljana. Little di
 **_Read previous Eurotrip Blogs:_**
 
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
-
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
