@@ -9,7 +9,7 @@ image:
   background: witewall_3.png
 ---
 
-I lived in Munich for little less than a year that gave me an amazing opportunity to explore Europe. This blog post is not for a journey, rather it is a snippet of different parts of Munich, Call it a photo story.
+I lived in Munich for little less than a year that gave me an amazing opportunity to explore Europe. This blog post is not about a journey, rather it is a snippet of different parts of Munich, call it a photo story.
 
 <img src="https://i.imgur.com/jSvkt8q.jpg" alt="Munich">
 >Marinpltz at Night
