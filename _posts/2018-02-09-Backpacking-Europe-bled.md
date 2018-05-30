@@ -53,7 +53,7 @@ We were stranded at the bus stop. But then he stopped the bus because he had for
 
 The circumference of the lake is around 7 km. Halfway through the lake is a steep hike towards Ojstrica. The people who were coming down told us not to go up as it was already 1 pm and snow was melting, making the path pretty slippery. Due to this the path towards the Osojnica (another vantage point) was closed. But we started to ascend.
 
-I was indeed very slippery, I was wearing plain sneakers, which had a flat sole. This made the hike frictionless. I was skidding, slipping in every step I took. Somehow, I grabbed the branches and twigs to make it to the top. Remembering that hike today still gives me chills.
+It was indeed very slippery, I was wearing plain sneakers, which had a flat sole. This made the hike frictionless. I was skidding, slipping in every step I took. Somehow, I grabbed the branches and twigs to make it to the top. Remembering that hike today still gives me chills.
 
 We somehow reached the top and the aerial view of the entire Lake Bled landscape was well worth the sweat.
 
