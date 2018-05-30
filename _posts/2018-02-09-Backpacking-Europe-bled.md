@@ -11,9 +11,9 @@ image:
 
 <img src="https://i.imgur.com/r1CEvG1.jpg" alt="BLED">
 
-After a refreshing stay in Ljubljana, We packed our bags and headed towards the most iconic and popular tourist destination in Slovenia - Lake Bled. I still remember, I first saw lake bled in some Calendar at my home. Since then the longing to visit that image of a small island between a serene lake surrounded by tall mountains was there somewhere in my heart.
+After a refreshing stay in Ljubljana, We packed our bags and headed towards the most iconic and popular tourist destination in Slovenia - Lake Bled. I still remember when I first saw lake bled in some Calendar at my home. Since then the longing to visit that image of a small island between a serene lake surrounded by tall mountains was there somewhere in my heart.
 
-Later in the previous night, we booked the bus to Bled from Ljubljana. Little did we knew, the bus conductor rejected our online tickets and asked us to get the printed one. I was like Dude ! from where will I bring printed tickets in 5 minutes :rage:   :triumph: . In the meantime the driver got busy in checking in rest of the passengers and  we were busy searching for the print shop. Thankfully we found one, got our tickets printed and ran back to the bus stand. Just as we reached the bus station the driver started the bus and didn't let us in.
+Later in the previous night, we booked the bus to Bled from Ljubljana. Little did we knew, the bus conductor rejected our online tickets and asked us to get the printed one. I was like... Dude ! from where will I bring printed tickets in 5 minutes :rage: :triumph: . In the meantime the driver got busy in checking in rest of the passengers and  we were busy searching for the print shop. Thankfully we found one, got our tickets printed and ran back to the bus stand. Just as we reached the bus station the driver started the bus and didn't let us in.
 
 
 **_Read previous Eurotrip Blogs:_**
