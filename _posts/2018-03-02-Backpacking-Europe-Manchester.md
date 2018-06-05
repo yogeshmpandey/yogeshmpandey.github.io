@@ -8,47 +8,48 @@ tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
+
+<img src="https://i.imgur.com/B4RNgzh.jpg" alt="MANCHESTER">
+
+
 <img src="https://i.imgur.com/zG0TT5y.jpg" alt="MANCHESTER">
->
+>Walking in the City
 
 <img src="https://i.imgur.com/XcKYD9P.jpg" alt="MANCHESTER">
->
+>Alan Turing Memorial
 
 <img src="https://i.imgur.com/EL0MsrY.jpg" alt="MANCHESTER">
->
+>Old Painting Praising the train Journey
 
 <img src="https://i.imgur.com/ueqF8Xg.jpg" alt="MANCHESTER">
->
+>Graffiti Near a Pub
 
 <img src="https://i.imgur.com/c1xidr4.jpg" alt="MANCHESTER">
->
+>Written somewhere in the Museum
 
 <img src="https://i.imgur.com/W6zP36v.jpg" alt="MANCHESTER">
->
+>Manchester Church
 
 <img src="https://i.imgur.com/cu6Ezcz.jpg" alt="MANCHESTER">
->
+>lanes of Manchester
 
 <img src="https://i.imgur.com/xsn3Hgt.jpg" alt="MANCHESTER">
->
+>Old Warehouse converted to Market
 
 <img src="https://i.imgur.com/VMiBymu.jpg" alt="MANCHESTER">
->
+>Chinatown
+
+<img src="https://i.imgur.com/Rnb9sM3.jpg" alt="MANCHESTER">
+>Entering Museum of science and Technology
 
 <img src="https://i.imgur.com/xmwHjDB.jpg" alt="MANCHESTER">
->
+>old Gliders
 
 <img src="https://i.imgur.com/h2zbK0f.jpg" alt="MANCHESTER">
->
+>One of the Oldest Computers
 
 <img src="https://i.imgur.com/Krb1DbP.jpg" alt="MANCHESTER">
 >
 
 <img src="https://i.imgur.com/PCixVlU.jpg" alt="MANCHESTER">
->
-
-<img src="https://i.imgur.com/B4RNgzh.jpg" alt="MANCHESTER">
->
-
-<img src="https://i.imgur.com/Rnb9sM3.jpg" alt="MANCHESTER">
 >
