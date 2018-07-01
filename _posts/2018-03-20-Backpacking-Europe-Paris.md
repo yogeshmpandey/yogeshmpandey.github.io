@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Backpacking Europe:  Paris"
-date:   2018-03-20 04:52:38
+date:   2018-03-18 04:52:38
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
