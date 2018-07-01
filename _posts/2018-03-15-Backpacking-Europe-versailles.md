@@ -89,7 +89,7 @@ This is my Photo Journey in the Palace of Versailles.
 
 *Trip Cost Breakdown Per Person*
 
-| S.No | Activity|Cost (In Pound) |
+| S.No | Activity|Cost (In Euros) |
 |:----------|:----------:|-:|
 | 1.      | Train Tickets and bus tickets including return    |50|
 | 2.      |   Breakfast    |5|

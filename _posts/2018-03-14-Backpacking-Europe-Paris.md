@@ -123,7 +123,7 @@ This is our Photo Journey for a day in Pari
 
 *Trip Cost Breakdown Per Person*
 
-| S.No | Activity|Cost (In Pound) |
+| S.No | Activity|Cost (In Euros) |
 |:----------|:----------:|-:|
 | 1.      | Metro Tickets and bus tickets including return    |47.5|
 | 2.      |   Breakfast    |5|
