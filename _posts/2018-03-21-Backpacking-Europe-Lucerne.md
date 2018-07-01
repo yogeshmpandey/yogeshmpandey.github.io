@@ -46,7 +46,7 @@ We reached Lucerne from Zurich in the evening. We had booked a Korean Hostel (Go
 <img src="https://i.imgur.com/UeG8tRq.jpg" alt="Lucerne">
 >Iconic Views of Mount Pilatus from Hostel
 
-The hostel provided nice and hot Korean Fried Rice in the morning, and after having lunch we started our walk from the city walls (Museggmauer). We visited Hofkirche St. Leodegar, a Roman Catholic church whose site has been occupied since at least as far back as the 8th century. we tried to go to the top of a monument but in the morning all of them were closed. Nevertheless, the view of the city was absolutely stunning from below as well.
+The hostel provided nice and hot Korean Fried Rice in the morning, and after having breakfast, we started our walk from the city walls (Museggmauer). We visited Hofkirche St. Leodegar, a Roman Catholic church whose site has been occupied since at least as far back as the 8th century. we tried to go to the top of a monument but in the morning all of them were closed. Nevertheless, the view of the city was absolutely stunning from below as well.
 
 We wanted to visit the top of Mount Pilatus but couldn't do so because of the time constraint.
 
