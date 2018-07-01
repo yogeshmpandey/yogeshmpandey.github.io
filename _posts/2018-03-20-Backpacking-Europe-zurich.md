@@ -93,8 +93,5 @@ This is my Photo Journey in the beautiful city of Zurich
 |:----------|:----------:|-:|
 | 1.      | Bus tickets   |14|
 |2.      |    Lunch   |15|
-| 4.      | Momento      |5|
+| 3.      | Momento      |5|
 ||Total| 34 Euros  ~ 3116 INR|
-
-
-In the evening we started for our next destination: Luzern
