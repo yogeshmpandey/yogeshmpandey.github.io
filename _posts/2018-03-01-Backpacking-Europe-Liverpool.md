@@ -10,7 +10,7 @@ image:
 ---
 <img src="https://i.imgur.com/591BHiV.jpg" alt="Liverpool">
 
-While I was in Munich, I got an opportunity to visit United Kingdom for business visit. During the visit I was able to spare three days to visit the Country. I arrived in Manchester and after finishing my work I headed towards Liverpool on Friday Morning. UK in comparison to the other EU states looked more Grandesque and elegant.
+While I was in Munich, I got an opportunity to visit the United Kingdom for a business visit. During the visit, I was able to spare three days to visit the Country. I arrived in Manchester and after finishing my work I headed towards Liverpool on Friday Morning. UK in comparison to the other EU states looked more Grandesque and elegant.
 
 While I was in the UK the Weather was not good, the temperature was freezing cold and Public transportation was interrupted due to the snowstorm. I booked the tickets to Liverpool and the journey began. Knowing that the first intercity train ran between Liverpool and Manchester made the journey more enriching and memorable.
 
@@ -31,9 +31,9 @@ While I was in the UK the Weather was not good, the temperature was freezing col
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
 
 
-Coming out of the central train station, I reached William Brown Street. This street had a lot of historic Buildings. The first building I visited was the Central Library. The Interiors of Library made my jaw drop. It was a free to use library and had atrium staircase, an amazing classic architecture with the touches of modernism.
+Coming out of the central train station, I reached William Brown Street. This street had a lot of Historic Buildings. The first building I visited was the Central Library. The Interiors of Library made my jaw drop. It was free to use library and had atrium staircase, an amazing classic architecture with the touches of modernism.
 
-Along side the Library, I visited the World Museum. It had collections from archaeology, ethnology and the natural and physical sciences. Special attractions include the Natural History Centre and a planetarium.
+Alongside the Library, I visited the World Museum. It had collections from archaeology, ethnology and the natural and physical sciences. Special attractions include the Natural History Centre and a planetarium.
 
 <img src="https://i.imgur.com/s3NdGVH.jpg" alt="Liverpool">
 >Lanes of Liverpool
@@ -59,7 +59,7 @@ Along side the Library, I visited the World Museum. It had collections from arch
 <img src="https://i.imgur.com/0BZBd5f.jpg" alt="Liverpool">
 >Evolution of Humans
 
-The weather on the outside was still pretty gloomy, So on the right I walked into Walker Art Gallery. It was interesting to see a free Gallery that hoisted art from Pre-Raphaelite Collection to the 20th century artistes including major sculpture. Also, the best thing was that unlike other art galleries in EU you can actually understand the meaning of the art by looking at the captions.
+The weather on the outside was still pretty gloomy, So on the right, I walked into Walker Art Gallery. It was interesting to see a free Gallery that hoisted art from Pre-Raphaelite Collection to the 20th-century artists including major sculpture. Also, the best thing was that unlike other art galleries in EU you can actually understand the meaning of the art by looking at the captions.
 
 <img src="https://i.imgur.com/1bh1Etd.jpg" alt="Liverpool">
 >Elephant Teeths in the Museums
@@ -82,7 +82,7 @@ The weather on the outside was still pretty gloomy, So on the right I walked int
 <img src="https://i.imgur.com/ZFWZMjv.jpg" alt="Liverpool">
 >Portraits inside walker Art Gallery
 
-It was later in the after noon that the sun came up and I walked towards the Liverpool Waterfront. The place has some astonishing buildings that would suit the description of Howard Roark building in The fountainhead. I reached The Albert dock and visited the Merseyside Maritime Museum, the Beatles Story and the Tate Liverpool Museum.
+It was later in the afternoon that the sun came up and I walked towards the Liverpool Waterfront. The place has some astonishing buildings that would suit the description of Howard Roark building in The Fountainhead. I reached The Albert dock and visited the Merseyside Maritime Museum, the Beatles Story and the Tate Liverpool Museum.
 
 <img src="https://i.imgur.com/m1hiqdb.jpg" alt="Liverpool">
 >Liverpool Museum
@@ -93,7 +93,7 @@ It was later in the after noon that the sun came up and I walked towards the Liv
 <img src="https://i.imgur.com/Xr6gVOv.jpg" alt="Liverpool">
 >Royal Liver Building
 
-After the sun sat down, and it grew darker the view of the buildings became more vivid. In the black canvas of the night the golden buildings with reflection in the sea stood apart in their historic glory.
+After the sun sat down, and it grew darker the view of the buildings became more vivid. In the black canvas of the night, the golden buildings with reflection in the sea stood apart in their historic glory.
 
 <img src="https://i.imgur.com/ke807g4.jpg" alt="Liverpool">
 >Liverpool in Night
@@ -103,3 +103,13 @@ After the sun sat down, and it grew darker the view of the buildings became more
 
 <img src="https://i.imgur.com/zX7uec0.jpg" alt="Liverpool">
 >Amazing Views Of Liverpool
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Pound) |
+|:----------|:----------:|-:|
+| 1.      | Train Tickets      |24|
+| 2.      | Lunch      |5|
+| 3.      | Dinner      |6|
+| 4.      | Momento      |5|
+||Total| 40 Pound  ~ 3616 INR|
