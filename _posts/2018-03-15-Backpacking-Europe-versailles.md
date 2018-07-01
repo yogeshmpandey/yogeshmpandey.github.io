@@ -18,6 +18,25 @@ There is not much to explore than the Palace of Versailles.
 
 The palace is a French Historic Monument and a UNESCO World Heritage Site, notable especially for the Ceremonial Hall of Mirrors, the Opera theatre, and royal apartments and the most prominent vast Gardens of Versailles (2000+ acres!) with fountains, canals, and geometric flower beds and groves.
 
+**_Read previous Eurotrip Blogs:_**
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
+
+
 This is my Photo Journey in the Palace of Versailles.
 
 <img src="https://i.imgur.com/UD6sQYe.jpg" alt="Versallies">
@@ -67,3 +86,13 @@ This is my Photo Journey in the Palace of Versailles.
 
 <img src="https://i.imgur.com/VUulS5S.jpg" alt="Versallies">
 >View of the Amazing Manicured Gardens
+
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In Pound) |
+|:----------|:----------:|-:|
+| 1.      | Train Tickets and bus tickets including return    |50|
+| 2.      |   Breakfast    |5|
+| 3.      |    Lunch   |6|
+| 4.      | Momento      |5|
+||Total| 66 Euros  ~ 5216 INR|
