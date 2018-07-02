@@ -4,7 +4,7 @@ title:  "Shrivardhan And Harihareshwar"
 date:   2018-04-18 03:52:38
 categories: Travel
 hidden: true
-tags: [Travel, Backpacking, Friends, Photoblog, WeekendDiaries]
+tags: [Travel, Backpacking, Beaches, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
@@ -55,11 +55,11 @@ We visited the temple and followed the "pradakshina" route behind. This is where
 <img src="https://i.imgur.com/2ZojFNL.jpg" alt="shrivardhan">
 >Harihareshwar Temples
 
-<img src="https://i.imgur.com/2Jthha8.jpg" alt="shrivardhan">
->Patterns created by the waves.
-
 <img src="https://i.imgur.com/SMepHNC.jpg" alt="shrivardhan">
 >Stairs to the beach from the temple
+
+<img src="https://i.imgur.com/2Jthha8.jpg" alt="shrivardhan">
+>Patterns created by the waves.
 
 <img src="https://i.imgur.com/b0EUO0s.jpg" alt="shrivardhan">
 >Resort Huts near the Beach
