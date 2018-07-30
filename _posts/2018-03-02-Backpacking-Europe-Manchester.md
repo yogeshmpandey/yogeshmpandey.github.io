@@ -13,7 +13,12 @@ image:
 
 It was  evening in Liverpool and I was waiting for my bus to London. After waiting for an hour, I received a message that the bus had been cancelled. There were no trains back to Manchester and I had no place to spend the night. Gloomy and sad I went to the MacDonald and ordered a big coffee to keep me awake for the night. I Opened the AirBnB app and there was no cheap accommodation available nearby. I decided to stay at the Macdonald for the night and start early morning back to Manchester. I took early morning train and booked an AirBnB while on the train. After reaching the AirBnB, I slept for the entire Day, Next Day I left the Airbnb and went to explore the city.
 
-**_Read previous Eurotrip Blogs:_**
+**_Read other Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>

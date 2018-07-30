@@ -2,7 +2,7 @@
 layout: post
 title:  "Conquering Nag Tibba"
 date:   2016-03-28 00:23:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

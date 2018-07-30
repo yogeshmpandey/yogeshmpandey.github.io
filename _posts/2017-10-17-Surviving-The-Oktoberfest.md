@@ -2,7 +2,7 @@
 layout: post
 title:  "Surviving The Oktoberfest"
 date:   2017-10-17 03:52:38
-categories: Life
+categories: Travel
 tags: [Travel, Europe, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png

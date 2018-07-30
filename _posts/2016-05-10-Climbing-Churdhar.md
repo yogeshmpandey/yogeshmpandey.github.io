@@ -2,8 +2,8 @@
 layout: post
 title:  "Climbing Churdhar"
 date:   2016-05-11 00:23:40
-categories: travel
-tags: [Travel, Trekking, Shivalik, Himalayas, Friends , Photoblog, WeekendDiaries]
+categories: Travel
+tags: [Travel, Trekking, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---

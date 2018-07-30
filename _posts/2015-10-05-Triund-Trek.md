@@ -3,7 +3,7 @@ layout: post
 title:  "
 Triund Trek"
 date:   2015-10-05 00:02:38
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Himachal, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

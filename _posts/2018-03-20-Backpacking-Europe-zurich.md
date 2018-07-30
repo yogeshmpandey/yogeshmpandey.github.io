@@ -18,8 +18,9 @@ The one thing that stood out just as we stepped in Zurich was that the city was 
 It was a quick Day trip to the City, We walked and covered the Major Attractions including Grossmünster, Old Town, St Peter's Church and many others
 
 
-**_Read previous Eurotrip Blogs:_**
+**_Read other Eurotrip Blogs:_**
 
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
@@ -37,7 +38,6 @@ It was a quick Day trip to the City, We walked and covered the Major Attractions
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
-
 
 This is my Photo Journey in the beautiful city of Zurich
 

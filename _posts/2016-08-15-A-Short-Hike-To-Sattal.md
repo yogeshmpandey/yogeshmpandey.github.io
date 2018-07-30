@@ -2,7 +2,7 @@
 layout: post
 title:  "A Short Hike To Sattal"
 date:   2016-08-15 00:12:40
-categories: travel
+categories: Travel
 tags: [Travel, Hiking , Uttarakhand, Himalayas , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

@@ -2,7 +2,7 @@
 layout: post
 title:  "August Books"
 date:   2015-09-08 00:19:38
-categories: books
+categories: Life
 tags: [Life, Learning, Books]
 image:
   background: ps_neutral.png

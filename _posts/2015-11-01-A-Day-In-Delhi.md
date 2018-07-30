@@ -2,7 +2,7 @@
 layout: post
 title:  "A Day in Delhi"
 date:   2015-11-02 00:23:40
-categories: travel
+categories: Travel
 tags: [Travel, Delhi-NCR, Friends , Photoblog, WeekendDiaries]
 image:
   background: LXmxZKh.jpg

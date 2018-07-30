@@ -2,7 +2,7 @@
 layout: post
 title:  "The Kedarkantha Chronicles"
 date:   2017-02-02 00:22:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, High Altitude]
 image:
   background: ps_neutral.png

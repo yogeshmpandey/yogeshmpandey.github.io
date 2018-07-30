@@ -2,7 +2,7 @@
 layout: post
 title:  "Dolce Far Niente, in Dundhi"
 date:   2017-07-11 09:30:40
-categories: travel
+categories: Travel
 tags: [Travel, RoadTrip, Trekking, Himachal, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "my last tie"
+title:  "My Last tie"
 date:   2015-03-10 23:52:38
-tags: [Life, Learning, Motivation]
-categories: personal
+tags: [Life]
+categories: Life
 ---
 
 

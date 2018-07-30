@@ -2,7 +2,7 @@
 layout: post
 title:  "Rhyming Words"
 date:   2015-11-29 00:23:40
-categories: tech
+categories: Tech
 tags: [DIY, Coding]
 image:
   background: 2Nrxex6.jpg

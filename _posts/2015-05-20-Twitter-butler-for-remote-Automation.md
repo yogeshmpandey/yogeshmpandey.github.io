@@ -2,7 +2,7 @@
 layout: post
 title:  "Twitter Butler"
 date:   2015-05-24 20:52:38
-categories: coding
+categories: Tech
 tags: [Coding, Learning, DIY]
 image:
   background: witewall_3.png

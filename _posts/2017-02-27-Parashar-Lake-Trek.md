@@ -2,7 +2,7 @@
 layout: post
 title:  "Finally: Parashar Lake"
 date:   2017-02-27 00:20:20
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Himachal, Himalayas, Friends, Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

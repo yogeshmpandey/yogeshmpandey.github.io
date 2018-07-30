@@ -18,7 +18,10 @@ There is not much to explore than the Palace of Versailles.
 
 The palace is a French Historic Monument and a UNESCO World Heritage Site, notable especially for the Ceremonial Hall of Mirrors, the Opera theatre, and royal apartments and the most prominent vast Gardens of Versailles (2000+ acres!) with fountains, canals, and geometric flower beds and groves.
 
-**_Read previous Eurotrip Blogs:_**
+**_Read other Eurotrip Blogs:_**
+
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>

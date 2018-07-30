@@ -2,8 +2,8 @@
 layout: post
 title:  "Tamilnadu Trails"
 date:   2015-09-01 00:02:38
-categories: travel
-tags: [Travel, Tamilnadu, Beaches, Waterfalls, Friends , Photoblog, WeekendDiaries]
+categories: Travel
+tags: [Travel, Beaches, Waterfalls, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---

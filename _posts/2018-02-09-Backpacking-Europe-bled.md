@@ -15,9 +15,15 @@ After a refreshing stay in Ljubljana, We packed our bags and headed towards the 
 
 Later in the previous night, we booked the bus to Bled from Ljubljana. Little did we knew, the bus conductor rejected our online tickets and asked us to get the printed one. I was like... Dude ! from where will I bring printed tickets in 5 minutes :rage: :triumph: . In the meantime the driver got busy in checking in rest of the passengers and  we were busy searching for the print shop. Thankfully we found one, got our tickets printed and ran back to the bus stand. Just as we reached the bus station the driver started the bus and didn't let us in.
 
+**_Read other Eurotrip Blogs:_**
 
-**_Read previous Eurotrip Blogs:_**
-
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
++ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>

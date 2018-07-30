@@ -2,7 +2,7 @@
 layout: post
 title:  "Beaches of Ratnagiri: A Photostory"
 date:   2017-03-11 00:00:40
-categories: travel
+categories: Travel
 tags: [Travel, RoadTrip, Maharashtra, Beaches, Friends, Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

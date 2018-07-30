@@ -15,7 +15,7 @@ A lake, a river, snowcapped mountains, beautiful bridges, an attractive old town
 
 We reached Lucerne from Zurich in the evening. We had booked a Korean Hostel (Google: Hostel Bellpark )in the city which provided the day tickets to the city free of cost. Just as we reached the city we went to the lake promenade to enjoy the beautiful views of the Alps.
 
-**_Read previous Eurotrip Blogs:_**
+**_Read other Eurotrip Blogs:_**
 
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
 + <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>

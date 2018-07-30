@@ -2,7 +2,7 @@
 layout: post
 title:  "Emotions in German TV Channels "
 date:   2017-12-03 20:52:38
-categories: coding
+categories: Tech
 tags: [Coding, Learning, DIY]
 image:
   background: witewall_3.png

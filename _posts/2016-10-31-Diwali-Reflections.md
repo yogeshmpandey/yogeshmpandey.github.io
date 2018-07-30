@@ -2,7 +2,7 @@
 layout: post
 title:  "Diwali : Reflections"
 date:   2016-10-31 00:12:40
-categories: personal
+categories: Life
 tags: [Life, Learning]
 image:
   background: ps_neutral.png

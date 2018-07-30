@@ -2,7 +2,7 @@
 layout: post
 title:  "January Books"
 date:   2016-01-28 00:7:40
-categories: books
+categories: Life
 tags: [Learning, Books]
 image:
   background: 2Nrxex6.jpg

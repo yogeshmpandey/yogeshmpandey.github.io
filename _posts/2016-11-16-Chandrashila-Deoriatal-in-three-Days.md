@@ -2,7 +2,7 @@
 layout: post
 title:  "Chandrashila-Deoriatal-in-three-Days."
 date:   2016-11-16 00:22:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

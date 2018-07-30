@@ -2,7 +2,7 @@
 layout: post
 title:  "Happy Birthday"
 date:   2015-09-16 00:00:33
-categories: tech
+categories: Tech
 tags: [Life, Learning, Coding, DIY]
 image:
   background: ps_neutral.png

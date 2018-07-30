@@ -2,7 +2,7 @@
 layout: post
 title:  "Zero to One"
 date:   2015-10-25 00:02:38
-categories: books
+categories: Life
 tags: [Learning, Books]
 image:
   background: ps_neutral.png

@@ -2,7 +2,7 @@
 layout: post
 title:  "Jammu & Kashmir : First Trip"
 date:   2016-02-16 00:23:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Jammu, Himalayas, Friends , Photoblog]
 image:
   background: ps_neutral.png

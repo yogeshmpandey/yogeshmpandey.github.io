@@ -2,7 +2,7 @@
 layout: post
 title:  "Cycling to Aravalli Biodiversity Park"
 date:   2017-03-01 00:00:40
-categories: travel
+categories: Travel
 tags: [Cycling, Photoblog]
 image:
   background: ps_neutral.png

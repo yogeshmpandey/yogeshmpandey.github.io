@@ -2,7 +2,7 @@
 layout: post
 title:  "Manali Rohtang Trip"
 date:   2015-06-19 20:12:38
-categories: travel
+categories: Travel
 tags: [Travel, RoadTrip, Himachal, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

@@ -1,0 +1,20 @@
+---
+layout: post-index
+permalink: /categories/
+title: Categories
+comments: false
+
+---
+
+{% for category in site.categories %}
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+<article>
+<h2 id="{{ this_word }}" class="tag-heading">{{ category_name }}</h2>
+ <ul>
+    {% for post in site.categories[category_name] %}
+         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+    {% endfor %}
+</ul>
+</article>
+{% endfor %}
+

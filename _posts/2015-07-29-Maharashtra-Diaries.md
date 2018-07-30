@@ -2,7 +2,7 @@
 layout: post
 title:  "Maharashtra Diaries"
 date:   2015-07-29 23:12:38
-categories: travel
+categories: Travel
 tags: [Travel, Beaches, Maharashtra, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

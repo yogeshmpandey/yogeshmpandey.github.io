@@ -2,7 +2,7 @@
 layout: post
 title:  "Graduating C25K"
 date:   2015-11-10 00:23:40
-categories: life
+categories: Life
 tags: [Life, Learning]
 image:
   background: triangular.png

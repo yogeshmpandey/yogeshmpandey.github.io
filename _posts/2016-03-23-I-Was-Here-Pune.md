@@ -2,7 +2,7 @@
 layout: post
 title:  "I Was Here : Pune"
 date:   2016-03-23 00:23:40
-categories: travel
+categories: Travel
 tags: [Travel, Maharashtra, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

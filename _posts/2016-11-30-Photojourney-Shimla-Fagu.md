@@ -2,7 +2,7 @@
 layout: post
 title:  "Photojourney: Shimla and Fagu"
 date:   2016-11-30 00:22:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Himachal , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

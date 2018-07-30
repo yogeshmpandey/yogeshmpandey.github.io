@@ -2,7 +2,7 @@
 layout: post
 title:  "The Roopkund Ramble"
 date:   2016-06-06 00:22:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, High Altitude]
 image:
   background: ps_neutral.png

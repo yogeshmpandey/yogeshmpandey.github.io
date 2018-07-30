@@ -2,7 +2,7 @@
 layout: post
 title:  "Diving in Dudhsagar"
 date:   2017-04-02 00:00:40
-categories: travel
+categories: Travel
 tags: [Travel, RoadTrip, Goa, Karnataka, Waterfalls, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png

@@ -2,7 +2,7 @@
 layout: post
 title:  "A Weekend in Jaipur"
 date:   2015-12-31 00:7:40
-categories: travel
+categories: Travel
 tags: [Travel, Trekking, Rajasthan, Friends, Forts, Photoblog, WeekendDiaries]
 image:
   background: 2Nrxex6.jpg
