@@ -3,7 +3,7 @@ layout: post
 title:  "Almora: Tracing back the roots"
 date:   2015-11-18 00:23:40
 categories: Travel
-tags: [Travel, RoadTrip, Uttarakhand, Himalayas, Family , Photoblog, WeekendDiaries]
+tags: [Travel, RoadTrip, Uttarakhand, Himalayas , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---

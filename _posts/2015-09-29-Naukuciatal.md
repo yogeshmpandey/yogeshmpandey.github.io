@@ -3,7 +3,7 @@ layout: post
 title:  "Naukuchiatal Trip"
 date:   2015-09-29 00:19:38
 categories: Travel
-tags: [Travel, Hiking, Uttarakhand, Himalayas, Family, Friends , Photoblog, WeekendDiaries]
+tags: [Travel, Trekking, Uttarakhand, Himalayas, Friends , Photoblog, WeekendDiaries]
 image:
   background: ps_neutral.png
 ---
