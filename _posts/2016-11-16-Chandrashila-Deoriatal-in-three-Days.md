@@ -15,7 +15,7 @@ With the world turning upside down and Delhi becoming a gas chamber, I knew it w
 
 I had always heard from my elder cousins about the Grandeur of the Himalayas seen from Chandrashila top. And indeed I had a strong desire to visit the same. The Chopta-Chandrashila-Deoriatal circuit is usually done in 5 days but we had only three days to complete it. As an independent trek, we didn't had a plan as such. We had booked the tickets to Rishikesh 3 days prior to the trip, rest of the plan that followed was extemporaneous.
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1J4newa1Lz5fSx8SFRfnPuW_uJfg" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1J4newa1Lz5fSx8SFRfnPuW_uJfg" width="900" height="600"></iframe>
 
 >Our Trail Map
 

@@ -2,13 +2,15 @@
 layout: page
 title: About
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-
+  feature: 4.jpg
+  credit: Yogesh Pandey
 comments: false
-modified: 2015-03-24
 ---
 
-Hi there Welcome to my online refuge. This place serves as a medium to my thoughts and other mediocre but interesting stuff.
+Hi There,
+
+Welcome to my online refuge.
+ 
+This place serves as a medium to my thoughts, and other mediocre but interesting stuff that I manage to do in my rather lazy life.
 
 Thanks for reading!

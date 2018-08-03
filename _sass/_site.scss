@@ -84,15 +84,29 @@
 
 }
 
+@media screen and (max-device-width: 500px) {
 .centered {
     position: absolute;
-    font-size: 33px;
+    font-size: 1.5em;
     color:white !important;
     font-family: 'Surfing_Capital', Fallback, sans-serif;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
+}
+
+.centered {
+    position: absolute;
+    font-size: 3em;
+    color:white !important;
+    font-family: 'Surfing_Capital', Fallback, sans-serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
 
 .mbtablestyle {
         border-collapse: collapse;

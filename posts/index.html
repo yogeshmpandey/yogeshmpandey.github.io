@@ -1,8 +1,12 @@
 ---
 layout: post-index
-title: Start Exploring
-description: "An archive of posts sorted by tag."
+title: An Archive of Posts, sorted by date.
+description: "An archive of posts,  sorted by tag."
+image:
+  feature: 6.jpg
+  credit: Yogesh Pandey
 comments: false
+
 ---
 {% for post in site.posts %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
@@ -34,8 +38,3 @@ comments: false
     {% endif %}
 {% endfor %}
 
-
-
-              		<li><a href="tech/" target="_blank" >Tech</a></li>
-		<li><a href="travel/" target="_blank" >Travel</a></li>
-		<li><a href="life/" target="_blank" ></li>

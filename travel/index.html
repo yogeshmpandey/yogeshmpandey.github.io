@@ -4,10 +4,16 @@ permalink: /travel/
 title: Stories from the Road
 comments: false
 
+image:
+  feature: 1.jpg
+  credit: Yogesh Pandey
 ---
 
 <article>
-<h2 id="{{ this_word }}" class="tag-heading">Travel</h2>
+<h2 id="{{ this_word }}" class="tag-heading">Travel</h2> <div class="entry-meta">
+  <p>  Mountains / Beaches / Trekking / Backpacking / Cycling / Running / Photography / Camping / Stories </em></p></div>
+     <hr> </hr>
+
  <ul>
 {% for post in site.categories.Travel %}
          <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}
