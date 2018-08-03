@@ -14,7 +14,11 @@ comments: false
       <ul>
     {% endif %}
 
-        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+        <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}
+                     <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span>
+    </div></a></li>
+          </a></li>
 
     {% if forloop.last %}
       </ul>
@@ -29,3 +33,9 @@ comments: false
         {% endif %}
     {% endif %}
 {% endfor %}
+
+
+
+              		<li><a href="tech/" target="_blank" >Tech</a></li>
+		<li><a href="travel/" target="_blank" >Travel</a></li>
+		<li><a href="life/" target="_blank" ></li>

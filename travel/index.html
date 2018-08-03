@@ -10,7 +10,10 @@ comments: false
 <h2 id="{{ this_word }}" class="tag-heading">Travel</h2>
  <ul>
 {% for post in site.categories.Travel %}
-         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+         <li class="entry-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}
+             <div class="entry-meta">
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.date | date: "%B %d, %Y" }}</a></time></span>
+    </div></a></li>
     {% endfor %}
 </ul>
 </article>
