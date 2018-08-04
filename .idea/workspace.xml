@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b6f39888-f4e8-4a1d-b608-b8404d1cdef1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.jekyll-metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/life/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/life/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tech/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_site.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_site.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_site.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_site.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_site.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="18" />
+            <state relative-caret-position="174">
+              <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -71,7 +68,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/life/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
@@ -171,12 +168,12 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/categories/index.html" />
         <option value="$PROJECT_DIR$/_includes/navigation.html" />
-        <option value="$PROJECT_DIR$/_sass/_site.scss" />
         <option value="$PROJECT_DIR$/_sass/_page.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/tech/index.html" />
         <option value="$PROJECT_DIR$/travel/index.html" />
         <option value="$PROJECT_DIR$/life/index.html" />
+        <option value="$PROJECT_DIR$/_sass/_site.scss" />
       </list>
     </option>
   </component>
@@ -692,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_site.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="1" selection-start-line="86" selection-start-column="1" selection-end-line="86" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -727,6 +717,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_site.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
         </state>
       </provider>
     </entry>
