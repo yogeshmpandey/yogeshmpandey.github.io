@@ -24,22 +24,23 @@ Sometimes, I really envy the people living in Mumbai-Pune area. Apart from the v
 Lohagad (translates to the iron fort) is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala, The fort was under the Maratha empire for the majority of the time. Along with lesser known Vispur fort, Lohagad fort was an important landmark in the Marathas kingdom. sometimes used as a treasure chest and sometimes as a place for recluse vacation for the kings.
 
 
+<img src="https://i.imgur.com/vA8QQGi.jpg" alt="Lohagad">
+>bee on a flower
+
+
+The closest station for Lohagad fort is the Malavi train Station from Pune. We boarded the early local from the Pune Train station and reached Malavi in about an hour.
+
+One can reach the base of the fort directly via an auto or their own vehicle. But since the weather was quite nice we decided to walk the 9 kilometres to the fort base. The path to the fort is a zigzag charcoal road. After around 2 hours we crossed bhaje caves. The sun was playing hide and seek with the grey clouds, I was sure that it could rain anytime. We continued our walk and reached the base of the fort. The fort welcomed us with a small drizzle.
+
 <img src="https://i.imgur.com/jnHpL6d.jpg" alt="Lohagad">
 >Malavi train Station
 
 <img src="https://i.imgur.com/eWCVBbd.jpg" alt="Lohagad">
 >Near the Malavi Village
 
-The closest station for Lohagad fort is the Malavi train Station from Pune. We boarded the early local from the Pune Train station and reached Malavi in about an hour.
-One can reach the base of the fort directly via an auto or their own vehicle. But since the weather was quite nice we decided to walk the 9 kilometres to the fort base. The path to the fort is a zigzag charcoal road. After around 2 hours we crossed bhaje caves. The sun was playing hide and seek with the grey clouds, I was sure that it could rain anytime. We continued our walk and reached the base of the fort. The fort welcomed us with a small drizzle.
-
-
 <img src="https://i.imgur.com/PFrdsCC.jpg" alt="Lohagad">
 >Bhaje Caves from a Distance
 
-
-<img src="https://i.imgur.com/vA8QQGi.jpg" alt="Lohagad">
->bee on a flower
 
 <img src="https://i.imgur.com/WXl4Lvc.jpg" alt="Lohagad">
 >Climb to the Fort
