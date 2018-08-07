@@ -10,6 +10,8 @@ image:
   
 ---
 
+<img src="https://i.imgur.com/r0Do5BZ.jpg" alt="Lohagad">
+
 Sometimes, I really envy the people living in Mumbai-Pune area. Apart from the vibrant young culture, thriving IT Hub sector, the region is blissfully gifted from the amazing flora and fauna in Sahyadri mountains. Whenever I am in Pune or Mumbai, I try to cover one of the many amazing day treks around near the city. My friends living in Pune, often say that I should come to the city during monsoon. At the time of monsoon, the city and the nearby places convert into an exotic landscape of greenery, perennial waterfalls and super intoxicating weather. Wait no longer, I told my friend, I am coming to Pune in the season.
 
 <img src="https://i.imgur.com/ttrPxsq.jpg" alt="Lohagad">
@@ -31,9 +33,6 @@ Lohagad (translates to the iron fort) is one of the many hill forts of Maharasht
 The closest station for Lohagad fort is the Malavi train Station from Pune. We boarded the early local from the Pune Train station and reached Malavi in about an hour.
 One can reach the base of the fort directly via an auto or their own vehicle. But since the weather was quite nice we decided to walk the 9 kilometres to the fort base. The path to the fort is a zigzag charcoal road. After around 2 hours we crossed bhaje caves. The sun was playing hide and seek with the grey clouds, I was sure that it could rain anytime. We continued our walk and reached the base of the fort. The fort welcomed us with a small drizzle.
 
-
-<img src="https://i.imgur.com/r0Do5BZ.jpg" alt="Lohagad">
->Hills surrounded in Mist
 
 <img src="https://i.imgur.com/PFrdsCC.jpg" alt="Lohagad">
 >Bhaje Caves from a Distance
