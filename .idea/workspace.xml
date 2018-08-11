@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6f39888-f4e8-4a1d-b608-b8404d1cdef1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,34 +14,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="210">
-                <caret line="32" selection-start-line="32" selection-end-line="32" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-03-01-Backpacking-Europe-Liverpool.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-03-01-Backpacking-Europe-Liverpool.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-08-01-offbeat-hampi.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-08-01-offbeat-hampi.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-721">
-                <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+              <first_editor relative-caret-position="239">
+                <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -142,8 +121,8 @@
         <option value="$PROJECT_DIR$/life/index.html" />
         <option value="$PROJECT_DIR$/_sass/_site.scss" />
         <option value="$PROJECT_DIR$/_posts/2018-08-1-offbeat-hampi.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md" />
         <option value="$PROJECT_DIR$/_posts/2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md" />
       </list>
     </option>
   </component>
@@ -636,11 +615,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-721">
-            <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <first_editor relative-caret-position="210">
+            <caret line="32" selection-start-line="32" selection-end-line="32" />
           </first_editor>
           <second_editor />
         </state>
@@ -654,11 +633,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-07-12-Monsoon-Trek-To-Lohagad-Fort.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-01-offbeat-hampi.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="210">
-            <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <first_editor relative-caret-position="239">
+            <caret line="62" column="9" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
