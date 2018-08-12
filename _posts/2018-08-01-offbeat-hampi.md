@@ -40,6 +40,7 @@ A trip to Hampi turned out to be a lot more interesting than I originally antici
 
 <img src="https://i.imgur.com/tldjnpj.jpg" alt="Hampi">
 >Girls enjoing their school Trip 
+Girls in traditonal wear at the hill top 
 
 After having Lunch at a local laid-back cafe, we visited Virupksha temple. The Virupaksha temple is the oldest shrine, the principal destination for pilgrims and tourists. It is very tall and has a 50 meters high gopuram. It is surrounded by many small temples which are now mainly in ruins. Near to the temple we visited  Sasivekalu Ganesha which is located in Hemkuta Hill, The hill is a good place to see a 360 degrees panorama of the city. From here, We hired a local auto as there were a lot of places to cover in Hampi.
 
@@ -87,7 +88,8 @@ Later in the day around 5pm, we started a short hike to the nearby Matanga hill.
 >Climbing up hill to Matanga Hill   
 
 <img src="https://i.imgur.com/ghAsWXk.jpg" alt="Hampi">
->Girls in traditonal wear at the hill top                                                                                                 
+>Girls in traditonal wear at the hill top                                  
+
 <img src="https://i.imgur.com/czNj3nG.jpg" alt="Hampi">               
 >View from the Top   
 
@@ -100,6 +102,7 @@ Later in the day around 5pm, we started a short hike to the nearby Matanga hill.
 <img src="https://i.imgur.com/fozDhUS.jpg" alt="Hampi">
 >Amazing Sunset
 
+
 *Trip Cost Breakdown Per Person*
 
 | S.No | Activity|Cost (In Euros) |
@@ -109,5 +112,4 @@ Later in the day around 5pm, we started a short hike to the nearby Matanga hill.
 |3.      |    Taxis   |340+120|
 | 4.      | Dinner      |100|
 | 5.      | Train To/Fro   |   1600|
-
 ||Total|  3560 INR|
