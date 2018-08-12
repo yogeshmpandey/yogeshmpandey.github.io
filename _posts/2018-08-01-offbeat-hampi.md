@@ -59,7 +59,8 @@ From there we moved to Vitthala temple and market complex. It is a site very clo
 >Place for bathing
 
 <img src="https://i.imgur.com/22X6eKt.jpg" alt="Hampi">
->Temple Ruines                                                                                        
+>Temple Ruines
+                                                                   
 <img src="https://i.imgur.com/rGfCftZ.jpg" alt="Hampi">          
 >Hampi in a 50 rupee note                                           
 
