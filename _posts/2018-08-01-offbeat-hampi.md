@@ -95,7 +95,8 @@ Later in the day around 5pm, we started a short hike to the nearby Matanga hill.
 >Vijayanagara market ruins, with Tungabhadra River in the background   
 
 <img src="https://i.imgur.com/cPMqBXt.jpg" alt="Hampi">           
->Namaskaram from the temple                                       
+>Namaskaram from the temple      
+                                 
 <img src="https://i.imgur.com/fozDhUS.jpg" alt="Hampi">
 >Amazing Sunset
 
