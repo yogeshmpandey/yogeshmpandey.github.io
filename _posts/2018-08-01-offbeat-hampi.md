@@ -12,9 +12,6 @@ image:
 <img src="https://i.imgur.com/rYNNPk9.jpg" alt="Hampi">
 >
 
-<img src="https://i.imgur.com/cPMqBXt.jpg" alt="Hampi">
->Namaskaram from the temple
-
 <img src="https://i.imgur.com/TMkLRZH.jpg" alt="Hampi">
 >Tungabhadra River
 
@@ -77,6 +74,9 @@ image:
 
 <img src="https://i.imgur.com/yRO2d9Z.jpg" alt="Hampi">         
 >Vijayanagara market ruins, with Tungabhadra River in the background   
+
+<img src="https://i.imgur.com/cPMqBXt.jpg" alt="Hampi">           
+>Namaskaram from the temple                                       
 
 <img src="https://i.imgur.com/fozDhUS.jpg" alt="Hampi">
 >Amazing Sunset
