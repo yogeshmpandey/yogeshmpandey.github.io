@@ -12,7 +12,7 @@ image:
 
 <img src="https://i.imgur.com/r0Do5BZ.jpg" alt="Lohagad">
 
-Sometimes, I really envy the people living in Mumbai-Pune area. Apart from the vibrant young culture, thriving IT Hub sector, the region is blissfully gifted from the amazing flora and fauna in Sahyadri mountains. Whenever I am in Pune or Mumbai, I try to cover one of the many amazing day treks around near the city. My friends living in Pune, often say that I should come to the city during monsoon. At the time of monsoon, the city and the nearby places convert into an exotic landscape of greenery, perennial waterfalls and super intoxicating weather. Wait no longer, I told my friend, I am coming to Pune in the season.
+Sometimes, I really envy the people living in Mumbai-Pune area. Apart from the vibrant young culture, thriving IT Hub, the region is blissfully gifted from the amazing flora and fauna in Sahyadri mountains. Whenever I am in Pune or Mumbai, I try to cover one of the many amazing day treks around near the city. My friends living in Pune, often say that I should come to the city during monsoon. At the time of monsoon, the city and the nearby places convert into an exotic landscape of greenery, perennial waterfalls and super intoxicating weather. Wait no longer, I told my friend, I am coming to Pune in the season.
 
 <img src="https://i.imgur.com/ttrPxsq.jpg" alt="Lohagad">
 >Climbing Up
@@ -63,7 +63,7 @@ Other entrance gates as we climbed up were Narayan darwaja, Hanuman Darwaja and 
 <img src="https://i.imgur.com/FT9d0PO.jpg" alt="Lohagad">
 >Waterfall at a distance
  
-Even though it was not visible we went till that point just in case Sun God bestow his blessing and let us see this amazing natural landscape. The blessing was indeed bestowed, but of Rain god. It started raining cats and dogs and before we could think of anything we were already drenched in rain. Thankfully by backpack was waterproof, which helped saving my Camera and other important stuff. 
+Even though it was not visible we went till that point just in case Sun God bestow his blessing and let us see this amazing natural landscape. The blessing was indeed bestowed, but of Rain god. It started raining cats and dogs and before we could think of anything we were already drenched in rain. Thankfully my backpack was waterproof, which helped saving my Camera and other important stuff. 
 
 <img src="https://i.imgur.com/g8VOiQm.jpg" alt="Lohagad">
 >The fury of Rain Gods 
