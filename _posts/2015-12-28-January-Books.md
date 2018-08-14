@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Books 2015"
-date:   20115-12-28 00:7:40
+title:  "2015 Book List"
+date:   2015-12-28 00:7:40
 categories: Life
 tags: [Learning, Books]
 image:
@@ -11,7 +11,7 @@ image:
 Whenever you read a good book, somewhere in the world a door opens to allow in more light.
 –Vera Nazarian
 
-This year I am not reading that much as I did in the previous year but still trying to cover good books. In this month managed to read three books. Small review of them is as follows:
+This year I am not reading that much as I did in the previous year but still trying to cover good books. Small review of them is as follows:
 
 1. The Lean Startup (Eric Ries) : This is a great book to read if you are interested in getting into the startup industry. If you have even a kernel of an idea, or just want to jump in and be part of a startup, this is a must read.
 
