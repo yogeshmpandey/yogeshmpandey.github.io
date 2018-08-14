@@ -54,7 +54,7 @@ After having Lunch at a local laid-back cafe, we visited Virupksha temple. The V
 <img src="https://i.imgur.com/ptQtwsm.jpg" alt="Hampi">        
 >Squirrel at the Vishnu Temple   
 
-From there we moved to Vitthala temple and market complex. It is a site very closed to the tungabhadra river. The Vitthala temple has a Garuda shrine in the form of a stone chariot in the courtyard; it is an often-pictured symbol of Hampi. This shrine is similar but smaller to the one you can find in the sun temple. Also, you can find the same shrine in the new 50 ruppee INR note. Around the complex ther is a Mandapa, This mandapa has differnet carved stone beams of different diameters, shape and surface finish that produces musical sounds when struck. According to local traditional belief, this hall was used for public celebrations of music and dancing. 
+From there we moved to Vitthala temple and market complex. It is a site very closed to the tungabhadra river. The Vitthala temple has a Garuda shrine in the form of a stone chariot in the courtyard; it is an often-pictured symbol of Hampi. This shrine is similar but smaller to the one you can find in the Sun temple(Konark). Also, you can find the same shrine in the new 50 rupee  note. Around the complex ther is a Mandapa, This mandapa has different carved stone beams of different diameters, shape and surface finish that produces musical sounds when struck. According to local traditional belief, this hall was used for public celebrations of music and dancing. 
 
 <img src="https://i.imgur.com/gYtqqIZ.jpg" alt="Hampi">
 >Place for bathing
@@ -105,7 +105,7 @@ Later in the day around 5pm, we started a short hike to the nearby Matanga hill.
 
 *Trip Cost Breakdown Per Person*
 
-| S.No | Activity|Cost (In Euros) |
+| S.No | Activity|Cost (In INR) |
 |:----------|:----------:|-:|
 | 1.      | Hotel charge   |1200|
 |2.      |    Lunch   |200|
