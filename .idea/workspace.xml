@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6f39888-f4e8-4a1d-b608-b8404d1cdef1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_posts/2015-12-28-January-Books.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-12-28-January-Books.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-12-30-Books-2014.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2014-12-30-Books-2014.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,8 +29,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2014-12-30-Books-2014.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <first_editor relative-caret-position="30">
+                <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -660,8 +660,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2014-12-30-Books-2014.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
