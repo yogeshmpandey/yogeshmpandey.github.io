@@ -3,7 +3,7 @@ layout: post
 title:  "2015 Book List"
 date:   2015-12-28 00:7:40
 categories: Life
-tags: [Learning, Books]
+tags: [Learning, Books. Life]
 image:
   background: 2Nrxex6.jpg
 ---
