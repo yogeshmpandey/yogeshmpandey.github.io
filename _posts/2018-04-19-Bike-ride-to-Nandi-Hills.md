@@ -4,7 +4,7 @@ title:  "Bike ride to Nandi Hills"
 date:   2018-04-19 03:52:38
 categories: Travel
 hidden: true
-tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
+tags: [Travel, Backpacking, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
