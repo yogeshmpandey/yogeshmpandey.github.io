@@ -10,7 +10,7 @@ image:
   
 ---
 
-[Imgur](https://i.imgur.com/PMWTP9U.jpg)
+<a href="https://imgur.com/PMWTP9U"><img src="https://i.imgur.com/PMWTP9U.jpg" title="source: imgur.com" /></a>
 
 <img src="https://i.imgur.com/LYMTae5.jpg" alt="TornaTrek">
 >
