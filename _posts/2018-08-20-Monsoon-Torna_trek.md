@@ -6,8 +6,7 @@ categories: Travel
 hidden: true
 tags: [Travel, Backpacking, Sahyadri, Friends, Photoblog, WeekendDiaries]
 image:
-  feature: <img src="https://i.imgur.com/PMWTP9U.jpg" title="source: imgur.com" />
-  credit: dargadgetz
+  feature: 4.png
   
 ---
 
