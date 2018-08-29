@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title:  "Monsoon Trek to Torna Fort"
@@ -6,9 +7,17 @@ categories: Travel
 hidden: true
 tags: [Travel, Backpacking, Sahyadri, Friends, Photoblog, WeekendDiaries]
 image:
-  background: ps_neutral.png
-  
+  feature: https://i.imgur.com/PMWTP9U.jpg
+  credit: Yogesh Pandey
+ 
 ---
+
+>
+<img src="https://i.imgur.com/LYMTae5.jpg" alt="TornaTrek">
+>
+<img src="https://i.imgur.com/nYL1rnU.jpg" alt="TornaTrek">
+>
+
 <img src="https://i.imgur.com/EciyFTF.jpg" alt="TornaTrek">
 >
 
@@ -76,14 +85,5 @@ image:
 >
 
 <img src="https://i.imgur.com/JtYvRBd.jpg" alt="TornaTrek">
->
-
-<img src="https://i.imgur.com/LYMTae5.jpg" alt="TornaTrek">
->
-
-<img src="https://i.imgur.com/nYL1rnU.jpg" alt="TornaTrek">
->
-
-<img src="https://i.imgur.com/PMWTP9U.jpg" alt="TornaTrek">
 >
 
