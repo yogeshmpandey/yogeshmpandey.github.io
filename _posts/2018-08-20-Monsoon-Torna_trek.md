@@ -14,6 +14,8 @@ image:
 <img src="https://i.imgur.com/PMWTP9U.jpg" title="source: imgur.com" />
 
 
+Torna is an easy day trek in Sahyadris. It takes around 6 hours to complete the complete trek. To reach the base of the trek, I took the bus from Swargate (Pune-Velhe-Ghisar). Since it was raining the bus was fairly empty. It takes 2 hours to reach Velhe Village which is the base of the fort. Many People do Raigad-Torna as a two day trek, I also planned for the same but I didnt had my tent to pull a 2 days adventure.
+
 <img src="https://i.imgur.com/LYMTae5.jpg" alt="TornaTrek">
 >Public bus in Velhe Village
 
@@ -25,6 +27,8 @@ image:
 
 <img src="https://i.imgur.com/uIvdryl.jpg" alt="TornaTrek">
 >Lush green beginnings
+
+Unlike previous journey to Lohagad fort, This time i had a poncho to protect myself from the intemittent drizzle. After reaching the village, I had my breakfast which included Tea and 3 Vadapav. The Vadapav was very fresh and tasty so I packed 2 Vadapav, to enjoy at the top. I draped my poncho and started the journey to the top. Torna is the highest peak in the Pune area. Caputured by Shivaji at 16, due to the magnanimity of the hill it was named as prachandgad. The path to Torna is fairly laid out and ascent is moderate. After 30 minutes of climb and wet shoes, I reached the place where the village, the Gunjvane Dam and the Raigad peak all were visible in one view. The View was so breath taking that, I took out my camera in the rain to capture, but the image won't  do justice to the feels.
 
 <img src="https://i.imgur.com/avluLda.jpg" alt="TornaTrek">
 >Gunjvane Dam in the Background
@@ -46,6 +50,9 @@ image:
 
 <img src="https://i.imgur.com/twXt6MR.jpg" alt="TornaTrek">
 >Moving Up
+
+in around 2 hours, I was at the top, The visibilty 
+
 
 <img src="https://i.imgur.com/WjkuWZR.jpg" alt="TornaTrek">
 >Konkan Darwaja
@@ -86,3 +93,11 @@ image:
 <img src="https://i.imgur.com/JtYvRBd.jpg" alt="TornaTrek">
 >Last few memories
 
+*Trip Cost Breakdown Per Person*
+
+| S.No | Activity|Cost (In INR) |
+|:----------|:----------:|-:|
+| 1.      | Train to/fro from Hyderabad   |1900|
+|2.      |    Food(Mainly Vada Pav) + Bisleri|200|
+|3.      |    Bus to/fro Velhe|150|
+||Total|  2250 INR|
