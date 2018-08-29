@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Monsoon Trek to Torna Fort"
