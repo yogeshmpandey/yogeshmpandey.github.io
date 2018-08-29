@@ -7,8 +7,8 @@ categories: Travel
 hidden: true
 tags: [Travel, Backpacking, Sahyadri, Friends, Photoblog, WeekendDiaries]
 image:
-  feature: <img src="https://i.imgur.com/PMWTP9U.jpg">
-  credit: Yogesh Pandey
+  feature: <img src="https://i.imgur.com/PMWTP9U.jpg" alt="TornaTrek">
+
 ---
 
 <img src="https://i.imgur.com/LYMTae5.jpg" alt="TornaTrek">
