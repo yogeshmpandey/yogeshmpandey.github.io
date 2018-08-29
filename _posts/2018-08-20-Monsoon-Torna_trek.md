@@ -8,16 +8,6 @@ tags: [Travel, Backpacking, Sahyadri, Friends, Photoblog, WeekendDiaries]
 image:
   feature: 4.png
 ---
-layout: post
-title:  "Monsoon Trek to Torna Fort"
-date:   2018-08-20 03:52:38
-categories: Travel
-hidden: true
-tags: [Travel, Backpacking, Sahyadri, Friends, Photoblog, WeekendDiaries]
-image:
-  feature: 4.png
-  
----
 
 <img src="https://i.imgur.com/PMWTP9U.jpg" title="source: imgur.com" />
 
