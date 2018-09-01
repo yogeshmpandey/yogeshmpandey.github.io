@@ -41,7 +41,7 @@ The 37 km ride was tough in the beginning. The initial 10 kms were very trenous 
 >2 more to go
 
 
-After 2.5 hours of the ride. Finallly reached Faridabad. I was a great ride.
+After 2.5 hours of the ride. Finallly reached Faridabad. It was a great ride.
 
 <img src="http://i.imgur.com/caoMRGv.jpg" alt="Vroom">
 
