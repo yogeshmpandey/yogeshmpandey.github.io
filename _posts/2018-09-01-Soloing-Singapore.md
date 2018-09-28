@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Solo-ing Singapore"
+title:  "Solo'ing Singapore"
 date:   2018-09-01 03:52:38
 categories: Travel
 hidden: true
