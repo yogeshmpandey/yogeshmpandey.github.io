@@ -11,8 +11,8 @@ image:
 
 <img src="https://i.imgur.com/5LJt51p.jpg" alt="Singapore">
 
-In the month of August, I got an opportunity to visit Singapore for a week. Singapore is the second richest city-country Sandwiched between Malaysia and Indonesia.
-Singapore is one of the most popular travel destinations in the world for a lot of reasons. It has skyscrapers and subways unique amalgamation of Chinese, Malay and Indian people along with a tropical climate, tasty food from hawker centres and easy accessibility to the well-known places. The only downside is that all the good places are very costly to visit.
+In the month of September, I got an opportunity to visit Singapore for a week. Singapore is the second richest city-country sandwiched between Malaysia and Indonesia.
+It is one of the most popular travel destinations in the world for a lot of reasons. It has skyscrapers and subways unique amalgamation of Chinese, Malay and Indian people along with a tropical climate, tasty food from hawker centres and easy accessibility to the well-known places. The only downside is that all the good places are very costly to visit.
 In the planning phase of my trip, I read that Singapore was a very walkable city. Which is not quite true but I still managed to cover Singapore by foot. Covering a county by foot is however, not recommended.
 
 I booked my Hostel named "The Atlas Station" in the outskirts of Little India suburb. It is a space-themed Hostel which has spacepod-esque rooms that are very good for privacy and have amazing aesthetics and cleanliness. Since My phone didn't had any signals, I downloaded the local maps as my phone
