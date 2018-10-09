@@ -9,7 +9,7 @@ image:
   background: witewall_3.png
 ---
 
-I was working on a project in which we had to create a storage engine for MariaDB ( similar to MySQL). After completing the development the request came from the client to benchmark the Storage engine in order to provide information on the overall improvement on the execution cycle/workflows/Transactions over the default InnoDB Database. While doing this, I realized that there is not much documentation online on how to properly use SysBench for benchmarking the databases.
+I was working on a project in which we had to create a storage engine for MariaDB ( similar to MySQL). After completing the development the request came from the client to benchmark the Storage engine. In order to provide information on the overall improvement on the execution cycle/workflows/Transactions over the default InnoDB Database. While doing this, I realized that there is not much documentation online on how to properly use SysBench for benchmarking the databases.
 
 SysBench is a scriptable multi-threaded benchmark tool based on LuaJIT. It is most frequently used for database benchmarks. In the Latest version of SysBench (>1.0) you can create you own custom benchmarks using a custom lua scripts. Apart from CPU, Memory, IO benchmarks SysBench comes with a collection of OLTP-like database benchmarks in the oltp_*.lua scripts.
 
