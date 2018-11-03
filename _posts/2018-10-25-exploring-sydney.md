@@ -4,7 +4,7 @@ title:  "Australia : Exploring Sydney "
 date:   2018-10-24 03:52:38
 categories: Travel
 hidden: true
-tags: [Travel, Backpacking, RoadTrip, Australia, Photoblog, WeekendDiaries]
+tags: [Travel, Backpacking, RoadTrip, beaches, Australia, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
