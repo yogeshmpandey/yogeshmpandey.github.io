@@ -11,7 +11,7 @@ image:
 
 <img src="https://i.imgur.com/wRj1Sd8.jpg" alt="Nainital">
 
-It was more than a year that I had visited or seen the Himalayas up close. My Friend called me up and we planned to visit Munsyari in the extended weekend. But by looking at the route and coming to the conclusion that it would take 2 days to reach Munsyari we cancelled that idea.
+It was more than a year that I had visited or seen the Himalayas up close. My friend called me up and we planned to visit Munsyari in the extended weekend. But, by looking at the route and coming to the conclusion that it would take 2 days to reach Munsyari we cancelled that idea.
 
 We had already visited the majority of the places in Uttarakhand, And it was hard to find an easy trek for the weekend. But we remembered that we have not trekked China peak on our last visit to Nainital. We the plan changed to trek to China peak and nearby places.
 
