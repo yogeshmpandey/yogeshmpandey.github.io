@@ -11,9 +11,6 @@ image:
 <img src="https://i.imgur.com/yi8yYSk.jpg" alt="Blue_Mountains">
 >
 
-<img src="https://i.imgur.com/wNGtgS6.jpg" alt="Blue_Mountains">
->
-
 <img src="https://i.imgur.com/GiIMCKf.jpg" alt="Blue_Mountains">
 >
 
