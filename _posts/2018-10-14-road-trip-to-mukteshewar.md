@@ -11,11 +11,18 @@ image:
 
 <img src="https://i.imgur.com/93NcGn0.jpg" alt="Mukteshwar">
 
+As from the last story in Nainital, We were planning to cover other offbeat nearby villages in Nainital. Today there were three of us, my cousin joined me next day. Then on breakfast, our hotel owner decided to gave us an offer that we couldn't refuse. He told that we rent his car at a very nominal price to Mukteshwar. So off we went to a road trip to Mukteshwar.
+
+
 <img src="https://i.imgur.com/Tkmk4wZ.jpg" alt="Mukteshwar">
 >Morning Hues
 
 <img src="https://i.imgur.com/xKvTbzd.jpg" alt="Mukteshwar">
 >Sunrise
+
+Mukteshwar is a small town made famous by Jim Corbett who penned the novel "The Man Eaters of Kumaon". Mukteshwar is a tiny hamlet, and is best seen on foot. On the road trip howeverwe planned to stop at all the important location at we could find alongside the road.
+
+Our first stop was Golu Devta Temple. Lord Golu is the legendary God of the Kumaun and is worshipped a deity. The devotees make petitions at the temple, using stamp papers. On accomplishment of their wish, the deity is shown gratitude by hanging bells. Seeing uncountable bells in the temple, I came to conclusion that all the petitions are granted by the lord.
 
 <img src="https://i.imgur.com/DqmQ3Xf.jpg" alt="Mukteshwar">
 >Bhimtal lake from Golu Temple
@@ -26,6 +33,8 @@ image:
 <img src="https://i.imgur.com/ChLiyHu.jpg" alt="Mukteshwar">
 >Rays of sun reaching the Temple
 
+Next Stop was Tea Garden. At a ticket of 20 INR we visited the lush green Tea Gardens. Apart from that there is not much here, but it is very serence and worth a visit.
+
 <img src="https://i.imgur.com/dF9fEIx.jpg" alt="Mukteshwar">
 >Visiting Tea Factory
 
@@ -34,6 +43,8 @@ image:
 
 <img src="https://i.imgur.com/Bc2g7dx.jpg" alt="Mukteshwar">
 >Fresh Tea Leaves
+
+Next up on a hairpin bend, we came across this beautiful panorama of the Himalayas, that we parked the car on the side. The views from this place are enchanting. The vivid description of this view of the Himalayas is justified only by bare eyes. I noted down the OYO Hotel that was facing the Mountains. Oyo 4761, If you are visiting Mukteshwar or want to enjoy the beautiful sunrise and sunset with Himalayas, book this OYO.
 
 <img src="https://i.imgur.com/0cYMgym.jpg" alt="Mukteshwar">
 >Trishut Parvat
@@ -46,6 +57,8 @@ image:
 
 <img src="https://i.imgur.com/OS7l7xR.jpg" alt="Mukteshwar">
 >Eastern Peaks [Panchachuli]
+
+Our last place was Mata's Temple and Chauli ki jali. Chauli ki jali is a cliff that has mythological relevance. Amazing views of the valley can be seen from here.
 
 <img src="https://i.imgur.com/c8lOq7v.jpg" alt="Mukteshwar">
 >Temple In Mukteshwar
