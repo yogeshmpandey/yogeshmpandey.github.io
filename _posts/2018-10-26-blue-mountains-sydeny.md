@@ -36,7 +36,7 @@ Old legends say the Three Sisters fell in love with three brothers from the neig
 >Vistor at Blue Mountains
 
 
-The Blue Mountains got its name from the characteristic blue haze that is emitted by the abundant Eucalyptus trees. The area is filled with many waterfalls, beautiful gorges and valleys. \
+The Blue Mountains got its name from the characteristic blue haze that is emitted by the abundant Eucalyptus trees. The area is filled with many waterfalls, beautiful gorges and valleys.
 
 <img src="https://i.imgur.com/rO49ZOR.jpg" alt="Blue_Mountains">
 >Blue Mountains Scenery
@@ -58,7 +58,7 @@ Apart from the natural Scenery, there are other places of attraction as well. A 
 <img src="https://i.imgur.com/gUOhSo5.jpg" alt="Blue_Mountains">
 >Cable Car
 
-The bush trail to the waterfall stats just outside the scenic world. We followed the trail and reached the waterfall. The atmosphere was cold, humid and fresh. We also stopped at   Juliet's Balcony and witnessed the sheer beauty of Katoomba Falls, from top to bottom.
+The bush trail to the waterfall starts just outside the scenic world. We followed the trail and reached the waterfall. The atmosphere was cold, humid and fresh. We also stopped at   Juliet's Balcony and witnessed the sheer beauty of Katoomba Falls, from top to bottom.
 
 <img src="https://i.imgur.com/b2638lX.jpg" alt="Blue_Mountains">
 >Starting the Trail

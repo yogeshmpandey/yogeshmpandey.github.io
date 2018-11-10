@@ -37,7 +37,7 @@ We took the opposite path to the Top and went via Heimgarten. After an hour of w
 >Companion and Coffee
 
 I went inside the hut to look for some Food to eat, but the menu was incomprehensible. I took a cup and went outside to enjoy the views.
- Heimgarten Summit had a giant cross at the summit, From here the path to Herzogstand has less elevation. the ridge was is narrow, less than a meter wide in some places and straight down on both sides. 
+ Heimgarten Summit had a giant cross at the summit, From here the path to Herzogstand has less elevation. the ridge was is narrow, less than a meter wide in some places and straight down on both sides.
 <img src="https://i.imgur.com/00KxUw9.jpg" alt="logo">
 >The Lake and the Rains
 
@@ -61,7 +61,7 @@ But the path is well-laid out and filled with supports on both ends that make it
 <img src="https://i.imgur.com/iqXbXAh.jpg" alt="logo">
 >From Herzogstand
 
-Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies.There is also a ropeway that leads you directly to the city. 
+Walking down from Herzogstand you can see Berggasthaus, where you can take a break and enjoy Bavarian delicacies. There is also a ropeway that leads you directly to the city.
 
 
 <img src="https://i.imgur.com/Fpj6KS5.jpg" alt="logo">
