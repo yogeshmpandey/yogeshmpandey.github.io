@@ -4,7 +4,7 @@ title:  "Heritage City Ahmedabad "
 date:   2018-11-16 03:52:38
 categories: Travel
 hidden: true
-tags: [Travel, Backpacking, RoadTrip, Gujarat , Photoblog, WeekendDiaries]
+tags: [Travel, Backpacking, RoadTrip, Gujarat, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
 ---
