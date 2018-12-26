@@ -14,7 +14,7 @@ owner:
   bio:            "A normal blog about things I find Intersting"
   # Social networking links used in footer. Update and remove as you like.
   email:
-  twitter:        yogesh__pandey
+  twitter:        
   github:         yogeshmpandey
   stackexchange:
   linkedin:
@@ -50,6 +50,8 @@ permalink:   /:categories/:title/
 
 # Amount of post to show on home page
 paginate: 1
+plugins:
+  - jekyll-seo-tag
 
 kramdown:
   auto_ids: true
