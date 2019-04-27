@@ -43,7 +43,6 @@ After spending some time there and quick shopping, I went back to the bus statio
 <img src="https://i.imgur.com/KODrm1B.jpg" alt="Taiwan">
 >Most iconic Tea houses in Jiufen
 
-<Hike>
 <img src="https://i.imgur.com/HqV21xr.jpg" alt="Taiwan">
 >Starting the hike
 
