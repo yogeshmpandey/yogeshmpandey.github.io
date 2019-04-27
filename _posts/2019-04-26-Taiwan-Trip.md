@@ -99,7 +99,7 @@ Next night, we went to explore the night market of Taipei. It was a great experi
 >Streets at the Night
 
 <img src="https://i.imgur.com/NrzjWri.jpg" alt="Taiwan">
->Tress marked with QR code.
+>Trees marked with QR code.
 
 After around a week, I said Goodbye to Taiwan after experience a different slice of life.
 
