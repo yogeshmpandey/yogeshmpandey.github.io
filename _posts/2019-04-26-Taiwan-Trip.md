@@ -46,7 +46,7 @@ After spending some time there and quick shopping, I went back to the bus statio
 <img src="https://i.imgur.com/HqV21xr.jpg" alt="Taiwan">
 >Starting the hike
 
-Later in the evening, I went for a hike to the elephant mountain. Taipei is a hiker's paradise, with more than 150 marked hikes from the city. It was a small hike around 3-4 km from the bus station. The city line and especially Taipei 101 looks amazing from here. When I was here, the top floors of Taipei 101 were in the clouds.
+Later in the evening, I went for a hike to the elephant mountain. Taipei is a hiker's paradise, with more than 150 marked hikes from the city. It is a small hike around 3-4 km from the bus station. The city line and especially Taipei 101 looks amazing from here. When I was here, the top floors of Taipei 101 were in the clouds.
 
 <img src="https://i.imgur.com/Pox7AKV.jpg" alt="Taiwan">
 >Well illuminated pathways
