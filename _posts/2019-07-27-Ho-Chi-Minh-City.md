@@ -33,7 +33,7 @@ My first stop was Ben-than  market. It was a little rainy outside, hence I stopp
 <img src="https://i.imgur.com/ZO1wBIr.jpg" alt="hochiminh">
 >Flowers Shop
 
-My next destination was the War Remnants Museum. The Museum portrays the gory details of the Ani-American war in vary brutal fashion. I saw tears in the eyes of the people who walked those lanes with me. The museum has a lot of memorabilia of the American planes, bombs and other instruments of mass destruction.
+My next destination was the War Remnants Museum. The Museum portrays the gory details of the Ani-American war in very brutal fashion. I saw tears in the eyes of the people who walked those lanes with me. The museum has a lot of memorabilia of the American planes, bombs and other instruments of mass destruction.
 
 
 <img src="https://i.imgur.com/X3cKOGo.jpg" alt="hochiminh">

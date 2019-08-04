@@ -15,7 +15,7 @@ Today we embarked our journey to a war zone. A place where Vietnamese Guerillas 
 Since the public transport to the actual site was a bit confusing, I planned to take the day tour to the site from a company. The cost of the day tour was around 17 USD and it included pick up and drop from the Ho Chi Minh and back.
 This greatly offloaded the task of planning and booking from my head.
 
-We started around 8 am. If you are in district 1, then the driver will pick up you from your hotel and drop you back. Our guide picks up us up and we started our 2-hour-long journey. In between the Van stopped at a local shop selling souvenirs, the people that worked here were the survivors of the War.
+We started around 8 am. If you are in district 1, then the driver will pick up you from your hotel and drop you back. Our guide picks us up and we started our 2-hour-long journey. In between the Van stopped at a local shop selling souvenirs, the people that worked here were the survivors of the War.
 
 <img src="https://i.imgur.com/i0DAsJu.jpg" alt="Chuchi">
 >Workers in the handicraft factory
@@ -23,7 +23,7 @@ We started around 8 am. If you are in district 1, then the driver will pick up y
 <img src="https://i.imgur.com/QofetNJ.jpg" alt="Chuchi">
 >Egg Shells used for the paintings
 
-Our guide told us a lot of stories from the war days which lead to the creation of these tunnels. These tunnels were dug with simple tools and bare hands during the French occupation in the 1940s, and further expanded during the Vietnam War in the 1960s to provide refuge and a defensive advantage over the American soldier. If the strategy for these tunnels not in place then Vietnam would not have won the war against the Americans.
+Our guide told us a lot of stories from the war days which lead to the creation of these tunnels. These tunnels were dug with simple tools and bare hands during the French occupation in the 1940s, and further expanded during the Vietnam War in the 1960s to provide refuge and a defensive advantage over the American soldier. If the strategy for these tunnels were not in place then Vietnam would not have won the war against the Americans.
 
 <img src="https://i.imgur.com/43Oqgyg.jpg" alt="Chuchi">
 >Tanks from the American Army
