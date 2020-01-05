@@ -9,7 +9,7 @@ image:
   background: witewall_3.png
 ---
 
-Last year I accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specializations. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of courses in the Machine Learning Domain. 
+Last year I got accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specializations. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of courses in the Machine Learning Domain. 
 
 There are 2 core courses available in OMSCS. (6 Credits) : 
 
