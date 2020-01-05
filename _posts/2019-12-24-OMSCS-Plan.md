@@ -40,8 +40,8 @@ The Plan I have is as follows :-
 |Summer 2019|Other|IIS| Done |  B     |2.382| 8.893 |
 |Fall 2019|Other|CN|Done| A |2.479   |8.264|
 |Spring 2020|Elective|**CV**||  - | 4.024  |20.463|
-|Summer 2020 |Elective|Reinforcement Learning||- |4.101|21.626|
-|Fall 2020 |Core|**Introduction to Graduate Algorithms**|  | - |4.667|22.571 |
+|Summer 2020 |Elective|Reinforcement Learning/**Big Data for Health**||- |4.101|21.626|
+|Fall 2020 |Core|**Introduction to Graduate Algorithms**|| - |4.667|22.571 |
 |Spring 2021|Elective| ML4T+**KBAI**| | -/-    | 5.64 | 24|
 |Summer 2021|Other|**Ed-Tech**/ IHI| |-|2.049|6.857|
 |Fall 2021|Core | **Machine Learning**  | |-|4.176|20.885|
