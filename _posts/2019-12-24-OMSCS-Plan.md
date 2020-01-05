@@ -9,9 +9,9 @@ image:
   background: witewall_3.png
 ---
 
-Last year I accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specialization. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of cources in the Machine Learning Domain. 
+Last year I accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specializations. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of courses in the Machine Learning Domain. 
 
-There are 2 core courses availabe in OMSCS. (6 Credits) : 
+There are 2 core courses available in OMSCS. (6 Credits) : 
 
 - CS 7641 Machine Learning
 - CS 6515 Introduction to Graduate Algorithms. 
@@ -29,9 +29,9 @@ Then there are electives (9 Credits ) :
 - CSE 6250 Big Data for Health (Formerly CSE 8803)
 - ISYE 6420 Bayesian Methods
 
-I need to pick atleast 3 from the above list of Courses. Rest I can pick from the open Courses.
+I need to pick at least 3 from the above list of Courses. Rest I can pick from the open Courses.
 
-The Plan I have is as follows :-
+The Plan I have is as follows:-
 
 
 | Semester  | Course Type | Course Name | Remarks | Grade|Load|Hours Per Week|
@@ -46,4 +46,5 @@ The Plan I have is as follows :-
 |Summer 2021|Other|**Ed-Tech**/ IHI| |-|2.049|6.857|
 |Fall 2021|Core | **Machine Learning**  | |-|4.176|20.885|
 
-With this plan, I cover all the necessary pre-requisites for a ML Specialization. It also covers required pre-resqisited in Interactive Intelligence. The subjects marked in bold are important. 
+With this plan, I cover all the necessary pre-requisites for an ML Specialization. It also covers the required pre-requisite in Interactive Intelligence. The subjects marked in bold are important. 
+I hope I can get to the Courses with my time ticket.
