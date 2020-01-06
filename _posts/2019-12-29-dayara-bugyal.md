@@ -12,7 +12,7 @@ image:
 
 Ah !!! Finally a Himalayan trek. This year was pretty busy in terms of getting free time to scale some peaks. Since the Christmas weekend was right around the corner I tried to get my old friends together and plan a trip. Initially, we planned for Kuari Pass trek. But due to some other plans, we had to cancel the same and find out some other smaller trail. 
 
-I had done digital trek 2 years back and I remembered our guide about Daraya bugyal and the mesmerising views from the bugyal. Also, we had promised him that we will come back and do the trek with him. I think this was the time. So we called him and booked him for the trek. 
+I had done dodital trek 2 years back and I remembered our guide speaking of the beauty of Daraya bugyal and the mesmerising views from the bugyal. Also, we had promised him that we will come back and do the trek with him. I thought, this was the time. So we called him and booked him for the trek. 
 
 We met the familiar faces at Uttarkashi and our guide also greeted us with the biggest smile at the bus stand. From here we started our journey to Raithal Village. Raithal is a well-connected village and serves as a good base for the trek. There is another village "Barsu" from where also we can reach the bugyal but our guide told that is had very steep ascents. We stayed in Raithal, had amazing Garhwali Dinner and started the next day for the trek. 
 
@@ -25,7 +25,7 @@ We met the familiar faces at Uttarkashi and our guide also greeted us with the b
 <img src="https://i.imgur.com/WqMYmdl.jpg" alt="dayara">
 >The Pathways
 
-Daraya Bugyal is 8-9 km from the base of Raital. Initially, we planned to reach Daraya in one go but changed our plans midway as due to Uttarakhand High court orders we cannot camp in the Bugyals. We reach Gui campsite after 4-5 km and pitched our tents there. Gui Campsite has a wide-open view of the Himalayan range and had incredible views of Gangotri set of peaks, Srikanth peak, Bandarpoonch, Black Peak and other unnamed peaks. But the best part of the campsite we discovered was late at night when the sky turned into an amphitheatre with billions of stars and majestic milky way on the horizon way above the mighty Himalayas. We are awestruck and spellbound. 
+Daraya Bugyal is 8-9 km from the base of Raital. Initially, we had planned to reach Daraya in one go but changed our plans midway as due to Uttarakhand High court orders we cannot camp in the Bugyals. We reach Gui campsite after 4-5 km and pitched our tents there. Gui Campsite has a wide-open view of the Himalayan range and had incredible views of Gangotri set of peaks, Srikanth peak, Bandarpoonch, Black Peak and other unnamed peaks. But the best part of the campsite we discovered was late at night when the sky turned into an amphitheatre with billions of stars and majestic milky way on the horizon way above the mighty Himalayas. We are awestruck and spellbound. 
 
 
 
@@ -41,7 +41,7 @@ Daraya Bugyal is 8-9 km from the base of Raital. Initially, we planned to reach 
 <img src="https://i.imgur.com/0Mn3ZHU.jpg" alt="dayara">
 >Last rays of sun hitting the Himalyan range
 
-Next morning, we started our trek. Today the path was less steep and for the first 2 km, it felt like a walk. The trail rose slowly as the forest cleared up for Chilapada campsite. After resting for a while at the campsite the 1 km steep ascent to the bugyal started. We reached Dayara and the views were more majestic from there. We had a quick bite at the small makeshift hotel at the top. We stayed and roamed around in the bugyal, clicked a lot of pics, make snow fairies in the virgin fresh snow. After an hour or so, we started our descend back. 
+Next morning, we started our trek. Today the path was less steep and for the first 2 km, it felt like a walk. The trail rose slowly as the forest cleared up for Chilapada campsite. After resting for a while at the campsite, the 1 km steep ascent to the bugyal started. We reached Dayara and the views were more majestic from there. We had a quick bite at the small makeshift hotel at the top. We stayed and roamed around in the bugyal, clicked a lot of pics, made snow fairies in the virgin fresh snow. After an hour or so, we started our descend back. 
 
 <img src="https://i.imgur.com/t8KebZJ.jpg" alt="dayara">
 >Starting the Trek from Gui
@@ -70,7 +70,7 @@ Next morning, we started our trek. Today the path was less steep and for the fir
 <img src="https://i.imgur.com/DQv6WQV.jpg" alt="dayara">
 >Scintillating Views
 
-During our descent, we stopped at a "Chhatri" and discussed to descend to Raithal. Everyone agreed and we reached Raithal at around 6:00 pm. 
+During our descent, we stopped at a "Chhatri" and discussed to descend directly to Raithal. Everyone agreed and we reached Raithal at around 6:00 pm. 
 
 <img src="https://i.imgur.com/PiyoIBX.jpg" alt="dayara">
 >Heading back from Dayara Bugyal
