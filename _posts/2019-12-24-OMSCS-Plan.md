@@ -41,10 +41,10 @@ The Plan I have is as follows:-
 |Summer 2019|Other|IIS| Done |  B     |2.382| 8.893 |
 |Fall 2019|Other|CN|Done| A |2.479   |8.264|
 |Spring 2020|Elective|**CV**|Done|  A | 4.024  |20.463|
-|Summer 2020 |Elective|**KBAI**||- |3.5 |13.626|
+|Summer 2020 |Elective|**EdTech**||- |3.5 |13.626|
 |Fall 2020 |Elective|ML4T|| - |2.5|10  |
 |Spring 2021|Core|Machine Learning| | - | 4.18 | 21|
-|Summer 2021|Elective|**Ed-Tech**| |-|2.8|13.6|
+|Summer 2021|Elective|**KBAI**| |-|2.8|13.6|
 |Fall 2021|Core | **Introduction to Graduate Algorithms**| |-|4.33|24.885|
 |Spring 2022|Elective | Reinforcement Learning/**Big Data for Health**/**Deep Learning** | |-|>4|20.885|
 
