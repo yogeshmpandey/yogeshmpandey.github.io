@@ -97,7 +97,7 @@ You can run the classroom content in two ways:
 
 <h3 id="binder"><strong>Option 1:</strong> use Binder</h3>
 
-If you want to experiment with the code in a live environment you can also use `binder`.  
+If you want to experiment with the code in a live environment you can also use binder.
 
 Binder allows to create a live environment where you can execute code just as if you were on your computer based on a GitHub repository, it is very awesome!  
 
@@ -113,28 +113,7 @@ You can essentially "download" the contents of this repository by cloning the re
 
 <img src="https://i.imgur.com/utFVDVa.png" title="Jupyter Notebook" width = 300px/>
 
-After you download and extracted the zip file into a folder you can follow the [steps](#setup) to set up your local environment:
-
-<h4 id="setup">Running the Classroom Locally</h2>
-
-### 1. Operating System
-
-These labs have been validated on Windows-10. But you can use them in any environment.
-
-### 2. Software installation steps
-
-* Python3-pip
-* Jupyter
-
-### 3. Run the Jupyter Notebook
-
-1. Run the Jupyter Notebook
-
-```bash
-$ py -m notebook
-```
-
-2. It opens in the default browser, locate the required Jupyter notebook (m4dt.ipynb) file and double click on it to open and run.
+After you download and extract the zip file into a folder you can to set up your local environment and run the jupyter labs locally.
 
 <h2 id="questions">Questions?</h2>
 
