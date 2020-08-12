@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learn Mathematics for Digital Technologies"
-date:   2020-05-06 03:52:38
+date:   2020-08-13 03:52:38
 categories: Tech
 hidden: true
 tags: [ Coding, OMSCS]
@@ -9,9 +9,13 @@ image:
   background: witewall_3.png
 ---
 
-I have seen this in my experience that learners who are trying to get into digital technology are demotivated by the mathematics that they have to work within the start itself. So this is a project in a direction to minimize that learning curve.
+<h1 align="center">
+   <img src="https://i.imgur.com/pvCASTF.png" alt="Mathematics for Digital Technologies" title="Mathematics for Digital Technologies" />
+</h1>
 
 In my OMSCS Education Technology class, as a capstone project, I created this course leveraging the latest research in the field of Education technology. The idea and project are based on the latest research on how to create a MOOC that engages the user, is easy to use, and provides effective ways to doing hands-on so that the learners retain whatever they have learned.
+
+I have seen this in my experience that learners who are trying to get into digital technology are demotivated by the mathematics that they have to work within the start itself. So this is a project in a direction to minimize that learning curve.
 
 I created this tutorial which learners can easily finish within a couple of hours. The videos are short to the point. Accompanied by real-time hands on code walkthrough on Jupiter notebooks. Learners can play with the codebase discussed in the video in the Jupiter notebook and also do the open exercises that come along with it. These different mechanisms of learning help the learners to quickly grasp the content in much less time than an actual classroom.
 
@@ -22,12 +26,10 @@ Following is the brief summary of the Project.
 ### Repo Link : https://github.com/yogeshmpandey/M4DT
 ----
 
-<h1 align="center">
-   <img src="https://i.imgur.com/pvCASTF.png" alt="Mathematics for Digital Technologies" title="Mathematics for Digital Technologies" />
-</h1>
+
 <p align="center">  
  <a href="https://mybinder.org/v2/gh/yogeshmpandey/M4DT/master?urlpath=lab"><img src="https://mybinder.org/badge_logo.svg"></a>
-<img src="https://www.repostatus.org/badges/latest/active.svg"></a>
+<img src="https://www.repostatus.org/badges/latest/active.svg">
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License%20-Apache%20License%202.0-orange"></a>
 <img src="https://img.shields.io/badge/last%20updated-July%202020-3d62d1">
 </p>
