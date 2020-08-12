@@ -8,17 +8,17 @@ tags: [DIY, Coding, OMSCS]
 image:
   background: witewall_3.png
 ---
-
-Edit : Updated with some changes. 
+Edit - 2 [August-2020] : Updated since new courses are there.
+Edit - 1 [Jan-2020] : Updated with some changes.
 
 Last year I got accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specializations. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of courses in the Machine Learning Domain. 
 
-There are 2 core courses available in OMSCS. (6 Credits) : 
+There are 2 core courses available in OMSCS. (6 Credits) :
 
 - CS 7641 Machine Learning
-- CS 6515 Introduction to Graduate Algorithms. 
+- CS 6515 Introduction to Graduate Algorithms.
 
-I need to pick both of the above Courses. 
+I need to pick both of the above Courses.
 
 Then there are electives (9 Credits ) :
 
@@ -41,7 +41,7 @@ The Plan I have is as follows:-
 |Summer 2019|Other|IIS| Done |  B     |2.382| 8.893 |
 |Fall 2019|Other|CN|Done| A |2.479   |8.264|
 |Spring 2020|Elective|**CV**|Done|  A | 4.024  |20.463|
-|Summer 2020 |Elective|**EdTech**||- |3.5 |13.626|
+|Summer 2020 |Elective|**EdTech**|Done|A |3.5 |13.626|
 |Fall 2020 |Elective|ML4T|| - |2.5|10  |
 |Spring 2021|Core|Machine Learning| | - | 4.18 | 21|
 |Summer 2021|Elective|**KBAI**| |-|2.8|13.6|
