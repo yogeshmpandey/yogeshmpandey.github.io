@@ -117,4 +117,4 @@ After you download and extract the zip file into a folder you can to set up your
 
 <h2 id="questions">Questions?</h2>
 
-If you have questions or experience problems please use the `issues` tab of this repository.
+If you have questions or experience problems please use the issues tab of this repository.
