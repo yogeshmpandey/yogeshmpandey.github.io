@@ -8,9 +8,9 @@ image:
   background: witewall_3.png
 ---
 
-Every year I try to create some goals for myself and they fade out as life happens. But this year is different, this year I am publishing my goals public, making myself more accountable. I will review these goals at the end of the year and provide an update on the same. Be fitter, happier and more productive. 
+Every year I try to create some goals for myself and they fade out as life happens. But this year is different, this year I am publishing my goals public, making myself more accountable. I will review these goals at the end of the year and provide an update on the same. Be fitter, happier and more productive.
 
-- Wake up before 6 am. 
+- Wake up before 6 am.
 
 - Read 20 Books.
 
@@ -20,19 +20,19 @@ Every year I try to create some goals for myself and they fade out as life happe
 
 - Podcast/Audiobooks everyday.
 
-- Exercise Everyday. 
+- Exercise Everyday.
     - Run a half Marathon
-    - Cut back to 76 Kg, Gain Muscles. 
-    - Stretching 
+    - Cut back to 76 Kg, Gain Muscles.
+    - Stretching
 
 - No Phone Sundays.
 
-- Meditate for 100 days this year. 
+- Meditate for 100 days this year.
 
 - No personal buying (clothes, accessories, No Amazons, Flipkarts, Swiggys, Zomatos, Netflixes, Ubers)
 
-- Earn your first dollar Online. 
+- Earn your first dollar Online.
 
-- ██ ██████ ██ ████ ████ ██ ██████  
+- ██ ██████ ██ ████ ████ ██ ██████
 
 - █████ ██ ███████ ██ ███

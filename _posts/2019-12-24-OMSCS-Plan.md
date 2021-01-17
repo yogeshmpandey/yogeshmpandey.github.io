@@ -12,7 +12,7 @@ Edit - 2 [August-2020] : Updated since new courses are there.
 <br>
 Edit - 1 [Jan-2020] : Updated with some changes.
 
-Last year I got accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specializations. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of courses in the Machine Learning Domain. 
+Last year I got accepted in Georgia Tech's Online Version on MS called OMSCS. OMSCS provides 4 specializations. I plan to take the Machine Learning Specialization and following is the plan of courses I intend to take in this program. For Machine Learning Specialization, I need to complete 15 credits worth of courses in the Machine Learning Domain.
 
 There are 2 core courses available in OMSCS. (6 Credits) :
 
@@ -25,7 +25,7 @@ Then there are electives (9 Credits ) :
 
 - CS 6476 Computer Vision
 - CS 7642 Reinforcement Learning and Decision Making (Formerly CS 8803-O03)
-- CS 7643 Deep Learning 
+- CS 7643 Deep Learning
 - CS 7646 Machine Learning for Trading
 - CSE 6242 Data and Visual Analytics
 - CSE 6250 Big Data for Health (Formerly CSE 8803)
@@ -43,12 +43,10 @@ The Plan I have is as follows:-
 |Fall 2019|Other|CN|Done| A |2.479   |8.264|
 |Spring 2020|Elective|**CV**|Done|  A | 4.024  |20.463|
 |Summer 2020 |Elective|**EdTech**|Done|A |3.5 |13.626|
-|Fall 2020 |Elective|ML4T|| - |2.5|10  |
-|Spring 2021|Core|Machine Learning| | - | 4.18 | 21|
-|Summer 2021|Elective|**KBAI**| |-|2.8|13.6|
+|Fall 2020 |Elective|Machine Learning|| - |2.5|10  |
+|Spring 2021|Core|Artifical Intelligence| | - | 4.18 | 21|
+|Summer 2021|Elective|**ML4T**| |-|2.8|13.6|
 |Fall 2021|Core | **Introduction to Graduate Algorithms**| |-|4.33|24.885|
 |Spring 2022|Elective | Reinforcement Learning/**Big Data for Health**/**Deep Learning** | |-|>4|20.885|
 
-
-With this plan, I cover all the necessary pre-requisites for an ML Specialization. It also covers the required pre-requisite in Interactive Intelligence. The subjects marked in bold are important. 
-I hope I can get to the Courses with my time ticket.
+With this plan, I cover all the necessary pre-requisites for an ML Specialization. It also covers the required pre-requisite in Interactive Intelligence.
