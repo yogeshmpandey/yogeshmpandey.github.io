@@ -9,7 +9,7 @@ image:
   background: witewall_3.png
 ---
 
-Due to COVID-19 my office is closed and I am working from home since March 2020. This has given me a lot of time to explore my hometown. This would be probably the longest I might have stayed in my home. During weekends I usually take my bike to different Spots near Ramnagar. There are probably more routes in my city that leads to interesting places but since the area comes in the Corbett buffer zone it might be risky to visit those places solo. In this blog, I list down the routes that I usually take from my home.
+Due to COVID-19 my office was closed and I am working from home since March 2020. This has given me a lot of time to explore my hometown. This would be probably the longest I might have stayed in my home. During weekends I usually take my bike to different Spots near Ramnagar. There are probably more routes in my city that leads to interesting places but since the area comes in the Corbett buffer zone it might be risky to visit those places solo. In this blog, I list down the routes that I usually take from my home.
 
 ### Route 1 : Ramnagar -> Laxmi Narayan Temple -> Ramnagar
 
@@ -48,11 +48,13 @@ This is a bit tricky route. if you want to follow this route just follow the map
 
 ### Route 2 : Ramnagar -> Hanuman Garhi Temple -> Ramnagar
 
+<img src="https://i.imgur.com/n9ClwmL.jpg" alt="Cycling">
+
 **Total Length of the Route:** 16 km
 
 **Route Type:** Down then Up, Minor elevations, State Highway.
 
-**Scenic Value:** 3/5
+**Scenic Value:** 4/5
 
 This is a very easy route. You just have to follow the state highway to Haldwani and take a right to Hanuman Garhi Temple. Since this area comes in the Corbett buffer zone, you can easily see wild animals and birds like peacock, wildfowl etc in this route. From the temple, the views of the Himalayan hills are also nice.
 
@@ -83,7 +85,7 @@ This is a very easy route. You just have to follow the state highway to Haldwani
 
 <img src="https://i.imgur.com/n9ClwmL.jpg" alt="Cycling">
 
-**Total Length of the Route:** 16 km
+**Total Length of the Route:** 26 km
 
 **Route Type:** Down then Up, Minor elevations, Village area.
 
@@ -114,7 +116,7 @@ For this route take Kotdwar road till Dhela gate. This route is a bit risky so d
 
 <img src="https://i.imgur.com/RZQCF3r.jpg" alt="Cycling">
 
-**Total Length of the Route:** 16 km
+**Total Length of the Route:** 29 km
 
 **Route Type:** Up then Down, Minor elevations, Forest Area.
 
