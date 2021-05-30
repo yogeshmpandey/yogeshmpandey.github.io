@@ -37,7 +37,7 @@ Following is the brief summary of the Project.
 <p align="center">
   Want to learn the required mathematical background need for learning digital technologies <br> like <strong> Machine Learning, Deep Learning, Computer Vision, Data Science and NLP</strong>? ? <br>
   This Classroom has everything that you need to get started! <br><br>
-  <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="http://yogeshpandey.in/tech/">Personal Page</a>)</span>
+  <span style='font-size: 15pt'><strong>Author:</strong> Yogesh Pandey (<a href="https://yogeshpandey.in/tech/">Personal Page</a>)</span>
 </p>
 
 ## Table of Contents
@@ -55,7 +55,7 @@ Following is the brief summary of the Project.
 * **Linear Algebra**
   * Video - [What are Linear Equations?](https://www.youtube.com/watch?v=CWByMDHyTos)
   * Video - [What are Functions?](https://www.youtube.com/watch?v=P3LsdcjqS8s)
-  * Video - [Introduction to Vectors](http://www.youtube.com/watch?v=CMJlwIobuF4)
+  * Video - [Introduction to Vectors](https://www.youtube.com/watch?v=CMJlwIobuF4)
   * Lab - Understanding Linear Algebra [[Python](https://github.com/yogeshmpandey/M4DT/blob/master/Equations_Functions_Vectors/Equations_Functions_Vectors.ipynb)]
 
 * **Introduction to Matrices**

@@ -7,7 +7,7 @@ tags: [Life, Learning]
 image:
   background: triangular.png
 ---
-<img src="http://i.imgur.com/auQmcxL.jpg" alt="">
+<img src="https://i.imgur.com/auQmcxL.jpg" alt="">
 
 >It Begins
 

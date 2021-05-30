@@ -13,11 +13,11 @@ Sometimes I try to write prose. It is a good way to write emotions and provide m
 
 Yesterday while writing I was thinking what rhymes with "love". And the first two words that first came to my mind were "dove" and "shove". Pretty lame.. Right. So to simplify this process I created a snippet that fetches the rhyming words of a particular input and if the user wants, he can know the meaning also. To know weather it fits his set of ideas or not. With this, I got approx 60 words that rhymed with "love". Pretty impressive right.
 
-<img src="http://i.imgur.com/siWpAaB.png" alt="Getting Rhymes">
+<img src="https://i.imgur.com/siWpAaB.png" alt="Getting Rhymes">
 
 >Rhymes
 
-<img src="http://i.imgur.com/MO5N0QR.png" alt="Getting Rhymes">
+<img src="https://i.imgur.com/MO5N0QR.png" alt="Getting Rhymes">
 
 >Meaning of the Rhymes.
 

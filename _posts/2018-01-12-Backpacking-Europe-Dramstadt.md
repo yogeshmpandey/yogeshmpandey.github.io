@@ -15,24 +15,24 @@ Thursday, while I was looking at this weekend temperature in Innsbruck, a place 
 
 **_Read other Eurotrip Blogs:_**
 
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
 
 
 Darmstadt is a small quaint city near Frankfurt. The first place we visited in Darmstadt was Park Rosenhöhe. It is a historic park on a hill in eastern Darmstadt. Its special features include a Rosarium with Rosendom on the top of the hill, the mausoleums of the Princely House and the tombs of the family of the last Grand Duke Ernst Ludwig. On the edge of the park are also the buildings of the new artists' colony Rosenhöhe. The time we visited the park it was freezing cold and all the trees were bald and there no flowers to blossom. It felt like ordering a phone online but getting a brick. :stuck_out_tongue_winking_eye: :stuck_out_tongue_closed_eyes: :grinning:

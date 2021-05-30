@@ -7,7 +7,7 @@ hidden: true
 tags: [Travel, Backpacking, Europe, Friends, Photoblog, WeekendDiaries]
 image:
   background: witewall_3.png
-link: http://snacktime.fm/episodes/2016/6/9/episode-3-negroni-week
+link: https://snacktime.fm/episodes/2016/6/9/episode-3-negroni-week
 ---
 
 <img src="https://i.imgur.com/F16omgB.jpg" alt="Vienna">
@@ -20,24 +20,24 @@ The Christmas market was according to me the best one we had seen till now in th
 
 **_Read other Eurotrip Blogs:_**
 
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
 
 
 

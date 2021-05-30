@@ -18,7 +18,7 @@ Whenever any request is made to the butler via twitter (mentions or DMs) it unde
 
 Here is a small Example :-
 
-<img src="http://i.imgur.com/GxBFiTO.png" alt="">
+<img src="https://i.imgur.com/GxBFiTO.png" alt="">
 
 The twitter library that i am using is available [here](https://github.com/sixohsix/) and the butler [here](https://twitter.com/tweet__butler).
 
@@ -26,6 +26,6 @@ You can use the code to interact with any machine or system that exposes a high 
 
 Maybe this is what we can get in the future.
 
-<img src="http://i.imgur.com/h2BOKlY.png" alt="">
+<img src="https://i.imgur.com/h2BOKlY.png" alt="">
 
 Reuse and Happy Hacking.

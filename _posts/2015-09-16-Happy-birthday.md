@@ -13,13 +13,13 @@ First you need to get a token for your app to work from <a href="https://develop
 
 Then run this python script the next day. It auto replies and comments on each of the post from previous day. Mine took 30 minutes to reply to all the posts. Had to change some replies though :P.
 
-<img src="http://i.imgur.com/RdU599R.png" alt="">
+<img src="https://i.imgur.com/RdU599R.png" alt="">
 
 >Code.
 
 You can download the code from <a href="https://github.com/yogeshmpandey/codesamples/blob/master/automatic_replier.py">here</a>.
 
-<img src="http://i.imgur.com/rQxtTTn.png" alt="">
+<img src="https://i.imgur.com/rQxtTTn.png" alt="">
 
 >Autoreply in action.
 

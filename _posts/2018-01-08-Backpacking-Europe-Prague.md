@@ -16,24 +16,24 @@ The plan was to cover five Christmas Market starting from Munich, then Prague, t
 
 **_Read other Eurotrip Blogs:_**
 
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
-+ <a href="http://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
++ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
 
 
 We started out the journey on the night of 22nd March from the Munich ZOB station. We started early from the office and visited Marienplatz, at Marienplatz one can find the biggest Christmas market in Munich. The Market was jampacked with people. Everyone was busy buying items to decorate their houses, while some were enjoying gluewine in the slow snowfall. The Marienplatz church was flooded in the yellowish lights and snowfall in the midnight. After a few rounds of gluewine, we headed towards the bus station.

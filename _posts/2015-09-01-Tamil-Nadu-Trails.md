@@ -17,26 +17,26 @@ In first week of chennai, I really wanted to explore, visit nearby villages and 
 
 Next day planned to explore chennai all by myself. Opened google maps and found out all important and nearby places that can be covered on foot and in one day.    
 
-<a href="http://imgur.com/LnikyG1"><img src="http://i.imgur.com/fE5snoh.jpg" title="source: imgur.com" /></a>
+<a href="https://imgur.com/LnikyG1"><img src="https://i.imgur.com/fE5snoh.jpg" title="source: imgur.com" /></a>
 
 
 >Guindy National Park.
 
-<img src="http://i.imgur.com/SK1HfAC.jpg" alt="">
+<img src="https://i.imgur.com/SK1HfAC.jpg" alt="">
 
 >Small Bridge in the park.
 
 In the evening I found that my long lost friend from college was also in chennai, So planned the second day to cover the remaining places with him.
 
-<img src="http://i.imgur.com/NX4Elf6.jpg" alt="">
+<img src="https://i.imgur.com/NX4Elf6.jpg" alt="">
 
 >Stairs at the Marina Beach Lighthouse.
 
-<img src="http://i.imgur.com/nGdLKXA.jpg" alt="">
+<img src="https://i.imgur.com/nGdLKXA.jpg" alt="">
 
 > Corn @Marina Beach
 
-<img src="http://i.imgur.com/gBZaolG.jpg" alt="">
+<img src="https://i.imgur.com/gBZaolG.jpg" alt="">
 
 > Took time to understand this sculpture
 
@@ -45,78 +45,78 @@ In the evening I found that my long lost friend from college was also in chennai
 This was the most hectic, most enjoying trip in chennai. Our ambitious plan executed astonishingly well.
 
 
-<img src="http://i.imgur.com/rwlrkc7.jpg">
+<img src="https://i.imgur.com/rwlrkc7.jpg">
 
 >Morning snap from bus.
 
-<img src="http://i.imgur.com/eJNchLV.jpg">
+<img src="https://i.imgur.com/eJNchLV.jpg">
 
 >Main Falls
 
 Tenkasi Courtallam: It certainly was a feast to eyes to watch the gift of mother-nature. How grayish clouds kisses the forehead of uneven hills, and out of nowhere we found ourselves in this land of multiple falls. First we visited main falls which was very over crowded we had literally had no place to place foot. But were there is water there are people, and where there are people there is life. Enjoyed the view there for a while and then we moved to Five Falls.
 
 
-<img src="http://i.imgur.com/qXrHx9V.jpg" alt="">
+<img src="https://i.imgur.com/qXrHx9V.jpg" alt="">
 
 >Five Falls
 
-The falls were amazing. In a split second we jumped right in. The experience of the chilled water droplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street food. Out of all things we tasted <a href = "http://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html">Egg Barota</a> stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
+The falls were amazing. In a split second we jumped right in. The experience of the chilled water droplets falling straight on you was liberating. Just can't be explained in words. A while later shivering with cold we decided to move on and explore the city.In the city we tasted a variety of street food. Out of all things we tasted <a href = "https://indian-recipes-my-kitchen.blogspot.in/2012/11/egg-kothu-barotaegg-kothu-parotta.html">Egg Barota</a> stood away which is made by mashing up Parota and Egg. Spicey treat served on banana leaves.
 
-<img src="http://i.imgur.com/YuEUp4w.jpg" alt="">
+<img src="https://i.imgur.com/YuEUp4w.jpg" alt="">
 
 >Egg Barota
 
 From there we took a sleepy 5 hour bus ride to kanyakumari. Checked in our cheap-ass but grand hotel thanks to makemytrip discount coupons. In the evening we set foot on the coast to explore the area. Then saw Gandhi memorial, triveni sangam (where 3 seas meet). By 5:30 pm when we were thinking of making our way back to the hotel we saw a golf cart. Unknowing where it will take us we hopped in.
 
 
-<img src="http://i.imgur.com/FgeZfPi.jpg" alt="">
+<img src="https://i.imgur.com/FgeZfPi.jpg" alt="">
 
 >Boys from Bihar :)
 
-<img src="http://i.imgur.com/fPqFy9n.jpg" alt="">
+<img src="https://i.imgur.com/fPqFy9n.jpg" alt="">
 
 >View From Hotel
 
-<img src="http://i.imgur.com/CO2Ksx4.jpg" alt="">
+<img src="https://i.imgur.com/CO2Ksx4.jpg" alt="">
 
 >The Sangam, Where the waters meet
 
-<img src="http://i.imgur.com/m0Rhn1U.jpg" alt="">
+<img src="https://i.imgur.com/m0Rhn1U.jpg" alt="">
 
 >Sunset #1
 
 To Our amazement we found ourselves in the hidden twin beaches. The view of the infinity vast ocean was very captivating. From here reached the sunset point, took some pre-sunset snaps. The weather was very clear to see the sunset. We watched with an unwavering gaze that famous sunset, as the mighty orb of light slowly sank beneath the horizon, and threads of light lingered in the sky, first orange, then red, then dark blue, until all that was left of the sun was the afterglow. In this particular moment something inside me grew more fonder.
 
 
-<img src="http://i.imgur.com/JHV7ngK.jpg" alt="">
+<img src="https://i.imgur.com/JHV7ngK.jpg" alt="">
 
 >Sunset #2
 
 Moved back to the hotel with an great memory and a heavy heart.In the night visited local markets and lonely roads of the city. The city view from our hotel was also very colossal the brilliant stars in a twilight sky kept us questioning the meaning of everything.
 
-<img src="http://i.imgur.com/ltNv0ZE.jpg" alt="">
+<img src="https://i.imgur.com/ltNv0ZE.jpg" alt="">
 
 >Sunrise
 
 Woke up early in the morning so that we don't miss the sunrise. But the weather didn't helped us today. Still the soft amber glow from the sun grew and filled the mighty sky and clouds with colours of red and orange, the tricolored sea somehow turned more blueish.
 
-<img src="http://i.imgur.com/lP0AiSj.jpg" alt="">
+<img src="https://i.imgur.com/lP0AiSj.jpg" alt="">
 
 >View of church from jetty station.
 
-<img src="http://i.imgur.com/j8x54b7.jpg" alt="">
+<img src="https://i.imgur.com/j8x54b7.jpg" alt="">
 
 >Rock memorial and  Thiruvalluvar Statue
 
 From there we took a jetty to the Vivekananda Rock Memorial. Thiruvalluvar Statue is mighty and effectively portrays the love of tamilians towards their culture. Brought some books from the Vivekananda rock memorial and again went to explore the city. Left from there and saw many windmills and was very tempted to go there. On our way back the view was very delightful. I could see 4 things in quantity windmills, Coconut trees, Banana trees and hills.
 
-<img src="http://i.imgur.com/COYMrry.jpg" alt="">
+<img src="https://i.imgur.com/COYMrry.jpg" alt="">
 
 > Bird's Eye view of the Temple (_wikipedia_)
 
 We reached Madurai at 7:00 pm in the evening and our bus was at 10:00 pm so we decided to explore the city. Since the time was less we were left to pick only place. So we decided to visit Meenakshi amman temple. The temple is the most prominent, sacred landmark and most visited tourist attraction in the city. It boasts of its magnificent architecture and historical relevance.
 
-<img src="http://i.imgur.com/uGoqdJs.jpg" alt="">
+<img src="https://i.imgur.com/uGoqdJs.jpg" alt="">
 
 >Dancer at 1000 pillar museum
 
@@ -131,35 +131,35 @@ Then we visited the 1000 pillars hall museum, captured the exotic architecture a
 This weekend was the cherry on top of my tamilnadu trails. Two of my best buddies came over to chennai to visit pondicherry and nearby places.
 We started off at 9:00 am and took a bus to mahabalipuram. There we visited a group of monuments that have been classified as a UNESCO World Heritage Site.
 
-<img src="http://i.imgur.com/Za0blbF.jpg" alt="">
+<img src="https://i.imgur.com/Za0blbF.jpg" alt="">
 
 >Shore Temple #1
 
-<img src="http://i.imgur.com/DEiEeS6.jpg" alt="">
+<img src="https://i.imgur.com/DEiEeS6.jpg" alt="">
 
 >Shore Temple #2
 
-<img src="http://i.imgur.com/uJ6LBpy.jpg" alt="">
+<img src="https://i.imgur.com/uJ6LBpy.jpg" alt="">
 
 >Five Rathas
 
-<img src="http://i.imgur.com/JgFXIfU.jpg" alt="">
+<img src="https://i.imgur.com/JgFXIfU.jpg" alt="">
 
 >Mahabalipuram Light House
 
 From Mahabalipuram we went to pondicherry, reached pondi pretty late in the evening. Went to Gandhi beach after resting a bit in the hotel room. To our luck that night was a full moon night and the sea view from the shore was just out out the world. Gleaming moon with a halo of orange tinge in the middle of the horizon in a clear sky took my breaths away. The refection of the moon in the night sea looked like molten silver making the landscape just perfect.
 
-<img src="http://i.imgur.com/kTC9EPC.jpg" alt="">
+<img src="https://i.imgur.com/kTC9EPC.jpg" alt="">
 
 >Moonshine at Pondi Beach
 
 Later we went to the french establishments and had dinner in a famous <a href="https://www.facebook.com/lapastaworld">home restaurant</a>. Food was authentic and rich in taste and the owners were very welcoming. Roamed chatted and had fun till 12 am in the streets and went back to  the hotel.
 
-<img src="http://i.imgur.com/o8KKnBQ.jpg" alt="">
+<img src="https://i.imgur.com/o8KKnBQ.jpg" alt="">
 
 >French colony
 
-<img src="http://i.imgur.com/nK4Ltoj.jpg" alt="">
+<img src="https://i.imgur.com/nK4Ltoj.jpg" alt="">
 
 >Sunrise at pondi
 
@@ -169,6 +169,6 @@ According to Wikipedia Auroville is meant to be a universal town where men and w
 
 How Awesome is that (on first thoughts) then we thought about its economy and how it would run but nevertheless enjoyed here too. Later in evening we packed our stuff and came back to chennai. And bid goodbyes to old friends.
 
-<img src="http://i.imgur.com/lHFq7yN.jpg" alt="">
+<img src="https://i.imgur.com/lHFq7yN.jpg" alt="">
 
 >After 22 days left this awesome place with this final touch.

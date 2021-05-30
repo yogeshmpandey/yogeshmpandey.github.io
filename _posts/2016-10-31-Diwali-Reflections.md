@@ -8,7 +8,7 @@ image:
   background: ps_neutral.png
 ---
 
-<img src="http://i.imgur.com/pB5QFHM.jpg" alt="Peace">
+<img src="https://i.imgur.com/pB5QFHM.jpg" alt="Peace">
 
 This is not the post of this Diwali, but of the nostalgia this festival has always wrapped itself in. You know, the happiness in sadness,  ying-yang kind of feeling that some occasion surrounds itself in. This Diwali these thoughts we all over my mind. How Diwali as a festival has evolved for me, How I don't enjoy the things I used to do previously. How I enjoyed the things I didn't use to previously.
 
@@ -21,7 +21,7 @@ During these days the best part of Diwali was actually after Diwali. Next Day We
 
 Then in the later years, days of Boards and college started, going home for Diwali and meeting relatives was the fun part at this time. Diwali had now become synonymous with Sweets. After all the puja and sweet exchange ceremony we would go on the roof and watch other people paint the canvas of sky with their crackers. It was fun as you don't know when you can spot the Big one. Noisy crackers were so 2000's.
 
-<img src="http://i.imgur.com/fMyQLrB.jpg" alt="Purana Qila">
+<img src="https://i.imgur.com/fMyQLrB.jpg" alt="Purana Qila">
 
 >First ever Rangoli
 

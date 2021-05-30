@@ -9,7 +9,7 @@ image:
 ---
 *When in Doubt, pedal it out*
 
-<img src="http://i.imgur.com/mPUOQqv.jpg" alt="The Bike">
+<img src="https://i.imgur.com/mPUOQqv.jpg" alt="The Bike">
 
 >My Bike
 
@@ -21,23 +21,23 @@ So, I came to know about this place from my friend who has been there in the pas
 
 This place is like the lungs of Gurgaon. Away from the chaoes of crowd it is an amazing natural habitat. 
 
-<img src="http://i.imgur.com/dUxYffD.jpg" alt="The Bike">
+<img src="https://i.imgur.com/dUxYffD.jpg" alt="The Bike">
 
 >The Path
 
-<img src="http://i.imgur.com/iXHCa28.jpg" alt="The Sunrise">
+<img src="https://i.imgur.com/iXHCa28.jpg" alt="The Sunrise">
 
 >Sunrise from the Forest
 
 There is an endless loop for cycling. From the highest point one can see the mesmerising view of the sunrise.
 
-<img src="http://i.imgur.com/qPa9jUN.jpg" alt="The Bike">
+<img src="https://i.imgur.com/qPa9jUN.jpg" alt="The Bike">
 
 >The Aravalis
 
 In the morning ride I was able to spot a peacock and different birds. A rare sight in gurgaon.
 
-<img src="http://i.imgur.com/MQTqDaZ.jpg" alt="The Bike">
+<img src="https://i.imgur.com/MQTqDaZ.jpg" alt="The Bike">
 
 >WildFlowers
 
