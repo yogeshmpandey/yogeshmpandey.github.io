@@ -9,7 +9,9 @@ image:
   background: witewall_3.png
 ---
 
-Main Course Link: https://www.linkedin.com/learning/learning-python-generators
+[Main Course Link](https://www.linkedin.com/learning/learning-python-generators)
+
+This Series is a part of [30 Days of Learning](https://www.notion.so/yogeshpandey/June-30-Days-of-Learning-65a60adfdd504eb2b989649fef13e6d2).
 
 The course is based on an older python version and the code is incompatible with the latest version. 
 
