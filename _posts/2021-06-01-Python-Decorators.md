@@ -21,6 +21,7 @@ The course is based on an older python version and the code is incompatible with
 - Iterators have the next () function, even the for loop uses iterators in the backed
 - Use of keyword yield. (Not return as other functions)
 - Generator function return the generator object which we can use in our code. 
+- Generator objects cannot be reused.
 
 Example as a list comprehension: (item for item in collection), we use () to create a generator object.
 
@@ -42,9 +43,7 @@ print (list(intg))
 # This will run into issues as now there nothing left in the generator
 print (intg.next())
 
-
 ```
-- Generator objects cannot be reused.
 
 
 Example: Fibonacci  Series using Generators. 
@@ -86,6 +85,7 @@ def simple_context_manager(gen_obj):
         obj.prop -=1
 
 ```
+
 Note: Context Manager is used with the _with_ Python Block.
 
 ### CoRoutine: 
@@ -96,6 +96,7 @@ Note: Context Manager is used with the _with_ Python Block.
 - We have send method to send to coroutine. 
 - We can use the co-routine decorators to skip the use of the next() primer. 
 - We can also use and create Coroutines pipelines.
+
 ```
 def coroutine(string):
     count = 0
