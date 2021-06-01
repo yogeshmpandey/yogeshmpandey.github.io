@@ -4,7 +4,7 @@ title:  "Python Decorators"
 date:   2021-06-01 03:52:38
 categories: Tech
 hidden: true
-tags: [DIY, Coding, 30Days]
+tags: [DIY, Coding]
 image:
   background: witewall_3.png
 ---
