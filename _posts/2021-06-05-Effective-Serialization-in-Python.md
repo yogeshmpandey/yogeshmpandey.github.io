@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Effective Serialization in Python"
-date:   2021-06-04 03:52:38
+date:   2021-06-05 03:52:38
 categories: Tech
 hidden: true
 tags: [Coding, DIY]
