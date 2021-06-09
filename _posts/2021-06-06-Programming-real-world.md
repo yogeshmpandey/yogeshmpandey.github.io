@@ -13,6 +13,7 @@ image:
 
 This Series is a part of [30 Days of Learning](https://www.notion.so/yogeshpandey/June-30-Days-of-Learning-65a60adfdd504eb2b989649fef13e6d2).
 
-Author gives the better understading of programmming paradigms using real world examples. However the course was for beginners and nothing new was learned Although the examples and real world scenrios described were pretty good. 
+
+The author gives a better understanding of programming paradigms using real-world examples. However, the course is for beginners. Although the examples and real-world scenarios described were pretty good. 
 
 
