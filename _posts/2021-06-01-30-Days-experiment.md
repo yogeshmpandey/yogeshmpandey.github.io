@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "30 Days of Learning"
-date:   2021-05-06 23:52:38
+date:   2021-06-01 23:52:38
 categories: Life
-tags: [Life, Learning, Books]
+tags: [Life, Learning]
 image:
   background: witewall_3.png
 ---
