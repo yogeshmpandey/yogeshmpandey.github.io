@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python Web Scraping"
-date:   2021-06-17 03:52:38
+date:   2021-06-15 03:52:38
 categories: Tech
 hidden: true
 tags: [Coding, DIY]
