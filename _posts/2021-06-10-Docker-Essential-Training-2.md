@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker Essential Training - 2"
+title:  "Docker Essential Training - 2 | Orchestration"
 date:   2021-06-10 03:52:38
 categories: Tech
 hidden: true

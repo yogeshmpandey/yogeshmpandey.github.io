@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Docker Essential Training - 1"
+title:  "Docker Essential Training - 1 | Basics " 
 date:   2021-06-09 03:52:38
 categories: Tech
 hidden: true
