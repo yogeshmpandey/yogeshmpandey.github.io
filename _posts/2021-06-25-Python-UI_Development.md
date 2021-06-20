@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Python GUI Development: Tkinter"
-date:   2021-06-08 03:52:38
+date:   2021-06-25 03:52:38
 categories: Tech
 hidden: true
 tags: [Coding, DIY]
