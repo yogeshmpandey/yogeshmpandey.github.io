@@ -27,7 +27,6 @@ element = soup.find("span", attrs={"itemprop": "price", "class": "price-list__pr
 print (element.text.strip())
 ```
 
-
 - Using MongoDB with python
 
 ```
@@ -39,7 +38,7 @@ print (database.list_collection_names())
 collection = database["posts"]
 
 # Inserts
-post = {"name": "vertika", "age": 31}
+post = {"name": "Yogesh", "age": 29}
 post_id = collection.insert_one(post).inserted_id
  
 # Retrieval
@@ -47,3 +46,18 @@ usrs = collection.find({})
 for user in usrs:
     print(user)
 ```
+
+- Inserting a new item
+  - `db.posts.insert({"_id":"123", "blog_id":"c64a117150574f56979c888663s4s65c", "title":"Sample Post", "content":"LodemImpsum", "created_date":ISODate("2021-06-20T06:33:03.451Z")})`
+
+- Removing items from mongo
+  - `b.posts.remove({})`
+
+
+With the help of this course I create a personal blog site using Flask, MongoDB, Jinja2, HTML/CSS, Bootstrap. There is a lot that is to be done in this yet but it serves as a good skeleton for starting a web project. 
+
+Github Link  : [https://github.com/yogeshmpandey/FlaskBlog] (https://github.com/yogeshmpandey/FlaskBlog)
+
+A Brief demo of the App: 
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="7CGsKLU"><a href="https://imgur.com/7CGsKLU">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
