@@ -48,7 +48,7 @@ for user in usrs:
 ```
 
 - Inserting a new item
-  - `db.posts.insert({"_id":"123", "blog_id":"c64a117150574f56979c888663s4s65c", "title":"Sample Post", "content":"LodemImpsum", "created_date":ISODate("2021-06-20T06:33:03.451Z")})`
+  - `db.posts.insert({ JSON DATA)})`
 
 - Removing items from mongo
   - `b.posts.remove({})`
@@ -56,8 +56,9 @@ for user in usrs:
 
 With the help of this course I create a personal blog site using Flask, MongoDB, Jinja2, HTML/CSS, Bootstrap. There is a lot that is to be done in this yet but it serves as a good skeleton for starting a web project. 
 
-Github Link  : [https://github.com/yogeshmpandey/FlaskBlog] (https://github.com/yogeshmpandey/FlaskBlog)
+Github Link  : (https://github.com/yogeshmpandey/FlaskBlog) [https://github.com/yogeshmpandey/FlaskBlog]
 
 A Brief demo of the App: 
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="7CGsKLU"><a href="https://imgur.com/7CGsKLU">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<video>  <source src="https://i.imgur.com/7CGsKLU.mp4" type="video/mp4"></video>
