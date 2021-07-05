@@ -10,7 +10,7 @@ image:
 
 Currently I have some free time and subcriptions of many online learning platforms (LinkedIN Learning, Orielly, Udemy etc ) in my hand. So, I created this challenge for myself that I will complete a Online Course for each Day of June and write a blog post on my Learning.
 
-I was able to go for 22 days out of 30 days of learning. Below are the list of courses and the notes blogs for the same. There were some courses that helped me learn and know more about the tools and tech like Web Scraping and Python Web Apps. The courses on docker helped me refresh my knowledge. This was a fun experiment, I wished that I could have continued my streak. 
+I was able complete 22 days out of 30 days of learning. Below are the list of courses and the notes blogs for the same. There were some courses that helped me learn and know more about the tools and tech like Web Scraping and Python Web Apps. The courses on docker helped me refresh my knowledge. This was a fun experiment, I wished that I could have continued my streak. 
 
 | Course-Name 	| Course-Link  	|
 |-------------	|--------------	|
@@ -23,12 +23,12 @@ I was able to go for 22 days out of 30 days of learning. Below are the list of c
 |Revamp your Linkedin	|https://yogeshpandey.in/tech/Linkedin-ninja/|
 |Efficient Python Production Workflows	|https://yogeshpandey.in/tech/Efficient-Python-Production-Workflows/|
 |Securing Containers and Kubernetes	|https://yogeshpandey.in/tech/Securing-Containers-and-Kubernetes-Ecosystem/|
-|Docker Essential Training - 6 | Image Creation, Management, and Registry	|https://yogeshpandey.in/tech/Docker-Essential-Training-6-Image/|
-|Docker Essential Training - 5 | Storage and Volumes	|https://yogeshpandey.in/tech/Docker-Essential-Training-5-volumes/|
-|Docker Essential Training - 4 | Security	|https://yogeshpandey.in/tech/Docker-Essential-Training-4-security/|
-|Docker Essential Training - 3 | Networking	|https://yogeshpandey.in/tech/Docker-Essential-Training-3-Networks/|
-|Docker Essential Training - 2 | Orchestration	|https://yogeshpandey.in/tech/Docker-Essential-Training-2/|
-|Docker Essential Training - 1 | Basics	|https://yogeshpandey.in/tech/Docker-Essential-Traning/|
+|Docker Essential Training - 6 : Image Creation, Management, and Registry	|https://yogeshpandey.in/tech/Docker-Essential-Training-6-Image/|
+|Docker Essential Training - 5 : Storage and Volumes	|https://yogeshpandey.in/tech/Docker-Essential-Training-5-volumes/|
+|Docker Essential Training - 4 : Security	|https://yogeshpandey.in/tech/Docker-Essential-Training-4-security/|
+|Docker Essential Training - 3 : Networking	|https://yogeshpandey.in/tech/Docker-Essential-Training-3-Networks/|
+|Docker Essential Training - 2 : Orchestration	|https://yogeshpandey.in/tech/Docker-Essential-Training-2/|
+|Docker Essential Training - 1 : Basics	|https://yogeshpandey.in/tech/Docker-Essential-Traning/|
 |Maximise Productivity during WFH	|https://yogeshpandey.in/tech/Maxmise-Productivity-WFH/|
 |Python Interview Guide	|https://yogeshpandey.in/tech/Python-Interview/|
 |Programming Foundations: Real-World Examples	|https://yogeshpandey.in/tech/Programming-real-world/|
