@@ -12,7 +12,7 @@ Every year I try to create some goals for myself and they fade out as life happe
 
 
 | Goal - Name 	| Quarter - 1 	| Quarter - 2 	| Quarter - 3 	| Quarter - 4 	|
-|-------------	|-------------	|-------------	|-------------	|-------------	|
+|:-------------	|:-------------	|:-------------	|:-------------	|:-------------	|
 |Earn your first dollar Online|Nothing Yet|Nothing Yet|             	|            	|
 |No personal buying online|Done|Done.|             	|             	|
 |Meditate for 100 days this year|10/90 |0/90|             	|             	|
