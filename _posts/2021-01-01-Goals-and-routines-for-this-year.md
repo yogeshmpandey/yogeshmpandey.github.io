@@ -18,7 +18,7 @@ Every year I try to create some goals for myself and they fade out as life happe
 |Meditate for 100 days this year|10/90 |0/90|             	|             	|
 |No Phone Sundays|Failed|Failed|             	|             	|
 |Podcast/Audiobooks every day.| 20/90 |60/90|             	|             	|
-|Exercise Everyday (GW : 76).|HP: 2120, WT* : 82(-1.5) | HP: 3297, WT : 79(-3) |     |
+|Exercise Everyday (GW : 76).|HP:2120, WT:82 | HP:3297, WT:79 |     |
 |█████ ██ ██████ ████████|    Done 	|  Done 	|    Done 	|  Done	|
 |Publish 20 Good Blogs.|   2/20 	|    26/20  	|             	|             	|
 |Read 20 Books.|  4/20 	|       10/20|             	|             	|
