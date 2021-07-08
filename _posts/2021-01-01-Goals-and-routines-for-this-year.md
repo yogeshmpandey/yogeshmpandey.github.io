@@ -12,7 +12,7 @@ Every year I try to create some goals for myself and they fade out as life happe
 
 Quarter 1 Update [01-01-2021] to [31-03-2021] - _Done_
 
-Quarter 2 Update [31-03-2021] to [31-06-2021] -
+Quarter 2 Update [31-03-2021] to [31-06-2021] - _Done_
 
 Quarter 3 Update [01-06-2021] to [31-09-2021] -
 
