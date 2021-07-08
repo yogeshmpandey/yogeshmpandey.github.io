@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Goals and routines for 2021"
+title:  "2021 : Goals and routines"
 date:   2021-01-01 11:52:38
 categories: Life
 tags: [Life, Learning, Goals]
@@ -8,7 +8,9 @@ image:
   background: witewall_3.png
 ---
 
-Every year I try to create some goals for myself and they fade out as life happens. But this year is different, this year I am publishing my goals public, making myself more accountable. These goals are based on [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) approach I will review these goals every three months and provide an update on the same. Be fitter, happier and more productive.
+Every year I try to create some goals for myself and they fade out as life happens. But this year is different, this year I am publishing my goals public, making myself more accountable. 
+
+These goals are based on [OKR](https://rework.withgoogle.com/guides/set-goals-with-okrs/steps/introduction/) approach I will review these goals every three months and provide an update on the same. Be fitter, happier and more productive.
 
 
 | Goal - Name 	| Quarter - 1 	| Quarter - 2 	| Quarter - 3 	| Quarter - 4 	|
