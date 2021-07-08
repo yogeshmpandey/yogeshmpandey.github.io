@@ -82,5 +82,3 @@ root.mainloop()
 - How to manage widget placement. We can do this using Geometry management. There are different Geometry managers. Each is created for diffrent uses.
 
 - Event handling.  Using command property or event bindings
-
-

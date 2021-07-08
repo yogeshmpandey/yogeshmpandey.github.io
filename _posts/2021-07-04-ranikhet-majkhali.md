@@ -9,7 +9,7 @@ image:
   background: witewall_3.png
 ---
 
-> In every walk with nature one receives far more than he seeks...
+<em>In every walk with nature one receives far more than he seeks... </em>
 
 <img src="https://i.imgur.com/qinoIYK.jpg" alt="majkhali">
 
@@ -100,7 +100,7 @@ In the evening we went to Majkhali. I wanted to visit this place as it has the b
 
 <img src="https://i.imgur.com/ONAyWxm.jpg" alt="majkhali">
 > Coming Back, Old Kumaoni House on the way
-d
+
 This trip aimed to unwind and recharge and the pictures would confirm that we must say we were more than successful in doing that. 
 
 Happy Travelling, till we meet again. 
