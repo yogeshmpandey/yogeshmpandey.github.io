@@ -23,8 +23,8 @@ These goals are based on [OKR](https://rework.withgoogle.com/guides/set-goals-wi
 |Exercise Everyday (GW : 76).|HP:2120, WT:82 | HP:3297, WT:79 |HP:4188, WT:76|
 |█████ ██ ██████ ███|    Done 	|  Done 	|    Done 	|  Done	|
 |Publish 20 Good Blogs.|   2/20 	|    26/20  	|Done||
-|Read 20 Books.|  4/20 	|       10/20|11/20|             	|
-|Wake up before 6 am.|9/90 |   35/90	|34/90|             	|
+|Read 20 Books.|  4/20 	|       10/20|11/20| 	|
+|Wake up before 6 am.|9/90 |   35/90	|34/90|    	|
 
 <br>
 
