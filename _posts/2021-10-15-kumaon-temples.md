@@ -64,6 +64,15 @@ The plan goes like this:-
 <img src="https://i.imgur.com/Q8mQ4Tl.jpg" alt="Kumaon_temples">
 > Syahi Devi Temple and Himalyan View
 
+<img src="https://i.imgur.com/9uBT64i.jpg" alt="Kumaon_temples">
+>FRH at Sitlakhet
+
+<img src="https://i.imgur.com/kW9oX0j.jpg" alt="Kumaon_temples">
+> Punchachuli Peaks from Sitalkhet
+
+<img src="https://i.imgur.com/VaRvOTp.jpg" alt="Kumaon_temples">
+> Katarmal Sun Temple
+
 <img src="https://i.imgur.com/BkwCobe.jpg" alt="Kumaon_temples">
 > Kasar Devi Temple
 
@@ -72,9 +81,6 @@ The plan goes like this:-
 
 <img src="https://i.imgur.com/3htdWsY.jpg" alt="Kumaon_temples">
 > Sunrise from Rainbow Kasar Temple
-
-<img src="https://i.imgur.com/VaRvOTp.jpg" alt="Kumaon_temples">
-> Katarmal Sun Temple
 
 <img src="https://i.imgur.com/Jti6V0a.jpg" alt="Kumaon_temples">
 > Books at the Rainbow Resort
@@ -87,12 +93,5 @@ The plan goes like this:-
 
 <img src="https://i.imgur.com/vfCsY61.jpg" alt="Kumaon_temples">
 >Neem Karoli Temple
-
-<img src="https://i.imgur.com/9uBT64i.jpg" alt="Kumaon_temples">
->FRH at Sitlakhet
-
-<img src="https://i.imgur.com/kW9oX0j.jpg" alt="Kumaon_temples">
-> Punchachuli Peaks from Sitalkhet
-
 
 Happy Travelling, till we meet again. 
