@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PhotoBlog - Kumaoni Temples"
-date:   2021-07-04 03:52:38
+date:   2021-10-15 03:52:38
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, RoadTrip, Himalayas, Photoblog, WeekendDiaries]
@@ -27,12 +27,12 @@ The plan goes like this:-
 - Day 2 :
   - Second Temple : <a href="https://www.euttaranchal.com/tourism/sitlakhet.php" target="_blank">Syahi Devi</a>
   - Third Temple : <a href="https://www.euttaranchal.com/tourism/katarmal-sun-temple.php" target="_blank">Katarmal Surya Temple</a>
-  - Fourth Temple : Kasar Devi Temple
+  - Fourth Temple : <a href="https://en.wikipedia.org/wiki/Kasar_Devi" target="_blank">Kasar Devi Temple </a>
   - Stay in Kasar Devi Rainbow Yoga Resort
 
 - Day 3:
-  - Fifth Temple : Chitai Golu Temple
-  - Sixth Temple : Kainchi Dham Temple
+  - Fifth Temple : <a href="https://www.euttaranchal.com/tourism/chitai-golu-devta-temple.php " target="_blank">Chitai Golu Temple </a>
+  - Sixth Temple : <a href="https://www.euttaranchal.com/tourism/kainchi-dham-nainital.php" target="_blank">Kainchi Dham Temple  </a>
 
 <img src="https://i.imgur.com/44MiC7c.png" alt="Kumaon_temples">
 > The Plan 
@@ -93,5 +93,6 @@ The plan goes like this:-
 
 <img src="https://i.imgur.com/kW9oX0j.jpg" alt="Kumaon_temples">
 > Punchachuli Peaks from Sitalkhet
+
 
 Happy Travelling, till we meet again. 
