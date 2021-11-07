@@ -31,8 +31,8 @@ The plan goes like this:-
   - Stay in Kasar Devi Rainbow Yoga Resort
 
 - Day 3:
-  - Fifth Temple : <a href="https://www.euttaranchal.com/tourism/chitai-golu-devta-temple.php " target="_blank">Chitai Golu Temple </a>
-  - Sixth Temple : <a href="https://www.euttaranchal.com/tourism/kainchi-dham-nainital.php" target="_blank">Kainchi Dham Temple  </a>
+  - Fifth Temple : <a href="https://www.euttaranchal.com/tourism/chitai-golu-devta-temple.php " target="_blank">Chitai Golu Temple</a>
+  - Sixth Temple : <a href="https://www.euttaranchal.com/tourism/kainchi-dham-nainital.php" target="_blank">Kainchi Dham Temple</a>
 
 <img src="https://i.imgur.com/44MiC7c.png" alt="Kumaon_temples">
 > The Plan 
