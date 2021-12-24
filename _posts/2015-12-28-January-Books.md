@@ -17,7 +17,7 @@ This year I am not reading that much as I did in the previous year but still try
 
 - Getting Started with Raspberry Pi(Matt Richardson, Shawn Wallace) : Gives a good overview of the different things you can do with the Pi. Most importantly very inexpensive book.
 
-- One Minute Manager : This is a great little introduction to personnel management. This smart little book is easy to read and goes straight to the point. As its title suggests, it can be read quickly and you'll be able to benefit from its teaching right away, which makes it a good example in itself for a book on time management and productivity.
+- One Minute Manager : This is a great little introduction to personal management. This smart little book is easy to read and goes straight to the point. As its title suggests, it can be read quickly and you'll be able to benefit from its teaching right away, which makes it a good example in itself for a book on time management and productivity.
 
 - <a href="https://www.amazon.in/Feynmans-Rainbow-Search-Physics-Vintage/dp/0307946495">Feynman's Rainbow</a>: A Search for Beauty in Physics and in Life: This is a simple and sweet book. Initially, I thought that this book is about the life of Richard Feynman. But it is actually about the small but insightful talks author had with Feynman's in his last days and how it shaped his future and life. Good read worth the time.
 
