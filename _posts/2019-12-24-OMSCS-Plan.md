@@ -44,7 +44,7 @@ The Plan I have is as follows:-
 | Spring 2020 | Elective    | **CV**                                  | Done    | A     | 4.024 | 20.463         |
 | Summer 2020 | Elective    | **EdTech**                              | Done    | A     | 3.5   | 13.626         |
 | Fall 2020   | Elective    | Machine Learning                        | Done    | B     | 4.5   | 22             |
-| Spring 2021 | Core        | Artifical Intelligence                  | Done    | A     | 4.18  | 21             |
+| Spring 2021 | Core        | Artificial Intelligence                 | Done    | A     | 4.18  | 21             |
 | Summer 2021 | Elective    | **ML4T**                                |         | -     | 2.8   | 13.6           |
 | Fall 2021   | Core        | **Introduction to Graduate Algorithms** |         | -     | 4.33  | 24.885         |
 | Spring 2022 | Elective    | **Deep Learning**                       |         | -     | >4    | 20.885         |
