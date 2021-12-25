@@ -19,7 +19,7 @@ This course is a tutorial series for the DCA exam using Docker EE. This Lesson d
 
   - Bridge: Default NW.
   - Host: Removes network isolation, connects directly to host. 
-  - Overlay: Only in Docker EE, to connect multiple docker hosts. 
+  - Overlay: Only in Docker EE, to connect multiple docker hosts.
   - Macvlan: Support to connects VLAN. Clones host interfaces. 
   - None: No networking accessibility.
   - Other nw plugins.
