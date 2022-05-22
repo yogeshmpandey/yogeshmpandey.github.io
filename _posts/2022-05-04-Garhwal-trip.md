@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unplanned Trek and more"
+title:  "An Unplanned Trek and more"
 date:   2022-05-04 03:52:38
 categories: Travel
 hidden: true
