@@ -50,7 +50,7 @@ The Plan I have is as follows:-
 | Fall 2020   | Elective    | Machine Learning                        | Done    | B     | 4.5   | 22             |
 | Spring 2021 | Core        | Artificial Intelligence                 | Done    | A     | 4.18  | 21             |
 | Summer 2021 | Elective    | **ML4T**                                | Done    | A     | 2.8   | 13.6           |
-| Fall 2021   | Core        | **AI Ethics and Society** |         | Done   | A  | 5         |
+| Fall 2021   | Core        | **AI Ethics and Society** |    Done     |  A  |   2.2   | 5   |
 | Spring 2022 | Elective    | **Graduate Algorithms**                       |         | -     | >4    | 20.885         |
 
 With this plan, I cover all the necessary pre-requisites for an ML Specialization. It also covers the required pre-requisite in Interactive Intelligence.
