@@ -1,71 +1,61 @@
-title:     Perpetual Musings
-description:      Thoughts and Rants
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+title: Perpetual Musings
+description: >- # this means to ignore newlines until "baseurl:"
+  Thoughts of a average Techie
+url: "https://yogeshpandey.in" # the base hostname & protocol for the site
 disqus_shortname: yogesh-pandey
 comments: true
 reading_time:     true
 words_per_minute: 120
-# Your site's domain goes here (eg: //mmistakes.github.io, https://mademistakes.com, etc)
-# When testing locally leave blank or use https://localhost:4000
-url:
-# Owner/author information
-owner:
-  name:           Yogesh Pandey
-  avatar:         avatar.jpg
-  bio:            "A online slice of my life"
-  # Social networking links used in footer. Update and remove as you like.
-  email:
-  twitter:        
-  github:         yogeshmpandey
-  stackexchange:
-  linkedin:
-  flickr:
-  tumblr:
-  # google plus id, include the '+', eg +mmistakes
+og_image: /assets/img/profile-pic.jpg
+google_analytics: "UA-58445322-1"
 
-# Background image to be tiled on all pages
-background:
+header:
+  pages:
+    - name: Home
+      slug: /
+    # - name: Work
+    #   slug: /work
+    - name: Tech
+      slug: /tech
+    - name: Travel
+      slug: /travel
+    - name: Other
+      slug: /other
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:   UA-58445322-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+footer:
+  show_powered_by: true
+  contact:
+    - name: Twitter
+      link: http://twitter.com/yogeshmpandey
+      username: "@yogeshmpandey"
+  follow:
+    - name: LinkedIn
+      link: http://linkedin.com/in/yogeshmohanpandey
+    - name: GitHub
+      link: http://github.com/yogeshmpandey
 
-# https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Kolkata
-future:      true
-highlighter: rouge
-markdown:    kramdown
-gems:
-  - jekyll-sitemap
-  - jemoji
-  - octopress-quote-tag
-  - jekyll-seo-tag
+# Build settings
+markdown: kramdown
 sass:
-  sass_dir: _sass
-  style: compressed
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-# Amount of post to show on home page
-paginate: 1
+    style: :compressed
 plugins:
-  - jekyll-seo-tag
+  - jekyll-feed
 
-kramdown:
-  auto_ids: true
-  footnote_nr: 2
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - feed.xml
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
-  coderay:
-    coderay_line_numbers: nil
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+# Used for defeating caching
+version: 1
