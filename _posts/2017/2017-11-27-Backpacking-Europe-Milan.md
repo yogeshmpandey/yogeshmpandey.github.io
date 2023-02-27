@@ -15,7 +15,7 @@ And Since, Milan was the most watched city of my teenage years. A visit to Milan
 
 **_Read other Eurotrip Blogs:_**
 
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
++ <a href="/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
 + <a href="https://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
 + <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
 + <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
