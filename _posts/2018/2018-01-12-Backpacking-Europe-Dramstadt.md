@@ -15,24 +15,26 @@ Thursday, while I was looking at this weekend temperature in Innsbruck, a place 
 
 **_Read other Eurotrip Blogs:_**
 
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-zurich/">Backpacking Europe : Zurich</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-versailles/">Backpacking Europe : Versailles</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Paris/">Backpacking Europe : Paris</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Manchester/">Backpacking Europe : Manchester</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Liverpool">Backpacking Europe : Liverpool</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Munich/">Backpacking Europe : Munich</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-bled/">Backpacking Europe : Bled</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Ljubljana/">Backpacking Europe : Ljubljana</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Innsbruck/">Backpacking Europe : Innsbruck</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Dramstadt/">Backpacking Europe : Darmstadt</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Bratislava/">Backpacking Europe : Bratislava</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Vienna/">Backpacking Europe : Vienna</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Budapest/">Backpacking Europe : Budapest</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Prague/">Backpacking Europe : Prague</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Milan/">Backpacking Europe : Milan</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-ROME/">Backpacking Europe :  Rome</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Berlin/">Backpacking Europe : Berlin</a>
-+ <a href="https://yogeshpandey.in/travel/Backpacking-Europe-Amsterdam/">Backpacking Europe : Amsterdam</a>
++ <a href="https://yogeshpandey.in/travel/2018/03/22/Backpacking-Europe-Lucerne.html/">Backpacking Europe : Lucerne and Zug</a>
++ <a href="https://yogeshpandey.in/travel/2018/03/20/Backpacking-Europe-zurich.html/">Backpacking Europe : Zurich</a>
++ <a href="https://yogeshpandey.in/travel/2018/03/15/Backpacking-Europe-versailles.html">Backpacking Europe : Versailles</a>
++ <a href="https://yogeshpandey.in/travel/2018/03/14/Backpacking-Europe-Paris.html">Backpacking Europe : Paris</a>
++ <a href="https://yogeshpandey.in/travel/2018/03/02/Backpacking-Europe-Manchester.html">Backpacking Europe : Manchester</a>
++ <a href="https://yogeshpandey.in/travel/2018/03/01/Backpacking-Europe-Liverpool.html">Backpacking Europe : Liverpool</a>
++ <a href="https://yogeshpandey.in/travel/2018/02/16/Backpacking-Europe-Munich.html">Backpacking Europe : Munich</a>
++ <a href="https://yogeshpandey.in/travel/2018/02/09/Backpacking-Europe-bled.html">Backpacking Europe : Bled</a>
++ <a href="https://yogeshpandey.in/travel/2018/02/08/Backpacking-Europe-Ljubljana.html">Backpacking Europe : Ljubljana</a>
++ <a href="https://yogeshpandey.in/travel/2018/01/28/Backpacking-Europe-Innsbruck.html">Backpacking Europe : Innsbruck</a>
++ <a href="https://yogeshpandey.in/travel/2018/01/12/Backpacking-Europe-Dramstadt.html">Backpacking Europe : Darmstadt</a>
++ <a href="https://yogeshpandey.in/travel/2018/01/12/Backpacking-Europe-Bratislava.html">Backpacking Europe : Bratislava</a>
++ <a href="https://yogeshpandey.in/travel/2018/01/11/Backpacking-Europe-Vienna.html">Backpacking Europe : Vienna</a>
++ <a href="hhttps://yogeshpandey.in/travel/2018/01/09/Backpacking-Europe-Budapest.html">Backpacking Europe : Budapest</a>
++ <a href="https://yogeshpandey.in/travel/2018/01/07/Backpacking-Europe-Prague.html">Backpacking Europe : Prague</a>
++ <a href="https://yogeshpandey.in/travel/2017/11/28/Backpacking-Europe-Milan.html">Backpacking Europe : Milan</a>
++ <a href="https://yogeshpandey.in/travel/2017/11/27/Backpacking-Europe-ROME.html">Backpacking Europe :  Rome</a>
++ <a href="https://yogeshpandey.in/travel/2017/11/18/Backpacking-Europe-Berlin.html">Backpacking Europe : Berlin</a>
++ <a href="https://yogeshpandey.in/travel/2017/10/28/Backpacking-Europe-Amsterdam.html">Backpacking Europe : Amsterdam</a>
++ <a href="https://yogeshpandey.in/travel/2017/10/19/Trek-to-Herzogstand-via-Heimgarten.html">Backpacking Europe : Trek to Herzogstand </a>
 
 
 Darmstadt is a small quaint city near Frankfurt. The first place we visited in Darmstadt was Park Rosenhöhe. It is a historic park on a hill in eastern Darmstadt. Its special features include a Rosarium with Rosendom on the top of the hill, the mausoleums of the Princely House and the tombs of the family of the last Grand Duke Ernst Ludwig. On the edge of the park are also the buildings of the new artists' colony Rosenhöhe. The time we visited the park it was freezing cold and all the trees were bald and there no flowers to blossom. It felt like ordering a phone online but getting a brick. :stuck_out_tongue_winking_eye: :stuck_out_tongue_closed_eyes: :grinning:

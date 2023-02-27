@@ -77,10 +77,10 @@ We were blessed to have the clear weather on the top. Our cameras could not stop
 
 **_Read other Kumaon Trip Blogs:_**
 
-+ <a href="https://yogeshpandey.in/travel/Nainital/">PhotoBlog : Nainital Again</a>
-+ <a href="https://yogeshpandey.in/travel/Kausani/">A stopover in Kausani</a>
-+ <a href="https://yogeshpandey.in/travel/Chaukori/">Chaukori, an idyllic village</a>
-+ <a href="https://yogeshpandey.in/travel/Munsyari/">Munsyari, A glimpse of Paradise</a>
-+ <a href="https://yogeshpandey.in/travel/Khaliya-Top/">Khuliya Top Trek</a>
++ <a href="https://yogeshpandey.in/travel/2020/12/18/Nainital.html">PhotoBlog : Nainital Again</a>
++ <a href="https://yogeshpandey.in/travel/2020/12/20/Kausani.html">A stopover in Kausani</a>
++ <a href="https://yogeshpandey.in/travel/2020/12/22/Chaukori.html">Chaukori, an idyllic village</a>
++ <a href="https://yogeshpandey.in/travel/2020/12/23/Munsyari.html">Munsyari, A glimpse of Paradise</a>
++ <a href="https://yogeshpandey.in/travel/2020/12/24/Khaliya-Top.html">Khuliya Top Trek</a>
 
 
