@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023/2023-04-Lansdowne_Trip.md",
+                "file": "_posts/2023/2023-04-26-Lansdowne_Trip.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023/2023-04-Lansdowne_Trip.md",
+                "file": "_posts/2023/2023-04-26-Lansdowne_Trip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023/2023-04-Lansdowne_Trip.md",
+                "file": "_posts/2023/2023-04-26-Lansdowne_Trip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023/2023-04-Lansdowne_Trip.md"
+                "file": "_posts/2023/2023-04-26-Lansdowne_Trip.md"
               }
             }
           }
@@ -157,7 +157,7 @@
   "active": "939655d5147627a6",
   "lastOpenFiles": [
     "_posts/2023/2023-01-26-Saurashtra-Trip.md",
-    "_posts/2023/2023-04-Lansdowne_Trip.md",
+    "_posts/2023/2023-04-26-Lansdowne_Trip.md",
     "work.md",
     "travel.md",
     "tech.md",
