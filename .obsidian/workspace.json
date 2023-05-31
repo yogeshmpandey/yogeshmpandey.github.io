@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "c2c161e2e28c1399",
+    "type": "split",
+    "children": [
+      {
+        "id": "126260e1e901b18a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "939655d5147627a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023/2023-04-Lansdowne_Trip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4aa914bc142017c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0f81530b1a79a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae08887912359652",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5f4e9deb6e454d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0082ae50b15c5332",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3fa54de7f3f0eb1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "eba7fffcdeb774b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e75310bacf3a4a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1657ca81b694fbcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023/2023-04-Lansdowne_Trip.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04d24df9d0680b6d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023/2023-04-Lansdowne_Trip.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b2407970f5ddd77e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47100410e6616dfa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023/2023-04-Lansdowne_Trip.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "939655d5147627a6",
+  "lastOpenFiles": [
+    "_posts/2023/2023-01-26-Saurashtra-Trip.md",
+    "_posts/2023/2023-04-Lansdowne_Trip.md",
+    "work.md",
+    "travel.md",
+    "tech.md",
+    "README.md",
+    "other.md",
+    "CHANGELOG.md",
+    "index.md",
+    "404.md",
+    "_posts/2016/2016-02-15-Jammu-and-Kashmir.md"
+  ]
+}
