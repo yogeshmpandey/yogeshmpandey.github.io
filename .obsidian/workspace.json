@@ -11,8 +11,12 @@
             "id": "749a062f973b1ccc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023/2023-04-26-Varanasi-Sarnath-Trip.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2023/2023-04-26-Varanasi-Sarnath-Trip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2023/2023-04-26-Varanasi-Sarnath-Trip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2023/2023-04-26-Varanasi-Sarnath-Trip.md"
+              }
             }
           }
         ]
@@ -146,9 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "749a062f973b1ccc",
+  "active": "ae08887912359652",
   "lastOpenFiles": [
     "_posts/2023/2023-04-26-Lansdowne-Trip.md",
+    "_posts/2023/2023-04-26-Varanasi-Sarnath-Trip.md",
     "_posts/2023/2023-01-26-Saurashtra-Trip.md",
     "work.md",
     "travel.md",
