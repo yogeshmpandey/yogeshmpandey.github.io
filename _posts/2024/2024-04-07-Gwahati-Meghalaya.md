@@ -29,9 +29,6 @@ image:
 <img src="https://i.imgur.com/kmNCWvf.jpg" alt="Shillong">
 >
 
-<img src="https://i.imgur.com/5cSggfa.jpg" alt="Shillong">
->
-
 <img src="https://i.imgur.com/yHSxMvl.jpg" alt="Shillong">
 >
 
@@ -52,6 +49,10 @@ image:
 <img src="https://i.imgur.com/HWN8xJr.jpg" alt="Shillong">
 >
 
-<img src="https://i.imgur.com/FjfTjH9.jpg" alt="Shillong">
+
+
+<img src="https://i.imgur.com/5cSggfa.jpg" alt="Shillong">
 >
 
+<img src="https://i.imgur.com/FjfTjH9.jpg" alt="Shillong">
+>
