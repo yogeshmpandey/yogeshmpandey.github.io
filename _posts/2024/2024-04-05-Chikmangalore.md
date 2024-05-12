@@ -32,14 +32,13 @@ The panoramic view from the summit was nothing short of mesmerizing, with lush g
 
 Amidst our adventures, we stumbled upon a serene temple nestled amidst the verdant landscape, offering a moment of tranquility amidst the excitement of our journey.
 
+From the temple's vantage point, we beheld a sweeping vista of the valley below, a sight that left us in awe of nature's grandeur and beauty.
+
 <img src="https://i.imgur.com/0zcIfvr.jpg" alt="Chikmagalur">
 > Serene Temple
 
 <img src="https://i.imgur.com/wUGQsRX.jpg" alt="Chikmagalur">
 > Valley Vista from the Temple
-
-From the temple's vantage point, we beheld a sweeping vista of the valley below, a sight that left us in awe of nature's grandeur and beauty.
-
 
 Our final stop led us to the majestic Jhari Falls, where the cascading waters provided a refreshing respite from the day's adventures, inviting us to immerse ourselves in its cool embrace.
 
