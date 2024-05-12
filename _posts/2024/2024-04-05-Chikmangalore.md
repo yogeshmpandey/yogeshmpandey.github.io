@@ -1,7 +1,7 @@
 ﻿---
 layout: post
-title:  "Saurashtra Travelogues"
-date:   2023-01-26 03:52:38
+title:  "Chikmagalur Weekend"
+date:   2024-03-26 03:52:38
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, RoadTrip, Himalayas, Photoblog, WeekendDiaries]
