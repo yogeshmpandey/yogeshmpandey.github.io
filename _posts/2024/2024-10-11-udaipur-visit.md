@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mewar Trip: Udaipur"
-date: 2024-11-11 23:02:27
+date: 2024-10-11 23:02:27
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, RoadTrip, Rajasthan, Photoblog, WeekendDiaries]

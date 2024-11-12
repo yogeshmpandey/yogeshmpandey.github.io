@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mewar Trip: Kota"
-date: 2024-11-11 22:58:53
+date: 2024-10-09 22:58:53
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, RoadTrip, Rajasthan, Photoblog, WeekendDiaries]

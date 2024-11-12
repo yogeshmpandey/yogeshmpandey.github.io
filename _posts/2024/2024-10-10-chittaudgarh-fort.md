@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mewar Trip: Chittorgarh"
-date: 2024-11-11 22:58:06
+date: 2024-10-10 22:58:06
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, RoadTrip, Rajasthan, Photoblog, WeekendDiaries]

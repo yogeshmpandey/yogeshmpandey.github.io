@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mewar Trip : Pushkar"
-date:   2024-04-07 03:52:38
+date:   2024-10-12 03:52:38
 categories: Travel
 hidden: true
 tags: [Travel, Backpacking, RoadTrip, Himalayas, Photoblog, WeekendDiaries]
