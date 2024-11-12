@@ -10,7 +10,7 @@ image:
 ---
 <img src="https://i.imgur.com/A4AKFfq.jpg" alt="A Day in Pushkar">
 
-Pushkar was the last stop in our Mewar Trip. After Reaching Ajmer from Udaipur in the Vande Bharat express, we took a cab directly to out RTDC in Pushkar. The Pushkar RTDC is a unique Heritage property that was one a guest house of the Mewar Maharaja. After reaching the property it felt very surreal, One of the gates used to open directly to the Pushkar lake but was not closed. 
+Pushkar was the last stop on our Mewar trip. After reaching Ajmer from Udaipur on the Vande Bharat Express, we took a cab directly to our stay at the RTDC in Pushkar. The Pushkar RTDC is a unique heritage property, once a guest house of the Mewar Maharaja. As we arrived, we were struck by its surreal ambiance; one of its gates used to open directly to Pushkar Lake, though it is now closed.
 
 <img src="https://i.imgur.com/NeWNJlK.jpg" alt="A Day in Pushkar">
 >View of the hills along Pushkar Ghati
@@ -21,7 +21,9 @@ Pushkar was the last stop in our Mewar Trip. After Reaching Ajmer from Udaipur i
 <img src="https://i.imgur.com/7TDJnng.jpg" alt="A Day in Pushkar">
 > Our stay in Pushkar
 
-After getting freshen up our day was spent exploring the city and the various temples in the city. The city is famous for its Brahma Temple, the only Brahma temple in the world. The temple is situated near the Pushkar lake and is a must visit for all the tourists. To our surprise there were very few devotees at the temple at that time.
+After freshening up, we spent the day exploring the city and its famous temples. The highlight was the Brahma Temple—one of a kind, as it’s the only Brahma temple in the world. Located near Pushkar Lake, it’s a must-visit for anyone coming to the city. Surprisingly, it wasn’t too crowded when we visited.
+
+In the evening, we wandered around the lake, eventually treating ourselves to a special dessert, Malai Rabri, after dinner.
 
 <img src="https://i.imgur.com/5ywHhlG.jpg" alt="A Day in Pushkar">
 >Rangji Temple
@@ -29,8 +31,7 @@ After getting freshen up our day was spent exploring the city and the various te
 <img src="https://i.imgur.com/8gqnAto.jpg" alt="A Day in Pushkar">
 > Cozy cafe in Pushkar
 
-After travelling around the lake and back, we stuffed ourself up with the special Malai Rabri after Dinner. Next morning we woke up early and went to a uphill short hike to Gayatri Mata Mandir. Pushkar is a very walkable city that helped in going to the temple top with much hassle. In the early morning the City was same like any other city, children dressed up for the school, milkman delivering the milk and etc etc. After walking some 2 kms, the path took a straight uphill route. The route was good, surrounded by melodious sound of peacocks in the desert forest. 
-
+The next morning, we woke up early for a short hike to the Gayatri Mata Mandir. Pushkar is very walkable, which made reaching the temple straightforward and enjoyable. The city was coming to life with familiar morning routines—children heading to school, milkmen delivering milk, and vendors setting up for the day. After about 2 kilometers, the trail led us straight uphill through a peaceful desert forest filled with the melodic calls of peacocks.
 
 <img src="https://i.imgur.com/xJyWm5G.jpg" alt="A Day in Pushkar">
 >One of many peacocks, that I found on my way to the hill top
@@ -59,4 +60,4 @@ After travelling around the lake and back, we stuffed ourself up with the specia
 <img src="https://i.imgur.com/c8mP7d3.jpg" alt="A Day in Pushkar">
 > A old Idol atop the hill temple
 
-The temple top provided an amazing view of the city. One part of the city was still covered in the mist and another part (the hilly part) was quite clear. After soaking up the views from the top, we went back and bid goodbye to Pushkar.
+At the temple summit, we were greeted with stunning views of Pushkar. Part of the city lay under a misty veil, while the surrounding hills stood clear in the morning light. From this vantage, we could also see the Pushkar Gurudwara, various lake views, and the distant Savitri Mata Temple. After soaking in the breathtaking panoramas, we made our way back, savoring our last moments in Pushkar before bidding farewell.
